@@ -3,11 +3,9 @@
 这篇分析报告是为某网红咖啡店的运营给出的咨询建议，整篇报告将按照标准的CRISP-DM分析框架进行分析。具体包含六个部分：
 
 1. 业务问题
-2. 数据理解
-3. 数据准备
-4. 分析和建模
-5. 模型评估
-6. 建议的决策
+2. 数据理解和准备
+3. 分析和建模
+4. 建议的决策
 
 ## 一. 业务问题
 
@@ -84,5 +82,49 @@ ORDER BY hour;
 ![](./hour_sales.png)
 从上图可以看出咖啡厅每天售卖商品的高峰期为早上8点以后到下午17点以前，在中午11点左右达到顶峰。
 
-## 四. 模型评估
-## 五. 建议的决策
+### 5. 销售订单中商品组合频繁出现的项
+我将订单数据中的items_in_order字段单独拿出来，拆分单元格，然后导出成文本文件，每行代表一个订单中购买过的商品，我再清洗和整理这个文本数据，然后写了个简单的Python代码，读取每个订单购买的商品，做去重和排序，然后统计了前20个频繁出现的关联购买项。
+
+Python源代码：
+
+```py
+from collections import Counter
+
+transactions = []
+
+with open('./coffee-shop-data.txt', 'r') as f:
+    for line in f:
+        items = tuple(sorted(list(set(line[:-1].split(',')))))
+        transactions.append(items)
+
+print('Top 20 transactions: ')
+for item in Counter(transactions).most_common(20):
+    if len(item[0]) > 1:
+        print('{} count {}'.format(item[0], item[1]))
+```
+运行这段代码：
+```
+python3 ./frequent_items.py 
+```
+得到结果：
+```
+Top 20 transactions: 
+('Bread', 'Coffee') count 287
+('Coffee', 'Pastry') count 180
+('Cake', 'Coffee') count 137
+('Coffee', 'Medialuna') count 128
+('Coffee', 'Sandwich') count 105
+('Bread', 'Pastry') count 104
+('Coffee', 'Tea') count 97
+('Coffee', 'Toast') count 90
+('Coffee', 'Cookies') count 71
+('Coffee', 'Muffin') count 63
+```
+
+## 四. 建议的决策
+
+通过上面的分析，我们得到如下建议：
+1. 对于咖啡厅的热卖产品（咖啡，面包，茶叶，点心和蛋糕等）可以适当增大进货量，对于销量不高的其他产品，可以少采购一些，以节约成本；
+2. 在12月和1月这两个月商品的销量比其他几个月略低，可以考虑少进货；
+3. 在每天的高峰期时间到来之前，要提前做好准备，适当增加工作人员数量以应对购买需求；
+4. 对于排名前20的关联商品，可以做成热卖商品套餐组合，然后做产品推广。

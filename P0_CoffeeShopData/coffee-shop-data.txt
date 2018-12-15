@@ -1,0 +1,9465 @@
+Bread
+Scandinavian,Scandinavian
+Hot chocolate,Jam,Cookies
+Muffin
+Coffee,Pastry,Bread
+Medialuna,Pastry,Muffin
+Medialuna,Pastry,Coffee,Tea
+Pastry,Bread
+Bread,Muffin
+Scandinavian,Medialuna
+Bread,Medialuna,Bread
+Jam,Coffee,Tartine,Pastry,Tea
+Basket,Bread,Coffee
+Bread,Medialuna,Pastry
+Mineral water,Scandinavian
+Bread,Medialuna,Coffee
+Hot chocolate
+Farm House
+Farm House,Bread
+Bread,Medialuna
+Coffee,Coffee,Medialuna,Bread
+Jam
+Scandinavian,Muffin
+Bread
+Scandinavian
+Fudge
+Scandinavian
+Coffee,Bread
+Bread,Jam
+Bread
+Basket
+Scandinavian,Muffin
+Coffee
+Coffee,Muffin
+Muffin,Scandinavian
+Tea,Bread
+Coffee,Bread
+Bread,Tea
+Scandinavian
+Juice,Tartine,Coffee,Muffin
+Scandinavian
+Bread,Tea
+Scandinavian,Fudge
+Coffee,Medialuna
+Coffee,Hot chocolate,Medialuna
+Coffee
+Ellas Kitchen Pouches,Juice,Bread,Muffin,Jam
+Coffee
+Coffee,Coffee,Medialuna
+Bread,Victorian Sponge
+Bread
+Scandinavian
+Bread
+Frittata,Coffee,Tea,Hearty & Seasonal
+Coffee,Frittata
+Scandinavian
+Victorian Sponge,Hot chocolate,Tea,Soup
+Tea
+Cookies,Coffee,Juice,Coffee
+Coffee
+Pick and Mix Bowls,Hearty & Seasonal,Hearty & Seasonal,Coffee,Smoothies,Coffee
+Coffee
+Cake
+Tartine,Mighty Protein,Tea,Coffee
+Hearty & Seasonal,Frittata,Mineral water
+Hearty & Seasonal,Mineral water,Muffin
+Frittata,Coffee,Tea,Scandinavian,Chicken sand
+Bread,Tea,Victorian Sponge
+Fudge
+Muffin
+Coffee,Bread
+Bread
+Coffee,Bread
+Jam,Frittata
+Coffee
+Scandinavian
+Fudge
+Fudge,Tea,Coffee,Muffin
+Frittata,Bread,Coffee
+Coffee,Cake
+Tartine,Bread
+Coffee,Bread
+Bread
+Coffee,Coffee,Pastry,Medialuna
+Juice
+Bread
+Coffee,Coffee,Jam
+Bread
+Bread,Coffee
+Tea
+Coffee
+Bread,Coke
+Coffee,Coffee
+Tea,Pastry,Farm House
+Pastry,Pastry,Coffee,Juice
+Coffee,Pastry,Juice
+Farm House
+Pastry,Pastry,Coffee,Bread
+Bread
+Coffee,Pastry
+Farm House
+Bread
+Coffee,Coffee,Medialuna,Muffin,Coffee
+Coffee,Tea,Cake
+Coffee,Coffee,Pastry,Pastry
+Coffee,Tea
+Farm House,Muffin
+Bread,Muffin,Pastry
+Pastry
+Coffee
+Coffee
+Coffee,Cake
+Farm House
+Bread
+Coffee
+Cookies,Cake,Coffee,My-5 Fruit Shoot
+Cookies,Cookies,Tea,Pastry
+Coffee,Coffee,Muffin
+Farm House
+Coffee,Bread
+Cookies
+Jam,Coffee,Coffee,Juice
+Coffee,Soup
+Tea
+Coffee,Jam
+Farm House
+Tartine,Coffee,Tea
+Coffee,Coffee,Cake
+Coffee,Coffee,Muffin
+Bread,Coffee
+Tea,Juice,Pick and Mix Bowls,Cookies
+Hearty & Seasonal,Soup
+Hearty & Seasonal,Tea,Farm House
+Bread
+Tea,Soup
+Farm House
+Soup,Hearty & Seasonal,Coffee
+Bread,Muffin,Hearty & Seasonal
+Coffee,Coffee,Cookies
+Bread
+Tea,Muffin
+Tea
+Soup,Hearty & Seasonal
+Coffee,Tea,Focaccia
+Sandwich
+Tartine,Coffee
+Fudge,Coffee,Coffee
+Coffee
+Bread
+Coke,Soup
+Muffin
+Tea,Coffee,Cookies,Muffin
+Mighty Protein,Hearty & Seasonal,Coffee,Coke
+Tea,Muffin,Sandwich
+Coffee,Muffin
+Coffee,Bread
+Coffee,Muffin
+Bread,Hot chocolate,Cookies
+Mineral water,Muffin
+Tea
+Muffin
+Coffee,Juice
+Coffee,Muffin
+Tea
+Coffee,Muffin
+Sandwich,Hearty & Seasonal,Bread,Mineral water
+Tea,Coffee
+Mineral water
+Coffee
+Soup,Tea
+Bread,Coffee
+Bread,Muffin
+Coffee
+Bread
+Cookies,Coffee
+Coffee,Pastry
+Coffee,Pastry
+Jam,Tea
+Tea,Tea
+Pastry,Pastry,Ellas Kitchen Pouches
+Pastry
+Farm House,Tea
+Tea,Victorian Sponge
+Tea,Pastry
+Bread
+Coffee
+Bread,Coffee
+Coffee,Pastry,Pastry
+Soup,Tea
+Bread
+Coffee
+Bread,Bread
+Bread,Scandinavian
+Bread,Cake,Cookies
+Coffee,Coffee,Tea
+Coffee,Cookies
+Coffee
+Bread
+Coffee,Pastry
+Coffee,Coffee
+Coffee
+Scandinavian,Bread
+Coffee,Coffee,Pastry
+Scandinavian,Coffee,Pastry
+Hearty & Seasonal,Coffee,Muffin
+Bread
+Coffee
+Scandinavian
+Soup,Coffee
+Coffee,Cookies,Tartine
+Bread
+Bread,Tea,Tea
+Pastry,Coffee
+Tartine,Coffee
+Bread,Cookies
+Sandwich
+Tartine
+Bread,Pastry
+Bread,Scandinavian
+Scandinavian
+Alfajores,Coffee
+Coffee
+Coffee,Coke,Soup
+Cake
+Tea,Sandwich,Soup
+Coffee
+Hearty & Seasonal,Bread
+Alfajores
+Cake
+Tea,Tea,Bread
+Coffee,Tea,Bread,Soup
+Coffee,Coffee
+Scandinavian
+Fudge
+Coffee,Sandwich
+Tea,Bread,Cookies,Pastry
+Muffin
+Scandinavian
+Jam,Tea
+Juice,Tea,Alfajores
+Cake,Muffin,Coffee,Soup
+Hot chocolate,Cake,Coffee
+Cake,Cookies
+Tea,Bread
+Alfajores,Coffee,Coffee,Coffee,Juice
+Coffee,Tea,Soup
+Hot chocolate
+Cookies
+Coffee,Medialuna
+Bread,Eggs
+Scandinavian
+Medialuna
+Coffee,Coffee,Pastry
+Coffee,Bread
+Bread,Coffee,Pastry
+Coffee,Pastry
+Pastry
+Coffee
+Coffee
+Coffee,Hot chocolate,Pastry
+Coke
+Coffee,Jam
+Tea
+Bread,Pastry
+Coffee,Alfajores,Farm House
+Tea,Pastry
+Bread
+Coffee,Jam
+Coffee,Tea,Coffee,Pastry
+Farm House
+Coffee,Bread,Pastry
+Farm House
+Coffee,Coffee,Pastry
+Farm House
+Coffee,Pastry
+Coffee
+Coffee,Pastry
+Bread,Bread
+Bread,Coffee,Pastry
+Pastry,Coffee
+Coffee,Farm House
+Farm House,Farm House,Pastry
+Bread,Juice,Alfajores
+Coffee,Pastry
+Bread,Alfajores
+Bread
+Coffee,Cookies
+Coffee
+Cookies
+Hearty & Seasonal
+Coffee
+Jam,Tartine,Bread
+Farm House,Scandinavian
+Hearty & Seasonal,Coffee,Muffin,Scandinavian
+Tartine,Pick and Mix Bowls,Coffee,Coke
+Bread
+Scandinavian,Farm House,Alfajores,Coffee,Coffee
+Juice,Mineral water,Soup
+Soup,Tea
+Juice,Tea,Cookies,Soup
+Hearty & Seasonal,Tea
+Fudge
+Coffee,Mineral water,Juice,Soup
+Hearty & Seasonal
+Hearty & Seasonal,Smoothies
+Hearty & Seasonal,Tea
+Coffee,Sandwich,Sandwich
+Cookies,Farm House
+Soup,Tea,Juice
+Soup
+Coffee
+Bread
+Cookies,Tea
+Soup,Hearty & Seasonal,Bread
+Coffee
+Coffee
+Coffee,Tea
+Bread
+Tea
+Coffee,Tea
+Coffee
+Fudge
+Tea
+Soup,Tea
+Juice
+Alfajores
+Bread
+Coffee,Alfajores
+Juice,Alfajores,Cookies,Pick and Mix Bowls,Mineral water
+Coffee,Alfajores
+Fudge
+Mighty Protein,Juice
+Coffee,Mineral water,Alfajores
+Mighty Protein,Coffee
+Alfajores
+Coffee,Bread
+Medialuna,Medialuna
+Medialuna,Bread
+Farm House
+Coffee,Pastry
+Farm House
+Coffee,Coffee,Pastry,Pastry,Coffee
+Medialuna
+Bread,Tea,Sandwich
+Bread
+Jam,Coffee,Farm House
+Focaccia
+Bread
+Tartine,Pastry,Bread,My-5 Fruit Shoot
+Farm House,Pastry
+Bread,Pastry
+Pastry,Bread
+Jam,Coffee
+Farm House
+Bread,Pastry
+Coffee,Tea,Bread
+Jam
+Pastry,Medialuna,Medialuna
+Coffee
+Tea
+Bread
+Bread,Pastry
+Pastry
+Farm House
+Tea
+Coffee,Brownie,Alfajores,Fudge
+Bread,Fudge,Cookies
+Coffee
+Bread
+Coffee,Coffee,Jam,Pastry
+Soup,Coffee
+Smoothies,Soup,Hearty & Seasonal,Pastry
+Pastry,Bread
+Pastry,Medialuna
+Tea,Coffee
+Bread,Cookies
+Coffee,Coffee,Bread,Hearty & Seasonal,Pick and Mix Bowls,Sandwich,Focaccia
+Coffee
+Coffee,Sandwich,Brownie
+Brownie,Cookies
+Coffee
+Coffee
+Sandwich,Bread,Coffee
+Coffee,Hot chocolate
+Tea
+Sandwich,Coffee,Brownie
+Brownie,Pastry,Focaccia,Farm House
+Cake,Focaccia
+Soup,Hearty & Seasonal,Mineral water
+Hearty & Seasonal
+Hearty & Seasonal
+Coffee,Coffee,Pastry
+Coffee
+Tea,Cake
+Coffee,Soup
+Bread,Focaccia,Fudge
+Hot chocolate,Coffee,Alfajores
+Brownie,Pastry,Cake
+Medialuna,Alfajores,Dulce de Leche
+Dulce de Leche,Alfajores
+Bread,Cake
+Cake,Coffee
+Bread
+Sandwich
+Bread,Coffee,Alfajores,Medialuna
+Coffee
+Bread,Alfajores
+Tea,Coffee
+Bread
+Dulce de Leche
+Farm House
+Fudge
+Coffee
+Coffee,Alfajores,Juice,Ellas Kitchen Pouches,Brownie
+Alfajores
+Alfajores,Brownie,Cookies,Bread,Juice
+Cake,Cookies
+Pick and Mix Bowls
+Coffee
+Farm House
+Tea
+Coffee
+Focaccia,Farm House
+Dulce de Leche
+Juice,My-5 Fruit Shoot,Ellas Kitchen Pouches,Cookies
+Bread
+Hot chocolate
+Coffee
+Coffee
+Coffee
+Medialuna
+Bread,Tea,Jam
+Farm House
+Bread
+Coffee
+Medialuna,Coffee
+Bread
+Medialuna,Pastry,Medialuna
+Coffee,Coffee,Jam
+Bread,Coffee
+Coffee,Coffee
+Bread
+Hot chocolate
+Bread,Medialuna
+Bread,Jam
+Jam,Bread
+Coffee,Bread
+Bread,Farm House
+Bread,Coffee,Coffee
+Tea,Pastry
+Coffee,Coffee
+Bread
+Pastry,Brownie
+Farm House
+Coffee
+Tea,Coffee,Honey,Cookies
+Tea
+Bread
+Brownie
+Bread,Coffee
+Bread
+Coffee
+Tea,Tea
+Tea
+Coffee,Coffee
+Bread,Coffee
+Bread,Bread
+Bread,The BART
+Coffee,Brownie
+Coffee
+Coffee,Brownie
+Mineral water,Coffee,Coffee,Tartine
+Brownie,Coffee
+Brownie,Juice
+Coffee,Coffee,Bread,Tea,Alfajores,Medialuna,Pastry,Jam
+Bread
+Fudge,Fudge
+Coffee,Pick and Mix Bowls
+Pastry,Bread
+Soup,Scandinavian,Coffee,Mineral water
+Juice,Mineral water,Sandwich,Pick and Mix Bowls
+Bread,Pastry,Bread
+Hearty & Seasonal,Hearty & Seasonal,Coffee,Coffee
+Bread,Hearty & Seasonal,Coffee,Mineral water
+Coffee,Tartine,Sandwich,Brownie
+Coffee,Brownie
+Alfajores,Coffee,Tartine
+Mighty Protein,Coffee
+Coffee,Hot chocolate
+Soup,Jam,Coffee,Coffee
+Mineral water,Brownie
+Scandinavian,Coffee
+Scandinavian,Coffee
+Coffee,Coffee
+Coffee,Coffee,Hot chocolate,Brownie,Hearty & Seasonal
+Tea,Cake
+Medialuna
+Alfajores,Tea,Coffee
+Coffee,Juice,Brownie,Alfajores
+Coffee,Sandwich
+Bread,Soup
+Soup,Bread
+Bread
+Tea,Brownie,Cookies
+Coffee,Bread,Brownie
+Brownie
+Cookies,Bread,Jam
+Coffee
+Tea,Brownie,Tea
+Alfajores,Medialuna,Scandinavian
+Hot chocolate,Coffee,Alfajores,Cookies
+Brownie
+Fudge
+Tea,Brownie
+Dulce de Leche,Fudge
+Bread,Scandinavian,Fudge,Granola,Pastry,Coffee
+Bread,Fudge
+Hot chocolate,Coffee,Medialuna,Medialuna
+Bread
+Bread,Medialuna
+Bread,Coffee,Medialuna,Jam
+Jam,Coffee,Brownie
+Bread,Coffee,Jam
+Scandinavian
+Coffee,Cookies
+Coffee,Coffee,Scandinavian
+Bread
+Bread
+Jam,Brownie,Coffee,Coffee
+Coffee
+Brownie,Hot chocolate
+Bread
+Bread,Bread,Medialuna
+Coffee,Hot chocolate,Brownie
+Scandinavian
+Basket,Bread
+Coffee,Bread,Brownie
+Cake,Fudge
+Coffee,Hot chocolate,Coffee,Basket
+Scandinavian
+Scandinavian
+Coffee,Bread,Coffee,Cake,Medialuna
+Coffee,Coffee,Medialuna
+Bread,Pastry
+Bread,Brownie
+Medialuna,Farm House
+Bread,Medialuna
+Brownie,Medialuna,Hot chocolate,Smoothies,Coffee
+Bread,Tea,Coffee,Brownie,Medialuna
+Medialuna,Medialuna,Cookies
+Coffee,Medialuna
+Bread,Fudge
+Coffee,Tea
+Coffee,Cookies
+Pastry,Bread,Brownie
+Bread,Coffee,Bread
+Coffee,Coffee,Tea
+Bread
+Medialuna,Coffee
+My-5 Fruit Shoot,Coffee,Brownie
+Coffee,Fudge
+Coffee
+Coffee,Basket
+Farm House
+Farm House
+Coffee,Brownie
+Scandinavian,Brownie,My-5 Fruit Shoot
+Tartine,Coffee,Hot chocolate,Brownie
+Brownie,Bread,Hot chocolate
+Jam,Fudge
+Coffee
+Fudge
+Mighty Protein,Hearty & Seasonal,Coffee,Tea,Cake
+Coffee
+Scandinavian
+Cake,Victorian Sponge,Scandinavian
+Tea,Cake
+Coffee,Coffee
+Coffee,Coffee
+Bread
+Frittata
+Coffee,Coffee,My-5 Fruit Shoot,Brownie
+Focaccia,Fairy Doors
+Tea,Coffee,Coffee
+Hot chocolate,Hearty & Seasonal,Pick and Mix Bowls,Brownie
+Frittata,Coffee
+Bread,Brownie
+Frittata
+Scandinavian
+Bread
+Farm House
+Pick and Mix Bowls,Jam,Soup,Brownie
+Hearty & Seasonal,Coffee,Tea
+Bread
+Bread,Frittata
+Scandinavian
+Tartine,Hot chocolate,Coffee
+Coffee,Mighty Protein
+Frittata,Coffee
+Scandinavian
+Hearty & Seasonal,Coffee,Mineral water
+Scandinavian
+Bread,Coffee
+Hearty & Seasonal,Soup,Bread,Coffee
+Brownie,Cake,Tea
+Mighty Protein,Coffee
+Coffee,Tea,Brownie,Soup
+Cake
+Hot chocolate,Coffee,Cake
+Hearty & Seasonal,Coffee
+Coffee
+Frittata,Coffee,Brownie
+Sandwich,Frittata,Coke,Mineral water,Brownie
+Granola,Scandinavian
+Coffee,Coke,Coffee
+Tea,Tea,Brownie,Cake
+Fudge
+Coffee
+Brownie
+Cake
+Tea
+Coffee,Coffee,Coffee,Soup,Sandwich,Cake
+Coffee,Bread,Brownie
+Bread,Coffee,Brownie
+Coffee,Bread,Brownie
+Brownie,Coffee
+Coffee,Soup,Brownie
+Fudge
+Bread,Focaccia
+Bread,Farm House,Jam
+Hot chocolate,Brownie
+Hot chocolate
+Coffee,Brownie
+Medialuna,Pastry
+Bread
+Coffee,Pastry,Bread
+Coffee,Mineral water
+Pastry,Bread,Hot chocolate
+Bread
+Bread
+Jam,Coffee,Coffee,Bread
+Coffee,Coffee,Pastry
+Medialuna,Coffee,Coffee,Focaccia,Hearty & Seasonal
+Bread,Farm House,Coffee,Jam
+Farm House
+Coffee,Tea,Pastry,Medialuna
+Pastry,Medialuna,Coffee
+Coffee,Hot chocolate,Basket,Farm House
+Pastry,Farm House
+Hot chocolate,Coffee,My-5 Fruit Shoot
+Pastry,Medialuna,Muffin
+Farm House
+Muffin,Pastry,Focaccia
+Coffee,Tea
+Bread
+Focaccia
+Coffee,Hot chocolate,Pastry,Jam
+Bread
+Coffee,Pastry,Bread
+Tea
+Hot chocolate,Coffee,Mineral water
+Coffee,Coffee
+Coffee
+Jam,Coffee,Coffee
+Muffin
+Bread
+Bread
+Bread
+Muffin,Hot chocolate,Coffee
+Muffin,Fudge
+Bread
+Bread
+Farm House
+Coffee,Muffin
+Focaccia
+Bread,Tea
+Coffee,Hot chocolate
+Coffee,Tartine,Coffee,Pick and Mix Bowls,Jam
+Jam
+Tartine
+Bread,Coffee
+Coffee,Coffee,Mineral water,Juice,Tartine,Pick and Mix Bowls
+Bread,Tea,Juice
+Coffee,Coffee,Cake
+Farm House
+Farm House
+Cake,Brownie,Coffee,Coffee
+Focaccia,Coffee
+Tea,Coffee,Muffin
+Coffee
+Tea,Coffee
+Hearty & Seasonal,Cake,Coffee
+Bread,Tea,Cake
+Mighty Protein,Coffee
+Hot chocolate,Muffin
+Coffee,Coffee,Soup,Mighty Protein
+Jam
+Coffee,Alfajores
+Cake,Hot chocolate,Alfajores
+Hot chocolate,Tea,Muffin
+Brownie
+Cake,Coffee
+Victorian Sponge,Alfajores,Tea
+Bread
+Tartine,Tea,Tartine
+Mighty Protein,Tea
+Bread,Fudge
+Medialuna,Tartine,Coffee
+Pastry,Bread
+Pastry,Bread
+Coffee,Tea,Alfajores,Alfajores
+Alfajores,Alfajores,Coffee
+Coffee,Alfajores
+Alfajores,Pastry
+Alfajores
+Pastry,Tea,Alfajores,Hearty & Seasonal
+Tea,Sandwich
+Empanadas,Tea
+Alfajores,Alfajores,Tea
+Alfajores
+Pastry,Dulce de Leche
+Coffee,Pastry
+Farm House,Coffee
+Bread,Scandinavian,Medialuna
+Bread
+Pastry,Tea,Alfajores
+Pastry,Coffee
+Bread,Pastry,Muffin,Farm House
+Medialuna,Tea
+Alfajores
+Sandwich,Tea
+Tea,Bread
+Bread,Coffee,Pastry
+Coffee,Coffee,Muffin,Alfajores,Empanadas
+Coffee
+Bread
+Coffee
+Coffee
+Bread
+Bread,Pastry,Medialuna,Tea
+Tea,Bread
+Muffin
+Coffee,Muffin
+Coffee,Bread,Pastry,Medialuna
+Coffee,Coffee,Muffin
+Muffin,Hot chocolate,Scandinavian,Bread
+Farm House
+Muffin
+Coffee
+Bread
+Coffee,Coffee,Cookies
+Coffee,Coffee
+Muffin
+Coffee,Tea,Keeping It Local
+Coffee,Medialuna
+Bread
+Tartine,Scandinavian
+Coffee,Tea
+Bread
+Coffee,Coke
+Coffee,Muffin
+Coffee,Bread,Coffee,Medialuna,Muffin,Scandinavian
+Bread
+Coke
+Bread,Scandinavian
+Coffee
+Bread
+Scandinavian,Bread
+Fudge,Fudge
+Soup,Hearty & Seasonal,Coffee
+Coke
+Coffee,Cookies,Tea
+Pastry,Tea,Coffee
+Bread
+Coffee,Medialuna
+Coffee,Coffee,Muffin,Sandwich,Soup
+Tea,Coffee,Muffin
+Alfajores
+Bread
+Coffee,Medialuna
+Coffee
+Coffee
+Medialuna
+Empanadas,Bread,Scandinavian
+Coffee,Tartine
+Tea
+Scandinavian
+Muffin
+Scandinavian,Bread
+Bread
+Coffee
+Bread
+Bread
+Coffee,Coffee
+Cookies,Scandinavian
+Coffee,Bread,Empanadas,Medialuna
+Coffee,Pastry
+Bread
+Pastry,Tea
+Coffee,Coffee,Pastry
+Coffee,Bread
+Coffee,Keeping It Local
+Fudge
+Tartine,Coffee,Coffee
+Hot chocolate,Coffee,Pastry,Medialuna
+Alfajores,Coffee
+Coffee
+Coffee,Coffee,Medialuna
+Coke
+Coffee,Coffee,Alfajores
+Muffin
+Farm House,Brownie,Fudge
+Coffee,Coffee
+Tea,Muffin,Farm House
+Coffee,Pastry
+Pastry,Brownie
+Medialuna
+Coffee
+Pastry,Coffee,Juice
+Coffee,Bread
+Tea,Coffee
+Tea,Alfajores
+Alfajores,Coffee
+Scandinavian
+Pastry,Medialuna
+Brownie
+Farm House
+Coffee,Cookies
+Soup
+Art Tray,Coffee,Coffee,Brownie
+Coffee
+Farm House
+Soup,Art Tray,Alfajores,Frittata
+Sandwich,Coffee
+Tea
+Farm House
+Scandinavian,Muffin
+Farm House
+Scandinavian
+Soup
+Hearty & Seasonal,Tea,Bread
+Hot chocolate
+Coffee,Sandwich,Hearty & Seasonal
+Brownie,Hearty & Seasonal,Sandwich,Coffee
+Medialuna,Coffee
+Coffee,Brownie,Soup
+Sandwich,Sandwich,Alfajores,Alfajores,Focaccia
+Farm House,Tartine
+Bread
+Coffee
+Hot chocolate,Tea,Muffin
+Pastry
+Coffee,Brownie,Hearty & Seasonal,Soup,Bowl Nic Pitt
+Coffee
+Alfajores,Medialuna,Scandinavian,Farm House
+Soup,Coffee
+Tea,Tea
+Coffee,Tea,Cookies
+Tea,Muffin
+Coffee,Coffee,Brownie
+Coffee
+Coffee
+Coffee
+Farm House
+Coffee,Bread Pudding
+Coffee,Medialuna
+Hot chocolate
+Coffee,Hot chocolate,Farm House
+Pastry,Coffee
+Bread
+Pastry,Coffee
+Coffee,Coffee
+Coffee,Pastry
+Farm House
+Bread
+Coffee,Hot chocolate
+Bread
+Coffee,Focaccia,Coffee,Medialuna,Bread
+Coffee
+Bread,Keeping It Local
+Bread,Coffee
+Bread
+Bread,Medialuna
+Coffee
+Coffee,Coffee,Medialuna
+Coffee,Cookies,Tartine
+Tea,Bread
+Bread,Keeping It Local,Coffee
+Coffee,Medialuna
+Coffee,Medialuna
+Tea
+Juice,Coke,Soup
+Bread
+Brownie
+Brownie,Bread,Coffee
+Coffee,Pastry,Bread,Hearty & Seasonal
+Bread,Coffee,Brownie
+Coffee
+Bread,Cookies
+Fudge,Eggs
+Bread
+Bread,Muffin
+Soup
+Coffee,Bread Pudding
+Bread,Tartine
+Sandwich,Coffee,Fudge,Jam,Bread Pudding
+Bread Pudding,Soup,Coffee
+Hearty & Seasonal,Bread
+Coffee,Coffee,Cookies
+Coffee
+Bread
+Coffee,Bread,Soup
+Soup,Tea,Focaccia
+Coffee,My-5 Fruit Shoot,Cookies
+Coffee,Coffee
+Coffee,Sandwich,Tea
+Scandinavian
+Adjustment
+Coffee
+Medialuna,Coffee
+Bread
+Bread
+Coffee,Pastry
+Farm House
+Medialuna,Brownie
+Bread,Pastry,Brownie
+Pastry,Bread,Cookies
+Bread,Bread
+Cookies,Pastry,Coffee,Juice
+Pastry,Cookies,Coffee
+Coffee,Medialuna
+Bread
+Tartine,Coffee
+Coffee,Medialuna
+Bread
+Bread,Coffee,Alfajores,Cookies
+Bread,Coffee,Coffee
+Bread
+Bread,Coffee,Tea,Keeping It Local,Jam,Cookies
+Pastry,Coffee,Juice
+Medialuna,Bread,Focaccia
+Pastry,Medialuna,Coffee
+Coffee
+Coffee
+Coffee,Cookies,Truffles,Brownie,Bread
+Art Tray,Tea
+Bread
+Coffee
+Coffee,Cookies
+Brownie
+Bread,Tea,Empanadas
+Bread,Hot chocolate
+Coffee,Cookies
+Bread
+Tartine,Sandwich,Tea,Bread
+Soup,Sandwich,Bread
+Soup,Bread
+Fudge
+Coffee
+Coffee,Empanadas,Soup
+Bread,Coffee,Brownie
+Coffee,Smoothies,Juice,Soup,Hearty & Seasonal
+Alfajores,Sandwich,Hot chocolate,Coffee,Scandinavian,Cookies
+Tea,Coffee
+Bread,Cookies
+Alfajores,Cookies,Bread,Bread
+Tea,Brownie
+Tea,Bread
+Coffee,Alfajores
+Bread
+Empanadas,Coffee
+Bread
+Coffee,Hot chocolate
+Coffee
+Coffee,Brownie
+Tea,Hot chocolate,Brownie,Truffles
+Coffee,Keeping It Local
+Coffee
+Alfajores
+Scandinavian,Chimichurri Oil
+Bread,Truffles
+Brownie,Focaccia
+Coffee,Bread
+Coffee,Tea,Art Tray,Cookies
+Coffee
+Bread
+Coffee,Alfajores,Alfajores,Coke
+Bread
+Bread
+Bread,Pastry,Medialuna,Coffee
+Coffee
+Bread,Keeping It Local
+Bread
+Coffee,Scandinavian
+Bread,Farm House,Pastry,Medialuna
+Medialuna
+Coffee
+Bread,Farm House
+Bread
+Keeping It Local,Bread
+Bread,Medialuna
+Tea
+Coffee,Coffee,Pastry,Keeping It Local
+Coffee
+Tea
+Hot chocolate
+Tea,Sandwich
+Bread
+Medialuna,Muffin,Brownie
+Coffee,Muffin
+Bread
+Coffee,Medialuna
+Coffee
+Coffee,Medialuna
+Coffee
+Coffee,Hot chocolate,Brownie,Bread
+Bread,Bread
+Bread
+Coffee,Brownie
+Ellas Kitchen Pouches,Coffee,Coffee,Medialuna,Pastry
+Jam
+Bread
+Ellas Kitchen Pouches
+Coffee,Coffee,Muffin
+Tea,Coffee,Truffles
+Coffee
+Pastry,Brownie
+Brownie,Bread
+Bread,Coffee
+Bread,Pastry
+Alfajores,Bread
+Brownie,Muffin,Scandinavian
+Coffee
+Fudge
+Tea,Brownie
+Bread
+Bread,Muffin
+Scandinavian
+Bread
+Coffee
+Bread
+Coffee,Soup
+Soup
+Coffee,Bread,Coffee,Alfajores,Alfajores
+Farm House
+Farm House,Chimichurri Oil
+Farm House
+Sandwich
+Soup,Bread
+Coffee,Art Tray,Frittata,Sandwich
+Scandinavian,Fairy Doors
+Mineral water,Cookies
+Brownie,Coffee,Coffee
+Bread,Hearty & Seasonal
+Hearty & Seasonal,Bread
+Scandinavian,Focaccia
+Fudge
+Coffee,Tea,Cake
+Coffee
+Truffles
+Coffee,Coffee,Brownie
+Scandinavian
+Muffin,Coffee
+Soup,Coke,Hot chocolate,Fudge
+Sandwich,Juice,Alfajores
+Coffee,Alfajores
+Brownie,Coffee,Hot chocolate,Coffee,Juice
+Scandinavian
+Coffee
+Hot chocolate,My-5 Fruit Shoot,Cake
+Soup,Sandwich,Tea,Alfajores,Alfajores
+Mineral water
+Bread
+Scandinavian
+Tea
+Tea
+Fudge
+Scandinavian
+Coffee
+Coffee
+Medialuna,Coffee
+Bread
+Bread,Pastry,Medialuna,Coffee
+Pastry,Bread
+Coffee,Coffee,Hot chocolate,Bread,Pastry,Medialuna
+Coffee
+Jam,Bread
+Medialuna
+Medialuna,Medialuna,Bread
+Coffee
+Coffee
+Bread
+Coffee,Muffin
+Medialuna,Bread
+Bread
+Bread,Medialuna
+Coffee,Pastry,Brownie
+Medialuna,Scandinavian
+Bread
+Coffee,Muffin
+Bread
+Coffee
+Medialuna,Muffin
+Bread
+Coffee
+Alfajores,Bread,Scandinavian
+Coffee
+Bread
+Medialuna
+Coffee,Scandinavian
+Coffee,Tea,Brownie,Truffles,Muffin
+Tartine,Coffee
+Coffee,Coffee
+Alfajores,Scandinavian
+Coffee,Medialuna,Hot chocolate
+Coffee,Muffin,Alfajores
+Farm House,Coffee,Coffee,Muffin,Brownie
+Bread,Coffee,Medialuna,Farm House
+Farm House,Scandinavian
+Truffles,Bread,Coffee
+Frittata,Soup,Coffee,Coffee
+Scandinavian,Eggs
+Brownie,Truffles,Coffee,Coffee
+Scandinavian
+Coke
+Sandwich,Soup,Coffee,Alfajores
+Tea,Juice,Hearty & Seasonal,Hearty & Seasonal
+Truffles
+Coffee,Coffee,Muffin,Brownie
+Bread
+Bowl Nic Pitt,Frittata,Muffin,Coffee
+Soup,Frittata,Brownie,Coffee,Tea
+Hot chocolate,Coffee,Muffin,Alfajores
+Scandinavian,Keeping It Local,Tea,Coffee,Alfajores
+Bread
+Fudge
+Farm House
+Farm House
+Coffee,Coffee,Brownie,Muffin
+Soup,Coffee,Bread
+Frittata,Bread,Muffin
+Farm House,Bread,Muffin
+Bread
+Bread,Coffee,Bread
+Farm House
+Bread,Coffee,Muffin,Cookies
+Hot chocolate,Coffee
+Muffin,Jam
+Coffee,Hot chocolate,Tea
+Coffee,Coffee,Alfajores
+Tea,Hearty & Seasonal,Farm House
+Bread,Coffee,Alfajores,Cookies
+Hearty & Seasonal,Sandwich,Bread,Muffin,Brownie
+Coffee,Truffles,Brownie,Alfajores
+Coffee,Tea,Bread
+Tea,Coffee,Muffin,Keeping It Local
+Coffee,Alfajores
+Bread
+Tea,Hot chocolate,Alfajores
+Bread
+Alfajores,Truffles
+Bread
+Bread,Brownie,Muffin
+Coffee,Brownie,Coffee
+Bread,Bread
+Bread,Alfajores,Muffin
+Truffles,Frittata
+Coffee
+Bread
+Coffee,Muffin
+Muffin
+Juice
+Coffee
+Muffin
+Bread
+Coffee
+Tartine,Coffee,Tea
+Coffee
+Coffee,Tea
+Medialuna,Coffee
+Medialuna,Bread,Coffee,Pastry,Farm House
+Bread,Pastry,Bread
+Medialuna,Coffee,Bread
+Pastry
+Bread
+Medialuna,Pastry,Bread
+Coffee,Keeping It Local
+Bread,Farm House,Jam,Pastry
+Bread
+Coffee,Medialuna
+Coffee
+Tea,Bread
+Bread,Pastry
+Hearty & Seasonal
+Scandinavian
+Coffee,Hot chocolate,Pastry
+Bread,Muffin
+Coffee,Keeping It Local
+Bread,Coffee,Medialuna
+Coffee,Pastry,Bread
+Medialuna
+Brownie
+Muffin
+Hearty & Seasonal
+Coffee,Bread
+Coffee,Alfajores
+Coffee,Coffee,Keeping It Local,Bread
+Bread
+Coffee
+Coffee,Coffee,Hot chocolate,Medialuna
+Brownie,Bread
+Bread
+Sandwich,Coffee,Coffee
+Bread,Bread,Brownie
+Brownie,Coffee,Bread
+Sandwich,Brownie,Hot chocolate,Coffee
+Coffee
+Bread,Mineral water
+Coffee,Coffee
+Bread
+Bread
+Coffee
+Bread
+Bacon,Art Tray,Coffee,Coffee,Juice
+Bread
+Coffee
+Hearty & Seasonal,Coffee,Tea
+Brownie,Medialuna,Muffin
+Bread
+Bread,Brownie,Muffin,Bread,My-5 Fruit Shoot
+Brownie,Alfajores,Coffee,Bread
+Bread,Jam,Spread
+Brownie
+Coffee,Hearty & Seasonal
+Bread,Bread,Keeping It Local,Hearty & Seasonal,Tea
+Coffee,Coke,Mineral water,Bread,Brownie
+Muffin,Coffee,Tea
+Bread
+Bread
+Coffee,Coffee,Tea,Frittata,Keeping It Local,Bread
+Cookies
+Bread,Cake
+Coffee,Coffee,Fudge,Bread
+Muffin
+Coffee,Kids biscuit
+Juice,Muffin,Brownie
+Kids biscuit
+Kids biscuit
+Art Tray,Tartine
+Fudge,My-5 Fruit Shoot,Kids biscuit,Muffin
+Coffee
+Coffee
+Tea,Medialuna
+Medialuna,Coffee
+Coffee
+Coffee,Medialuna
+Pastry,Coffee
+Keeping It Local,Tea,Coffee,Coffee
+Farm House
+Tea,Truffles
+Farm House
+Coffee,Keeping It Local
+Medialuna,Truffles,Tea
+Tea,Keeping It Local
+Medialuna,Pastry,Truffles
+Pastry
+Focaccia,Farm House
+Coffee,Bread
+Coffee,Truffles
+Coffee,Coffee,Kids biscuit
+Coffee,Tea
+Coffee,Coffee
+Bread,Bread
+Bread
+Medialuna
+Bread
+Tea,Bread
+Mineral water,Coffee,Kids biscuit,Muffin
+Pastry
+Coffee,Keeping It Local
+Bread,Sandwich,Tea
+Fudge,Fudge,Bread,Truffles
+Sandwich,Coffee
+Coffee,Tea,Truffles
+Bread
+Sandwich,Coffee,Tea
+Coffee
+Sandwich,Bread
+Hearty & Seasonal,Hearty & Seasonal,Alfajores,Truffles
+Frittata,Muffin,Coffee,Coffee
+Sandwich,Hot chocolate,Coffee,Hearty & Seasonal,Cookies
+Bread,Bread,Sandwich
+Farm House
+Coffee,Muffin
+Scandinavian,Bread
+Sandwich,Soup,Coffee,Tea
+Farm House
+Coffee,Tea
+Soup,Jam,Muffin,Coffee
+Bread
+Coffee,Soup
+Coffee,Coffee,Muffin
+Bread,Muffin,Kids biscuit
+Coffee,Bread
+Coffee
+Muffin
+Ellas Kitchen Pouches,Bread,Muffin
+Soup,Sandwich,Frittata
+Bread,Sandwich
+Coffee,Bread,Coffee,Bread,Cookies
+Bread,Art Tray,Tea,Hot chocolate
+Art Tray,Coffee,Hot chocolate,Juice,Muffin
+Hot chocolate,Coffee
+Farm House
+Farm House,Muffin
+Coffee,Medialuna
+Bread,Keeping It Local
+Coffee
+Bread
+Medialuna,Tea,Coffee
+Hot chocolate
+Coffee
+Coke
+Coffee
+Farm House
+Coffee,Coffee,Keeping It Local,Bread
+Coffee,Truffles
+Coffee
+Coffee,Tea,Keeping It Local
+Coffee,Keeping It Local
+Coffee,Tea
+Coffee
+Coffee
+Coffee,Bread
+Coffee
+Bread
+Farm House
+Coffee,Kids biscuit
+Tea,Muffin
+Bread
+Coffee,Pastry
+Scandinavian,Coffee,Soup
+Scandinavian,Pastry,Muffin
+Coffee,Pastry
+Soup,Hearty & Seasonal,Tea
+Bread,Scandinavian
+Scandinavian,Bread,Truffles
+Coffee,Coffee,Soup
+Medialuna,Medialuna
+Coffee,Coffee,Medialuna,Medialuna,Bread
+Bread
+Coffee,Bread
+Soup,Sandwich
+Sandwich,Hearty & Seasonal,Coffee
+Soup
+Bread
+Soup,Coffee,Pastry
+Pastry,Coffee,Coffee
+Coffee,Coffee,Soup,Bread
+Bread
+Coffee,Coffee,Sandwich,Hearty & Seasonal
+Coffee,Coffee,Soup
+Bread
+Bread
+Bread
+Coffee
+Bread,Soup
+Coffee,Coffee,Hearty & Seasonal,Soup
+Scandinavian
+Coffee,Medialuna
+Bread
+Bread,Brownie
+Fudge
+Coke
+Coke
+Brownie,Muffin
+Tea,Bread,Truffles,Pastry
+Tea
+Bread,Truffles
+Medialuna
+Coffee,Medialuna
+Bread
+Pastry,Coffee
+Coffee,Bread,Jam
+Bread,Coffee
+Coke
+Bread
+Coffee,Coffee
+Coffee
+Pastry
+Scandinavian,Pastry
+Bread,Granola
+Tea,Coffee,Pastry
+Bread,Mineral water
+Tea,Medialuna
+Brownie
+Tea,Coffee,Pastry
+Hot chocolate,Coffee,Cake
+Bread
+Bread,Jam
+Scandinavian
+Bread,Coffee,Pastry,Cake
+Bread
+Coffee
+Bread
+Coffee,Cake
+Coffee
+Coffee
+Coffee,Soup
+Scandinavian,Bread
+Sandwich,Soup,Bread,Cake
+Coffee,Bread,Tartine
+Soup
+Bread
+Soup,Juice,Brownie
+Coffee
+Hearty & Seasonal
+Coffee,Soup,Sandwich,Tea,Cake
+Tea,Soup
+Coffee,Bread,Sandwich
+Soup,Coffee
+Soup,Coffee
+Tea,Soup
+Cake
+Coffee,Tea,Cake,Muffin
+Bread
+Coffee,Bread
+Coffee,Tea
+Tea,Soup
+Coffee,Tea,Cake
+Bread,Bread
+Hearty & Seasonal
+Bread,Mineral water,Brownie
+Fudge
+Muffin,Hot chocolate,Coffee
+Tea,Muffin
+Cake,Coffee
+Victorian Sponge
+Soup,Sandwich,Tea
+Scandinavian
+Coffee
+Bread
+Tartine,Bread,Coffee
+Medialuna,Medialuna
+Bread
+Bread,Scandinavian
+Bread
+Coffee,Medialuna
+Siblings
+Siblings
+Bread,Medialuna
+Medialuna,Pastry
+Keeping It Local,Tea
+Farm House
+Pastry
+Farm House
+Tea
+Tea,Scandinavian
+Coffee,Muffin
+Coffee
+Bread
+Farm House,Scandinavian,Coffee,Pastry
+Coffee
+Coffee,Keeping It Local
+Bread
+Jam
+Alfajores,Medialuna,Coffee,Bread
+Coffee,Keeping It Local
+Coffee
+Bread
+Tea,Muffin
+Coffee,Hot chocolate,Alfajores
+Bread,Pastry,Bread
+Coffee
+Bread
+Tea
+Coffee,Sandwich
+Bread
+Soup
+Coffee
+Tea
+Coffee,Soup,Art Tray,Pastry
+Hearty & Seasonal,Mineral water,Alfajores
+Bread
+Coffee,Hearty & Seasonal,Hearty & Seasonal,Alfajores,Alfajores,Cake,Bread
+Coffee
+Bread
+Cake
+Bread
+Fudge
+Muffin
+Bread,Coffee
+Coffee,Hearty & Seasonal,Sandwich,Bread
+Soup,Coffee
+Coffee,Hearty & Seasonal,Keeping It Local
+Bread
+Coffee,Coffee
+Scandinavian
+Coffee,Alfajores
+Coffee
+Soup,Brownie
+Coffee,Coffee
+Bread
+Bread
+Bread,Scandinavian,Coffee
+Coffee,Coffee
+Coffee
+Soup
+Coffee,Muffin
+Cake,Bread,Hot chocolate
+Coffee,Cake
+Cake,Alfajores,Coffee,Tea
+Bread
+Coffee
+Coffee,Tea,Hot chocolate,Brownie,Alfajores,Bread
+Hot chocolate,Tea,Brownie,Alfajores
+Coffee
+Scandinavian
+Coffee,Cookies
+Bread,Coffee
+Coffee,Bread
+Coffee,Medialuna
+Coffee,Coffee
+Coffee
+Medialuna,Pastry
+Coffee,Tea,Pastry,Muffin
+Coffee,Pastry
+Bread,Coffee,Keeping It Local
+Bread,Bread,Pastry
+Coffee,Medialuna
+Bread
+Coffee
+Coffee,Coffee
+Bread
+Bread,Tea,Pastry
+Coffee,Cookies
+Bread,Bread
+Coffee
+Coffee
+Tea,Bread
+Coffee,Coffee,Medialuna,Bread
+Bread
+Pastry,Coffee
+Coffee,Pastry
+Coffee,Bread,Alfajores
+Coffee
+Bread
+Bread
+Farm House
+Bread
+Coffee,Tea
+Coffee
+Coffee
+Coffee,Soup
+Soup
+Farm House,Pastry
+Soup
+Coffee
+Coffee,Coffee,Brownie
+Coffee,Bread,Sandwich
+Coffee
+Sandwich,Soup,Bread,Tea
+Soup,Art Tray,My-5 Fruit Shoot,Bread,Muffin
+Tea,Sandwich
+Bread,Soup
+Soup,Tea
+Farm House
+Mineral water,Mineral water,Coffee,Soup,Sandwich
+Bread,Coffee,Keeping It Local
+Soup,Bread
+Art Tray,Coffee,Bread,Hearty & Seasonal,Hearty & Seasonal
+Bread
+Farm House
+Brownie
+Farm House
+Bread,Soup,Alfajores
+Coke,Coffee,Medialuna,Cake
+Scandinavian,Alfajores,Alfajores
+Scandinavian
+Hot chocolate,Pastry
+Coke,Coffee,Brownie
+Farm House
+Coffee,Pastry
+Farm House
+Farm House
+Cookies,Brownie,Coffee,Tea
+Tea,Coffee,Medialuna,Cookies,Farm House
+Bread,Coffee
+Coffee
+Tea,Coffee,Alfajores
+Bread,Hot chocolate,Coffee
+Medialuna,Tea
+Coke
+Medialuna
+Fudge,Fudge
+Tea,Muffin
+Alfajores,Coffee
+Pastry,Bread
+Pastry,Coffee
+Coffee
+Bread
+Bread
+Coffee,Keeping It Local,Tea
+Bread,Pastry,Medialuna
+Farm House,Medialuna,Coffee
+Coffee,Pastry
+Coffee
+Coffee
+Coffee,Keeping It Local,Medialuna
+Pastry,Bread,Coffee
+Farm House
+Bread,Bread
+Bread,Bread,Tea,Keeping It Local
+Bread,Medialuna,Keeping It Local,Coffee
+Bread,Coffee,Medialuna,Bread
+Coffee
+Bread
+Medialuna,Pastry,Bread
+Bread,Pastry
+Medialuna,Coffee
+Bread
+Bread
+Coffee,Coffee
+Focaccia
+Coffee
+Hot chocolate,Pastry
+Coffee,Hot chocolate
+Bread
+Bread,Coffee
+Pastry,Scandinavian,Muffin
+Focaccia,Bread
+Bread
+Muffin
+Caramel bites,Coffee,Medialuna
+Tartine,Tea,Muffin
+Bread
+Bread,Focaccia,Tea,Coffee
+Jam
+Focaccia
+Coffee,Medialuna,Muffin
+Bread,Coffee
+Coffee,Muffin
+Coffee
+Coffee
+Bread
+Coffee,Coffee
+Coffee,Coffee
+Coffee,Coffee
+Coffee
+Tea
+Fudge
+Medialuna,Bread,Tea,Coffee,Coffee,Ellas Kitchen Pouches
+Jammie Dodgers
+Bread
+Tea,Coffee,Soup,Keeping It Local
+Coffee
+Coffee
+Coffee,Muffin
+Coffee,Bread,Soup
+Coffee,Tea,Medialuna
+Alfajores
+Bread
+Coffee,Coffee,Tartine,Medialuna,Pastry
+Tea,Tartine
+Bread,Coffee
+Medialuna,Coffee,Bread
+Bread,Medialuna
+Focaccia
+Scandinavian
+Hearty & Seasonal,Sandwich,Coffee,Mineral water
+Coffee,Sandwich,Sandwich
+Tea,Scandinavian
+Coffee
+Coffee,Coffee
+Soup,Kids biscuit
+Coffee
+Bread
+Coffee
+Coffee
+Coffee,Bread
+Cake,Tea,Muffin,Coffee
+Hot chocolate
+Coffee,Tea,Cake
+Tea,Coffee,Muffin
+Jammie Dodgers,Hot chocolate,Hot chocolate,Coffee,Cookies
+Caramel bites,Jammie Dodgers,My-5 Fruit Shoot,Bread
+Coffee
+Coffee,Tea,Caramel bites,Kids biscuit
+Bread,Coffee
+Bread,Coffee,Alfajores,Bread
+Farm House
+Bread,Jammie Dodgers,Scandinavian
+Tea
+Alfajores,Bread,Tea,Coffee
+Coffee,Mineral water,Tea
+Coffee,Kids biscuit
+Kids biscuit,Bread
+Coffee,Coffee
+Bread
+Hot chocolate,Coffee,Cake
+Coffee,Bread
+Scandinavian,Pastry,Juice
+Bread,Coffee
+Bread
+Farm House,Pastry,Pastry,Medialuna
+Alfajores,Alfajores,Coffee,Coffee
+Bread
+Keeping It Local,Coffee,Coffee
+Scandinavian,Pastry,Hot chocolate,Coffee,Bread
+Bread
+Bread,Coffee
+Pastry,Coffee
+Smoothies,Keeping It Local,Coffee
+Coffee,Coffee
+Pastry,Medialuna
+Tea,Cake
+Cake,Mineral water
+Farm House,Cake,Medialuna,Tea,Coffee
+Hot chocolate,Coffee,Bread
+Bread
+Alfajores,Cake,Coffee,Sandwich,Sandwich,My-5 Fruit Shoot
+Farm House
+Jam
+Bread,Coffee,Cake
+Bread,Coffee
+Tartine
+Bread,Medialuna,Farm House
+Bread,Brownie,Cake
+Cake,Mineral water,Alfajores,Coffee,Coffee
+Bread
+Coffee,Coffee
+Bread,Jam
+Brownie
+Coffee,Sandwich,Mineral water
+Coffee,Coffee
+Bread
+Bread,Mineral water
+Farm House
+Medialuna,Coffee
+Juice,Cookies,Alfajores,Coffee,Focaccia
+Bread
+Sandwich,Sandwich,Brownie
+Alfajores,Bread,My-5 Fruit Shoot,Juice
+Bread
+Fudge,Dulce de Leche,Coffee,Cake,Brownie
+Hot chocolate,Coffee,Cake
+Coffee,Medialuna,Alfajores
+Coffee,Keeping It Local,Farm House
+Bread
+Medialuna,Truffles
+Cake,Bread,Tea,Truffles
+Bread
+Coffee,Brownie
+Coffee,Bread
+Medialuna,Brownie,Tea
+Bread,Scandinavian
+Medialuna,Hot chocolate,Cake,Alfajores,Truffles
+Brownie,Medialuna,Coffee
+Coffee,Medialuna,Truffles
+Cake,Tea
+Mineral water,Hot chocolate,Cookies,Cake
+Cookies
+Bread
+Hot chocolate,Cake
+Truffles,Farm House,Bread
+Tea
+Farm House
+Coffee
+Coffee
+Bread
+Coffee
+Coffee
+Bread,Pastry
+Coffee
+Coffee,Farm House
+Keeping It Local,Coffee,Coffee
+Coffee,Medialuna
+Coffee
+Coffee,Pastry
+Tea
+Coffee,Keeping It Local
+Pastry,Coffee,Smoothies
+Coffee,Muffin,Medialuna
+Coffee
+Coffee
+Coffee
+Coffee,Tea,Farm House,Brownie
+Coffee
+Coffee,Bread,Coffee,Keeping It Local
+Tea
+Coffee,Bread
+Farm House
+Coffee
+Sandwich
+Farm House,Scandinavian
+Coffee
+Coffee,Cake
+Bread,Tea
+Truffles
+Bread,Fudge,Medialuna,Pastry
+Bread
+Tea,Brownie,Cake
+Juice,Medialuna
+Tea,Cake
+Coffee,Tea,Sandwich,Medialuna,Bread
+Alfajores
+Coffee,Coffee
+Cookies,My-5 Fruit Shoot,Coffee,Keeping It Local
+Hot chocolate,Hot chocolate,Bread,Alfajores
+Bread
+Farm House
+Coffee,Juice,Pastry
+Cookies
+Brownie
+Coffee,Medialuna
+Keeping It Local,Coffee
+Tea
+Tea,Medialuna
+Scandinavian,Bread
+Scandinavian,Bread
+Pastry,Keeping It Local,Coffee,Hot chocolate
+Bread
+Coffee
+Bread
+Coffee,Cookies
+Coffee,Coffee,Pastry
+Tea
+Coffee,Brownie,Bread
+Sandwich,Coke
+Cake,Bread,Tea,Medialuna
+Bread
+Coffee,Medialuna,Brownie
+Bread
+Coffee
+Medialuna
+Coffee,Scandinavian,Medialuna
+Tea,Brownie
+Coffee,Pastry
+Coffee
+Fudge,Cake,Coffee,Tea
+Bread
+Coffee,Cake
+Sandwich,Coffee,Coffee,Tea,Brownie,Cake
+Coffee,Alfajores,Coffee,Cake
+Coffee,Coffee
+Mineral water
+Coffee,Cookies
+Bread,Cake
+Bread
+Coffee
+Tea,Brownie,Cake
+Hot chocolate,Hot chocolate,Medialuna
+Hot chocolate
+Coffee,Bread
+Cake,Coffee
+Coffee,Cake
+Hot chocolate,Medialuna,Coffee
+Hot chocolate,Medialuna,Coffee
+Coffee,Hot chocolate,Medialuna
+Coffee,Keeping It Local,Bread
+Coffee
+Coffee
+Coffee
+Coffee,Bread
+Coffee,Sandwich
+Bread,Keeping It Local,Cake
+Coffee
+Brownie,Cookies
+Bread
+Juice,Bread
+Coffee,Cookies
+Coffee
+Coffee,Medialuna,Cookies,Tea
+Tea,Cookies
+Mineral water
+Coffee,Bread,Tea,Pastry,Tiffin,Cake
+Coffee
+Cookies
+Sandwich
+Coffee
+Tea,Sandwich
+Jam
+Brownie,Tea
+Bread
+Bread,Olum & polenta
+Bread
+Polenta,Tea
+Coffee,Sandwich
+Coffee
+Coffee,Cake
+Tea,Coffee,Alfajores
+Coke
+Coffee
+Coffee
+Coffee,Medialuna
+Cookies,Bread
+Coffee
+Coffee
+Bread
+Bread
+Coffee
+Coffee
+Hot chocolate
+Pastry
+Coffee,Keeping It Local
+Pastry,Bread
+Bread,Keeping It Local
+Pastry
+Hot chocolate
+Coffee,Pastry
+Bread,Medialuna
+Medialuna,Medialuna,Pastry,Alfajores
+Coffee
+Coffee
+Tea,Cake
+Coffee,Bread
+Coffee
+Bread,Tea,Cake
+Bread,Bread,Coffee
+Coffee,Alfajores
+Coffee
+Bread,Cookies
+Bread,Sandwich,Tea
+Bread
+Tea,Coffee,Cake
+Bread
+Hot chocolate,Brownie
+Bread
+Tea,Coffee
+Coffee,Cake
+The Nomad,Bread,Tea
+Coffee,Smoothies
+Bread
+Bread
+Coffee,Bread
+Coffee,Cake
+Fudge,Coffee,Coffee,Sandwich
+Brownie
+Bread,Sandwich
+Coffee
+Bread,Brownie
+Sandwich
+Coffee,Sandwich,Hearty & Seasonal
+Coffee
+Tea,Cake
+Coffee,Bread
+Coffee,Sandwich
+Coffee
+Cake
+Coffee,Alfajores
+Coffee,Cake
+Tea,Tea
+Bread
+Tea,Cake
+Brownie,Alfajores
+Hack the stack,Art Tray,Coffee
+Tea
+Coffee,Cake
+Coffee,Coke
+Hack the stack,My-5 Fruit Shoot,Tea,Art Tray
+Ellas Kitchen Pouches
+Coffee,Medialuna
+Coffee
+Coffee,Coffee
+Coffee,Bread
+Coffee,Medialuna
+Coffee
+Coffee
+Coffee,Pastry,Bread
+Bread,Coffee
+Bread
+Keeping It Local,Coffee,Bread
+Coffee
+Coffee,Coffee
+Keeping It Local,Tea,Brownie,Bread
+Coffee,Pastry
+Bread
+Coffee,Cake
+Coffee,Keeping It Local
+Coffee
+Bread,Medialuna
+Bread,Focaccia
+Medialuna,Coffee
+Bread
+Coffee,Coffee
+Coffee
+Bread
+Farm House
+Coffee,Pastry
+Cookies,Juice,Tea,Alfajores
+Coffee,Alfajores
+Coffee,Sandwich
+Coffee
+Coffee,Coffee
+Bread
+Coffee,Bread
+Coffee
+Tea
+Sandwich,Bread
+Tea,Art Tray
+Bread
+Coffee,Cake
+Mineral water,Coffee
+Mineral water
+Tartine
+Coffee
+Bread,Coffee
+Bread
+Hot chocolate,Bread,Sandwich
+Juice
+Bread
+Mineral water
+Sandwich,Bread,Jam
+Coffee,Sandwich,Bread
+Tea
+Tea
+Bread,Pastry
+Coffee,Tea
+Bread,Brownie
+Alfajores,Alfajores,Bread
+Coffee,Medialuna
+Medialuna
+Coffee,Bread,Pastry,Medialuna
+Tea,Alfajores,Cake
+Tea,Brownie,Alfajores,Pastry,Bread
+Medialuna,Pastry
+Brownie
+Bread
+Coffee
+Bread,Coffee,Bread
+Bread
+Bread,Coffee,Medialuna
+Bread
+Bread
+Pastry
+Bread
+Farm House
+Medialuna,Scandinavian,Coffee
+Coffee
+Coffee
+Bread,Medialuna
+Cake
+Muffin,Coffee
+Bread
+Scandinavian
+Muffin
+Scandinavian
+Coffee
+Bread
+Bread
+Coffee,Medialuna
+Bread
+Medialuna,Bread,Tea,Coffee
+Bread
+Cake,Muffin,Muffin,Jam
+Bread,Pastry
+Coffee
+Coffee
+Scandinavian
+Scandinavian
+Pastry,Medialuna,Coffee
+Medialuna,Pastry,Bread,Coffee
+Medialuna,Bread
+Coffee,Tea,Pastry
+Coffee
+Juice
+Coffee,Coffee
+Muffin,Cake,Pastry,Tea,Coffee,Coffee
+Hot chocolate
+Muffin
+Tartine,Juice,Bread,Coffee
+Coffee,Fudge
+Coffee,Bread
+Bread
+Coffee,Tea
+Coffee,Sandwich
+Coffee,Coke,Sandwich
+Scandinavian
+Tea,Muffin
+Bread,Scandinavian
+Coffee,Coffee
+Coffee,The Nomad,Tartine
+Coffee,Coffee,Sandwich
+Coffee,Alfajores
+Coffee,Tea
+Scandinavian
+Bread
+Mineral water
+Alfajores,Muffin,Cake
+Tea
+Bread
+Bread
+Scandinavian
+Coffee,Bread,Sandwich
+Hot chocolate,Tea
+Muffin
+Sandwich,Coffee
+Bread
+Muffin,Coffee
+Coffee,Coffee,Pastry,Cake
+Tea,Hot chocolate,Cookies,Cake
+Cake
+Sandwich,Bread
+Bakewell,Coffee
+Alfajores,Bread,Tea
+Sandwich,Medialuna,Tea,Coffee
+Bread,Tea,Alfajores,Medialuna
+Bread,Muffin,Coffee
+Hot chocolate,Bread,Muffin,Coffee,Pastry
+Tea,Alfajores
+Bakewell,Cake
+Focaccia
+Tea,Pastry,Bakewell
+Alfajores,Alfajores,Coffee,Coffee,Coffee
+Coffee,Alfajores
+Coffee,The Nomad,Bread
+Coffee
+Coffee,Jammie Dodgers,Juice
+Medialuna
+Coffee,Tea,Juice,Smoothies,Jammie Dodgers,Muffin,Juice,Bakewell
+Cake,Pastry
+Coffee,Brownie
+Juice,Jammie Dodgers
+Coffee
+Coffee,Bakewell
+Bread,Tea,Pastry
+Bread,Coffee,Bread,Hot chocolate
+Pastry,Coffee,Hot chocolate
+Bread,Bread,Coffee
+Alfajores,Pastry
+Bread
+Coffee,Hot chocolate,Muffin
+Bread,Coffee,Coffee,Smoothies,Pastry
+Brownie,Hot chocolate,Coffee
+Tartine,Hearty & Seasonal
+Fudge
+Bread
+Coffee
+Coffee,Keeping It Local
+Coffee,Tea,Medialuna
+Medialuna,Jammie Dodgers,Tea,Hot chocolate,Muffin
+Coffee
+Coffee,Keeping It Local
+Coffee,Medialuna,Coffee
+Bread,Hot chocolate,Medialuna
+Bread
+Bread
+Muffin,Muffin,Brownie,Alfajores,Hot chocolate,Coffee,Coffee
+Pastry
+Brownie,Coffee
+Jammie Dodgers
+Coffee,Hearty & Seasonal
+Art Tray,Hearty & Seasonal,Hearty & Seasonal,Tea,Coffee
+Coffee,Coffee,Coffee,Alfajores,Brownie
+Coffee,Coffee,Medialuna,Hearty & Seasonal
+Coffee,Bread,Farm House
+Farm House
+Coffee,Tea,Cake
+Hearty & Seasonal,Tea
+Hot chocolate,Coffee,Coffee
+Bakewell,Cake
+Coffee,Hearty & Seasonal
+Coffee,Muffin
+Cake,Brownie
+Coffee,Coffee,Sandwich,Bakewell,Cookies,Art Tray
+Bakewell
+Coffee
+Coffee,Coffee,Medialuna,Cookies
+Alfajores,Cake,Coffee,Coffee
+Fudge
+Mineral water
+Brownie,Bakewell,Bread,Coffee
+Coffee,Tea
+Coffee
+Coffee,Bread
+Pastry
+Bread
+Medialuna,Coffee
+Coffee
+Ellas Kitchen Pouches,Coffee
+Coffee,Pastry
+Coffee
+Coffee,Tartine
+Bread
+Coffee
+Tea,Coffee
+Coffee,Coffee,Medialuna,Pastry
+Pastry,Coffee
+Coffee,Medialuna
+Tea,Coffee,Keeping It Local
+Pastry,Bread,Cookies,Coffee,Bread
+Jam,Sandwich,Bread,Smoothies
+Bread,Cookies
+Bread
+Cookies,Coffee,Coffee
+Sandwich
+Hot chocolate
+Bread,Coffee,Bakewell,Lemon and coconut
+Coffee
+Coffee,Coffee,Lemon and coconut,Sandwich
+Tea
+Bread,Coffee
+Bread
+Bread
+Coffee
+Coffee,Hot chocolate,Pastry,Cake
+Bread
+Bread
+Bread
+Coffee,Coffee
+Bread,Tea,Lemon and coconut,Cake
+Pastry,Medialuna,Coffee,Tea
+Bread
+Tea,Coffee,Tiffin,Cookies,Ellas Kitchen Pouches
+Coffee
+Pastry,Pastry
+Pastry,Bread,Coffee
+Tea,Keeping It Local
+Coffee
+Coffee,Medialuna
+Bread
+Keeping It Local,Coffee,Coffee
+Hot chocolate,Pastry
+Bread
+Coffee,Tea
+Bread
+Coke
+Bread
+Bread,Bread
+Coffee,Coffee,Medialuna,Pastry
+Muffin,Coffee
+Coffee,Muffin
+Coffee,Bread
+Farm House
+Muffin,Coffee
+Bread,Coffee,Bread
+Coffee
+Coffee
+Scandinavian,Farm House
+Coffee
+Tea
+Coffee,Muffin
+Bread
+Bread,Scandinavian
+Tea
+Medialuna,Coffee
+Tea
+Tea,Sandwich
+Coffee,Cake
+Coffee,Cake,Muffin
+Cookies
+Tea
+Sandwich
+Farm House
+Cake,Sandwich
+Coffee,Hot chocolate,Cake,Bread
+Tea,Tea,Muffin
+Coffee,Tea,Bread,Fudge,Jam
+Juice,Tea,Cookies
+Coffee,Bread,Cake
+Coke
+Tiffin,Pastry
+Alfajores
+Tiffin,Coffee
+Bread
+Bread
+Medialuna,Bread
+Cake,Bread
+Bread
+Farm House
+Medialuna,Pastry
+Keeping It Local,Cookies,Coffee
+Coffee,Coffee
+Coffee,Tea,Hot chocolate
+Smoothies
+Coffee,Keeping It Local
+Coffee
+Farm House
+Tea,Tea
+Bread,Medialuna
+Pastry,Bread
+Coffee,Pastry
+Coffee,Keeping It Local
+Coffee
+Bread
+Bread,Cookies
+Coffee
+Bread
+Keeping It Local,Coffee,Fudge,Jam
+Tea,Hot chocolate,Keeping It Local,Coffee,Art Tray
+Coffee
+Coffee,Cake
+Bread,Bread,Jammie Dodgers
+Muffin,Smoothies
+Coffee,Coffee,Jammie Dodgers,Cookies
+Coffee,Cake,Bread
+Bread,Muffin,Cookies
+Bread
+Tea
+Hot chocolate,Bread,Alfajores
+Tea
+Muffin
+Sandwich,Mineral water,Bread,Coffee,Alfajores,Bread
+Sandwich,Alfajores
+Coffee
+Coffee,Coffee,Muffin
+Coffee,Tiffin
+Coffee,Bread
+Hot chocolate,Cookies,Hot chocolate
+Tea
+Bread,Hot chocolate
+Hot chocolate,Fudge
+Coffee
+Coffee,Tiffin
+Tiffin,Bread,Bread
+Bread
+Bread,Pastry,Jam
+Hot chocolate
+Coffee,Hot chocolate,Pastry,Bread
+Pastry,Coffee
+Bread,Tea,Muffin,Pastry
+Bread,Coffee,Coffee
+Coffee,Pastry
+Tea
+Tea
+Tea,The Nomad
+Coffee
+Medialuna
+Farm House
+Bread
+Coffee,Coffee
+Farm House
+Bread,Coffee,Pastry,Keeping It Local
+Bread,Coffee
+Hearty & Seasonal
+Bread
+Fudge
+Scandinavian
+Bread,Alfajores,Bread
+Sandwich,Coke,Juice,Coffee
+Farm House
+Bread
+Coffee,Medialuna
+Pastry,Bread,Coffee
+Sandwich,Coffee
+Bread
+Muffin,Bread
+Coffee
+Coffee,Muffin
+Coffee
+Fudge,Spread
+Bread
+Coffee,Pastry,Bread
+Coffee,Cake
+Coffee
+Bread
+Tea
+Coffee
+Hot chocolate,Coffee,Cake
+Tea,Bread
+Cake
+Medialuna
+Coffee,Pastry
+Coffee
+Coffee
+Bread
+Coffee,Cake
+Bread
+Coffee
+Coffee
+Tea
+Keeping It Local,Coffee
+Sandwich,Tea
+Coffee
+Coffee,Coffee
+Coffee
+Bread
+Tea,Bread
+Pastry,Coffee
+Coffee,Bread,Pastry
+Coffee,Medialuna
+Tea,Coffee
+Bread
+Coffee
+Coffee,Coffee,Medialuna,Pastry,Cookies
+Bread,Cake
+Bread,Coffee
+Bread
+Coffee
+Toast
+Hot chocolate,Hot chocolate
+Fudge,Scandinavian
+Medialuna,Coffee
+Coffee,Pastry
+Coffee,Medialuna,Cake
+Sandwich,Farm House,Fudge
+Sandwich,Scone
+Sandwich,Bread
+Sandwich
+Coffee
+Sandwich,Sandwich,Bread
+Sandwich,Coke
+Sandwich,Coke
+Sandwich
+Sandwich,Scone
+Hot chocolate
+Coffee,Muffin
+Bread
+Bread
+Bread
+Coffee,Alfajores
+Bread,Sandwich
+Bread,Scone
+Coffee,Medialuna
+Cake
+Truffles
+Cake,Coffee
+Scone
+Scone,Hot chocolate,Mineral water,Cookies
+Coffee,Tea,Scone
+Bread
+Coffee
+Bread
+Jam,Bread,Scandinavian
+Bread,Bread,Scandinavian
+Coffee,Medialuna
+Pastry,Bread
+Bread
+Farm House
+Scone,Hot chocolate,Coffee,Coffee
+Farm House,Pastry,Medialuna,Hot chocolate,Coffee
+Bread
+Bread,Bread,Coffee
+Coffee,Scandinavian
+Bread
+Coffee,Medialuna,Pastry
+Bread,Scandinavian
+Coffee,Scone
+Coffee
+Bread
+Bread,Pastry
+Coffee,Bread
+Bread
+Bread
+Coffee
+Coffee,Scone
+Cake
+Coffee
+Bread,Fudge
+Medialuna,Bread,Farm House
+Muffin,Scone
+Coffee
+Coffee,Alfajores,Scone
+Coffee
+Tea,Scone
+Juice,Tea,Cake
+Coffee,Tartine,Fudge,Jam
+Bread
+Coffee,Medialuna
+Tea,Bread,Bread
+Coke
+Coffee,Medialuna
+Bread
+Truffles,Bread
+Coffee,Bread,Tea,Pastry,Cake
+Sandwich
+Hot chocolate
+Coffee,Sandwich,Sandwich
+Sandwich,Tea,Coffee
+Coffee,Scone
+Cake
+Bread,Cookies
+Coffee,Sandwich
+Cake,Scone,Coffee
+Mineral water,Bread
+Coffee,Bread
+Muffin,Cake,Scone
+Tea,Scone
+Muffin,Pastry
+Muffin,Cake,Coffee,Coffee
+Cake
+Tea,Bread,Scone,Cake
+Coffee,Medialuna
+Jam,Fudge
+Scone,Pastry
+Fudge,Hot chocolate
+Cake,Sandwich,Sandwich,Juice,Coffee,Coffee,Sandwich
+Bread
+Juice,Coffee,Coffee
+Scone,Bread,Coffee,Hot chocolate
+Coffee,Scone,Muffin,Hot chocolate
+Bread
+Medialuna
+Cake,Alfajores
+Hot chocolate
+Coffee,Coffee
+Coffee
+Coffee,Tea
+Jam,Cake,Bread,Coffee
+Coffee
+Tea,Scone
+Bread
+Bread
+Smoothies,Muffin,Hot chocolate,Toast
+Alfajores,Muffin,Medialuna
+Bread,Coffee,Scone
+Tea,Juice
+Coffee,Coffee,Bread
+Pastry
+Bread,Tea,Pastry
+Coffee,Medialuna
+Coffee,Medialuna
+Bread
+Pastry,Bread
+Bread,Toast
+Bread,Medialuna,Toast
+Coffee,Scone,Pastry
+Coffee,Tea,Muffin,Muffin
+Coffee,Toast
+Coffee,Coffee,Medialuna,Pastry
+Bread,Ellas Kitchen Pouches
+Coffee,Toast
+Bread,Medialuna
+Hot chocolate,Tea
+Bread,Muffin
+Coffee,Bread,Coffee
+Farm House
+Coffee,Coffee
+Bread,Alfajores,Cookies
+Coffee,Medialuna,Pastry,Alfajores
+Bread,Coffee
+Bread
+Coffee,Truffles
+Coffee,Fudge,Fudge,Bread
+Bread
+Coffee,Bread
+Bread
+Coffee,Medialuna,Crepes,Alfajores
+Coffee,Coffee,Cake
+Bread,Coffee,Cake,Cookies
+Coffee
+Bread
+Farm House
+Bread
+Coffee,Medialuna
+Hot chocolate,Tea,Coffee,Coffee,Cake
+Tea,Hot chocolate,Truffles
+Hot chocolate,Hot chocolate,Hot chocolate
+Coffee,Coffee,Coffee,Sandwich,Crepes
+Bread,Crepes
+Bread,Muffin,Cake,Coffee,Medialuna
+Coffee
+Bread,Coffee,Cookies
+Medialuna,Crepes
+Muffin
+Medialuna,Tea
+Pastry
+Tea
+Coffee,Scone,Coffee
+Bread,Coffee,Coffee,Coffee
+Truffles,Tea
+Cookies,Cookies
+Coffee
+Bread
+Coffee,Bread,Toast,Pastry
+Coffee
+Muffin
+Bread
+Farm House
+Coffee
+Bread
+Bread
+Tea,Coffee,Pastry,Alfajores
+Coffee,Coffee,Toast,Medialuna
+Coffee
+Juice,Tea,Bread,Medialuna
+Medialuna,Coffee,Toast
+Pastry,Tea
+Farm House
+Coffee,Coffee
+Coffee
+Coffee,Coffee,Muffin
+Coffee
+Coffee,Muffin
+Coffee,Sandwich
+Dulce de Leche,Bread,Coffee,Pastry,Bread
+Jam
+Coffee,Coffee,Medialuna
+Cookies,Coffee,Pastry
+Farm House
+Coffee
+Coffee
+Bread,Pastry
+Juice,Sandwich
+Coffee,Coffee,Alfajores
+Coffee,Sandwich
+Bread
+Bread
+Bread,Tea,Medialuna
+Coffee,Muffin
+Cake,Tea
+Cookies,Coffee
+Hearty & Seasonal,Coke
+Coffee,Coffee,Muffin,Sandwich
+Alfajores
+Alfajores
+Sandwich,Coffee
+Hot chocolate,Coffee,Muffin,Sandwich
+Muffin
+Coffee,Tea,Bread
+Coffee
+Bread,Medialuna,Cookies,Tea
+Coffee
+Coffee,Bread,Coffee
+Alfajores,Alfajores,Coffee,Sandwich,Sandwich,Bread
+Coffee,Coffee,Bread,Cookies,Medialuna,Coffee
+Coffee,Cookies
+Farm House
+Coffee
+Coke
+Coffee,Bread
+Pastry,Bread
+Coffee
+Hot chocolate,Alfajores,Bread,Muffin
+Coffee
+Bread
+Coffee,Coffee
+Coffee,Coffee,Medialuna
+Coffee
+Pastry,Medialuna,Bread
+Muffin,Coffee,Coffee
+Bread
+Bread
+Bread,Coffee
+Bread,Tea
+Bread,Cookies,Muffin
+Tea,Coffee
+Medialuna,Pastry,Bread
+Coffee,Alfajores
+Toast
+Coffee
+Tea
+Hot chocolate,Medialuna
+Coffee,Pastry
+Coffee
+Cake,Bread
+Cake,Coffee
+Coffee,Hot chocolate,Pastry
+Tea
+Bread
+Tea
+Bread,Farm House
+Coffee
+Bread
+Bread
+Bread,Cookies
+Coffee,Bread
+Cookies,Coffee
+Farm House
+Bread
+Coffee
+Coffee,Tea,Sandwich,Muffin
+Coffee,Bread,Cake
+Bread
+Tea
+Tea,Coffee
+Coffee
+Sandwich,Tea,Alfajores
+Coffee,Mineral water,Alfajores,Cake,Sandwich
+Coffee,Bread
+Coffee
+Tea,Cake
+Bread
+Cookies
+Coffee,Juice
+Coffee,Muffin,Mineral water,Juice
+Bread
+Bread
+Bread
+Bread,Hot chocolate,Juice,Toast
+Coffee,Cake,Bread
+Coffee,Toast
+Coffee,Toast
+Tea
+Tea,Toast,Cookies
+Farm House
+Bread,Cake
+Bread
+Coffee,Coffee
+Tea,Alfajores
+Bread
+Coffee
+Juice,Coffee,Tea
+Coffee,Medialuna
+Bread
+Medialuna,Coffee
+Cake,Tea
+Bread,Coffee
+Farm House
+Bread
+Farm House,Crepes
+Bread
+Hot chocolate
+Coffee,Coffee,Hot chocolate,Sandwich
+Sandwich
+Coffee,Truffles
+Jam
+Bread
+Bread
+Sandwich,Coffee,Mineral water
+Bread
+Coke,Coke,Cookies
+Bread,Bread
+Coffee,Coffee,Sandwich
+Bread,Coffee
+Tea,Coffee
+Tea,Coffee
+Hot chocolate
+Coffee,Coffee,Alfajores
+Fudge,Jam,Cake,Coffee
+Cake
+Coffee,Bread
+Pastry,Coffee
+Coffee,Pastry
+Coffee,Pastry
+Truffles,Bread
+Coffee
+Coffee
+Coffee,Toast,Vegan mincepie,Mineral water,Coffee
+Medialuna,Bread
+Coffee,Cake
+Coffee,Pastry
+Coffee
+Coffee
+Bread,Cake,Cookies
+Coffee,Tea,Bread,Cake
+Toast,Juice
+Bread
+Pastry,Pastry
+Coffee
+Truffles
+Tea
+Bread
+Farm House
+Coffee,Cake
+Coffee,Sandwich
+Tea
+Hearty & Seasonal,Tea
+Coffee
+Coffee
+Tea,Cake
+Farm House
+Coffee
+Coffee
+Bread
+Coffee,Cake
+Cake
+Alfajores,Medialuna,Brownie
+Bread
+Bread
+Bread,Jam
+Tea,Sandwich
+Coffee,Medialuna,Juice,Coke
+Toast,Coffee,Bread
+Bread,Coffee,Toast
+Bread,Coffee,Medialuna
+Coffee
+Bread,Toast
+Bread
+Coffee,Coffee,Medialuna,Cake
+Tea
+Tea
+Coffee,Medialuna
+Bread
+Bread,Coffee
+Bread
+Bread,Brownie
+Coffee
+Tea,The Nomad
+Fudge
+Alfajores,Coffee
+Bread
+Coffee,Alfajores
+Brownie,Coffee
+Bread
+Jam,Fudge
+Tea
+Coffee
+Coffee
+Bread
+Coffee
+Coffee
+Medialuna,Cake
+Coffee,Cake
+Coffee,Coffee
+The Nomad,Tea,Bread,Brownie,Fudge,Fudge
+Scone,Tea
+Bread
+Sandwich,Bread,Mineral water,Coffee,Juice
+Bread,Bread,Scandinavian
+Sandwich
+Coffee,Brownie
+Hearty & Seasonal,Brownie,Bread
+Tea,Hearty & Seasonal
+Coffee,Brownie
+Coffee,Farm House
+Coffee,Scone
+Scone,Crepes,Alfajores,Alfajores
+Scandinavian
+Cake
+Bread
+Bread
+Bread,Tea
+Brownie,Mineral water
+Farm House
+Coffee
+Sandwich,Scone,Bread,Coffee
+Coffee,Hot chocolate,Tea,Alfajores,Sandwich
+Bread,Scone,Juice
+Coffee
+Bread
+Bread
+Coffee,Coffee,Toast,Pastry
+Bread,Focaccia
+Scone
+Focaccia
+Scandinavian
+Coffee,Tea
+Coffee,Coffee,Farm House
+Focaccia,Pastry
+Coffee,Pastry,Medialuna
+Sandwich,Bread
+Bread,Coffee,Medialuna,Medialuna,Jam
+Sandwich,Tea,Coffee
+Coffee,Farm House
+Bread
+Bread,Coffee
+Coffee,Coffee,Toast,Scandinavian
+Farm House,Bread,Medialuna
+Bread
+Cake
+Pastry,Coffee,Brownie
+Bread
+Coffee,Tea,Scone
+Coffee,Coffee
+Bread,Tea
+Coffee,Scone
+Farm House,Scandinavian
+Vegan mincepie,Cake
+Tea,Coffee
+Bread
+Coffee
+Scandinavian
+Bread
+Tea,Bread
+Medialuna,Pastry,Coffee
+Truffles,Juice
+Coffee,Jammie Dodgers,Art Tray
+Frittata
+Bread
+Sandwich,Coffee
+Coffee,Juice
+Tea,Sandwich
+Jam
+Scone
+Coffee,Sandwich
+Coffee
+Bread,Tea
+Frittata,Tea,Bread
+Scandinavian
+Sandwich,Art Tray,Truffles,Coffee
+Scone,Frittata,Juice
+Tea
+Coffee,Mineral water,Frittata
+Coffee,Tea
+Bread,Bread,Brownie,Scone
+Coffee
+Frittata,Sandwich,Coffee
+Tea
+Coffee,Tea
+Vegan mincepie,Coffee,Hot chocolate
+Juice
+Cake,Tea
+Tea
+Bread,Farm House
+Coffee,Tea,Bread,Mineral water,Scone,Bread
+Bread
+Bread,Hot chocolate,Hot chocolate
+Coke,Sandwich
+Sandwich,Mineral water
+Hot chocolate,Tea,Cake
+Scandinavian
+Frittata,Cake
+Cake
+Coffee,Bread
+Coffee,Tea,Bread
+Scone,Coffee
+Bread
+Jam
+Bread
+Coffee,Medialuna
+Bread,Farm House
+Bread
+Coffee,Pastry
+Bread,Coffee
+Medialuna,Coffee
+Scone,Bread
+Coffee,Coke
+Coffee
+Truffles
+Bread
+Mineral water
+Hot chocolate,Coffee,Bread,Toast,Medialuna,Alfajores,Fudge
+Jam
+Medialuna,Bakewell,Coffee,Bread,Toast
+Coffee
+Bread
+Coffee,Coffee,Bakewell,Medialuna
+Coffee,Coffee,Bread
+Farm House
+Bread
+Medialuna,Scone,Coffee,Coffee
+Bread
+Farm House,Coffee,Medialuna,Bread
+Smoothies
+Coffee
+Medialuna,Coffee
+Mineral water
+Bread,Mineral water,Hot chocolate
+Sandwich,Tea
+Coffee,Cookies
+Alfajores,Alfajores
+Vegan mincepie,Bread,Coffee
+Coffee
+Medialuna
+Coffee,Frittata,Toast
+Coffee,Hot chocolate,Muffin
+Coffee,Scandinavian
+Bakewell,Tea
+Coffee
+Frittata,Coffee
+Scandinavian
+Coffee,Coffee
+Coffee,Tea
+Scandinavian
+Bread
+Tea
+Bread
+Bread,Medialuna
+Pastry,Toast,Coffee
+Coffee,Pastry
+Tea
+Coffee,Toast
+Coffee
+Jam,Coffee,Hot chocolate,Toast
+Coffee,Sandwich
+Bread,Tea,Bakewell,Alfajores
+Bread,Coffee,Cake
+Bread
+Bread
+Coffee,Coffee,Bakewell,Cake
+Bread
+Coffee,Medialuna
+Bread
+Bread,Vegan mincepie
+Coffee,Bread,Vegan mincepie,Cake
+Bread
+Sandwich
+Pastry,Bread
+Cake,Vegan mincepie,Coffee,Coffee,Mineral water,Mineral water
+Jam
+Bread
+Frittata,Coffee
+Coffee,Coffee
+Bread
+Sandwich
+Sandwich,Bread,Truffles,Coffee
+Tea,Toast
+Coffee
+Cake
+Coffee,Bread,Bread,Bread
+Fudge
+Jam,Jam
+Bread
+Coffee
+Tea,Bread,Hot chocolate,Vegan mincepie,Bread
+Juice,Cake,Jammie Dodgers,Bread
+Bread
+Vegan mincepie,Tea
+Coffee,Pastry
+Scandinavian,Vegan mincepie
+Bread
+Coffee,Fudge,Jam,Fudge,Fudge
+Jam,Coffee,Coffee
+Coffee,Coffee
+Coffee,Cookies,Pastry
+Medialuna,Bread
+Coffee,Art Tray
+Tea,Tea,Toast
+Coke
+Coffee,Bread
+Bakewell,Farm House
+Bread,Tea,Coffee,Alfajores,Hot chocolate
+Farm House
+Coffee,Bread
+Coffee,Toast,Scandinavian
+Bread,Vegan mincepie
+Bread
+Coffee
+Coffee,Bread,Alfajores
+Coffee
+Bread
+Medialuna
+Coffee
+Frittata,Tea,Coffee
+Tea
+Tea,Bakewell
+Farm House
+Coffee,Pastry,Medialuna
+Coffee,Coffee,Sandwich
+Coffee,Medialuna
+Coffee,Pastry
+Muffin,Bread,Bread,Coffee
+Coffee,Bakewell
+Bread
+Coffee
+Bread
+Coffee,Coffee,Alfajores
+Bread,Truffles,Coffee,Truffles,Scandinavian
+Tea,Cake
+Jam
+Fudge,Jam,Jam
+Bread
+Coffee
+Tea,Coffee
+Coffee,Tea,Toast
+Coffee
+Bread
+Coffee
+Coffee
+Bread
+Bread
+Fudge
+Coffee
+Coffee,Tea
+Coffee,Coffee,Farm House
+Medialuna,Muffin,Coffee,Juice
+Coffee
+Coffee,Bread,Bread
+Coffee,Coffee,Bread,Muffin
+Vegan mincepie,Coffee,Tea
+Alfajores,Coffee
+Coffee,Coffee,Medialuna
+Bread,Tea
+Coffee
+Coffee
+Bread,Pastry
+Bread
+Farm House
+Bread,Alfajores
+Coffee
+Jam
+Coffee
+Pastry
+Tea
+Coffee,Coffee
+Coffee,Toast
+Coffee
+Coke,Truffles
+Sandwich,Tea,Coffee
+Tea
+Coke
+Bread,Sandwich,Bread
+Juice,Bread,Art Tray,Toast
+Tea,Bread
+Coffee,Alfajores
+Hot chocolate,Hot chocolate,Toast,Pastry
+Sandwich,Tea,Juice,Vegan mincepie
+Bread
+Alfajores,Muffin
+Coffee,Jammie Dodgers
+Jammie Dodgers,Bread
+Tea,Coffee,Jammie Dodgers,Cake,Bread
+Coffee,Coffee
+Bread,Pastry,Medialuna
+Alfajores,Pastry
+Medialuna,Toast,Coffee
+Bread,Tea,Pastry
+Bread
+Coffee
+Bread,Hot chocolate
+Bread
+Pastry
+Coffee,Coffee
+Bread
+Coffee,Hot chocolate
+Farm House
+Coffee
+Coffee,Coffee
+Coffee
+Dulce de Leche
+Pastry,Farm House
+Bread,Vegan mincepie,Bread
+Bread
+Coffee,Hot chocolate,Pastry
+Coffee,Vegan mincepie,Pastry
+Bread
+Bread,Bread
+Coffee,Hot chocolate
+Bread,Sandwich,Coffee
+Bread
+Coffee,Coffee,Hot chocolate
+Coffee
+Coffee
+Sandwich,Coke
+Coffee
+Coffee,Bread
+Bread
+Coffee
+Coffee,Coffee
+Coffee,Fudge
+Coffee,Sandwich,Tea,Bread
+Coffee,Coffee,Sandwich
+Bread
+Bread,Coffee
+Coffee,Coffee,Hot chocolate
+Fudge
+Coffee
+Coffee,Bread
+Bread,Bread
+Cookies
+Bread
+Coffee,Bread,Bread,Alfajores
+Tea
+Bare Popcorn,Ellas Kitchen Pouches
+Farm House
+Bread,Fudge,Pastry
+Hot chocolate
+Tea,Vegan mincepie,Jammie Dodgers,Coffee,Medialuna
+Coffee
+Hot chocolate,Coffee
+Bread
+Vegan mincepie
+Medialuna,Dulce de Leche
+Muesli
+Muesli
+Coffee,Jam,Jam
+Bread,Toast
+Bread,Toast
+Coffee
+Jammie Dodgers,Vegan mincepie
+Coffee
+Bread
+Coffee,Coffee,Bread
+Tea
+Coffee
+Coffee,Coffee,Juice,Farm House
+Coffee,Pastry
+Bread
+Coffee
+Coffee
+Coffee
+Tea,Pastry
+Cookies,Coffee,Coffee,Toast
+Pastry,Tea
+Tea,Coffee,Coffee,Toast
+Bread
+Bread
+Coffee
+Coffee,Coffee
+Pastry
+Bread
+Scandinavian,Coffee,Alfajores
+Truffles,Ellas Kitchen Pouches,Bread
+Tea,Fudge,Fudge,Jam,Juice,Ellas Kitchen Pouches
+Cake
+Bread,Cookies
+Coffee,Cake
+Coffee,Tea,Toast
+Truffles
+Bread
+Coffee
+Bread
+Bread
+Truffles
+Toast,Bread,Tea,Cookies
+Sandwich,Coffee,Coffee
+Bread,Sandwich
+Alfajores
+Scone
+Bread,Coffee,Alfajores,Vegan mincepie
+Fudge
+Jam
+Coffee,Pastry,Jam
+Coffee
+Tea,Bread,Bread,Fudge
+Bread,Sandwich
+Farm House
+Coffee
+Jam,Jam
+Brownie,Coffee
+Tea,Sandwich,Bread
+Tea
+Sandwich,Tea
+Coffee
+Coffee
+Bread
+Tea,Brownie
+Jam
+Jam
+Cookies,Sandwich,Juice
+Tea,Pastry
+Farm House
+Scone,Coffee
+Coffee,Coffee
+Coffee,Coffee,Vegan mincepie
+Bread,Scone
+Farm House,Scone
+Coffee,Brownie
+Coffee,Tea
+Coffee
+Tea,Coffee
+Bread
+Coffee,Coffee,Coffee,Alfajores
+Farm House,Medialuna,Pastry
+Bread
+Bread
+Coffee,Pastry
+Bread
+Bread,Bread,Pastry
+Medialuna,Fudge
+Bread
+Coffee,Scone,Juice
+Coffee
+Tea,Scone,Lemon and coconut
+Jam,Cookies,Fudge
+Bread
+Scandinavian
+Coffee,Cookies,Juice
+Hot chocolate,Coffee,Bread,Bread,Vegan mincepie
+Jam
+Bread
+Coffee,Coffee
+Dulce de Leche,Scandinavian,Alfajores
+Coffee,Bread,Pastry,Medialuna,Farm House
+Hot chocolate,Scone
+Fudge,Jam,Bread,Farm House
+Coffee,The Nomad
+Vegan mincepie
+Bread
+Bread
+Bread,Scone
+Cake
+Bread
+Vegan mincepie,Cake,Coffee,Coffee,Coffee
+Coffee,Coffee,Medialuna
+Bread
+Jam
+Medialuna,Pastry,Coffee,Coffee,Coffee
+Bread
+Bread
+Bread,Scone,Bread,The Nomad
+Coffee,Tea
+Bread
+Frittata,Tea,Tea
+Coffee,Vegan mincepie
+Bread
+Coffee,Bread
+Scone,Coffee
+Farm House,Frittata,Cookies
+Farm House
+Farm House
+Jam,Fudge
+Coffee
+Frittata,Sandwich,Bread,Alfajores,Medialuna,Fudge
+Cake
+Juice,Cookies,Coffee
+Coffee,Coffee
+Bread,Pastry
+Hot chocolate,Tea
+Crisps
+Bread
+Cake
+Focaccia,Tea,Tea,Scone
+Coffee,Scone
+Cake
+Vegan mincepie
+Coffee,Coffee
+Tea,Vegan mincepie
+Focaccia
+Coke
+Pintxos
+Pintxos
+Juice
+Coke
+Pintxos
+Pintxos
+Pintxos
+Coke,Pintxos
+Hot chocolate,Hot chocolate
+Medialuna
+Coffee
+Coffee,Bread
+Coffee
+Bread
+Coffee,Cookies,Bread,Toast
+Coffee,Brownie,Medialuna
+Hot chocolate,Coffee,Brownie
+Tea,Hot chocolate
+Tea,Scone,Bread
+Medialuna,Coffee,Coffee
+Bread,Coffee,Hot chocolate,Coffee,Pastry,Scone
+Muesli,The Nomad,Coffee,Bread
+Bread
+Fudge
+Bread
+Coffee,Coffee
+Bread
+Bread
+Coffee,Brownie,Vegan mincepie
+Dulce de Leche
+Coffee,Coffee
+Coffee
+Farm House
+Coffee
+Coffee,Brownie
+Coffee
+Coffee,Hot chocolate,Vegan mincepie
+Bread
+Coffee,Frittata
+Medialuna,Coffee
+Coffee,Juice,Mineral water,Medialuna,Crisps,Frittata
+Coffee
+Coffee,Cookies
+Bread
+Bread
+Coffee,Coffee,Cake,Bread,Dulce de Leche,Bread
+Coffee,Hot chocolate,Bread
+Coke
+Fudge
+Fudge
+Tea,Juice,Cake,Tartine
+Brownie,Medialuna,Hot chocolate,Coffee
+Coffee
+Bread
+Coffee,Bread
+Coffee,Hot chocolate,Coffee,Cookies,Vegan mincepie
+Coffee,Medialuna
+Cookies,Hot chocolate
+Coffee
+Coffee
+Tea
+Coffee,Bread
+Hot chocolate
+Coffee
+Bread,Medialuna
+Coffee
+Bread
+Coffee,Tea,Pastry
+Medialuna,Coffee,Coffee
+Coffee,Hot chocolate
+Fudge,Jam,Fudge,Fudge
+Hot chocolate,Smoothies,Bread,Cookies,Cookies
+Coffee,Tea,Toast,Brownie
+Coffee,Coffee
+Coffee
+Farm House
+Tea
+Bread
+Bread,Coffee,Coffee,Bread
+Tea
+Coffee
+Coffee,Fudge,Brownie
+Coffee
+Coffee,Bread
+Coffee,Medialuna
+Farm House
+Fudge,Coffee,Sandwich
+Toast,Cookies
+Sandwich,Coffee,Bread
+Focaccia,Scandinavian
+Truffles,Hearty & Seasonal
+Coffee,Coffee
+Sandwich,Sandwich
+Hearty & Seasonal,Coffee,Bread
+Bread,Cake
+Tea,Bread
+Bread
+Cookies,Bread
+Coffee
+Coffee
+Tea,Sandwich
+Bread,Brownie
+Tea,Coffee
+Coffee
+Coffee,Cookies
+Cake,Bread
+Coffee
+Mineral water,Coke,Bread,Sandwich
+Juice,Bread
+Coffee
+Truffles,Tea,Cake
+Coffee,Scone,Brownie
+Tea
+Sandwich,Juice,Tea
+Coffee
+Cake,Sandwich,Sandwich,Bread
+Coffee,Coffee
+Sandwich,Coffee
+Juice,Tea,Bread
+Brownie
+Fudge
+Tea
+Tea
+Truffles,Sandwich
+Medialuna,Hot chocolate,Bread,Coffee
+Medialuna
+Coffee,Coffee
+Coffee
+Tea
+Bread
+Bread
+Tea,Coke,Cake,Brownie,Bread
+Bread
+Tea,Tea,Medialuna,Cookies,Bread
+Coffee
+Sandwich,Bread,Tea
+Bread,Toast,Medialuna
+Pastry,Medialuna
+Coffee
+Coffee
+Coffee,Coffee,Pastry
+Cookies
+Cookies
+Bread
+Coffee
+Coffee,Coffee,Pastry
+Bread
+Cookies,Cake,Coffee,Hot chocolate
+Pastry,Medialuna,Pastry,Coffee,Coffee,Hot chocolate,The Nomad,Toast
+Coffee,Cake,Bread
+Tea
+Coffee,Cake
+Coffee
+Coffee,Cake
+Toast,Coffee
+Coffee
+Hot chocolate,Cake
+Hearty & Seasonal,Juice
+Coffee
+Hearty & Seasonal,Coffee
+Farm House,Cake
+Coffee,Bread,Farm House
+Sandwich
+Bread
+Coffee,Brownie
+Sandwich,Juice,Juice
+Coffee
+Coffee
+Tea
+Coffee
+Hot chocolate
+Cake,Coffee
+Bread
+Bread
+Coffee,Hot chocolate
+Coffee
+Coffee,Bread
+Coffee,Cake
+Coffee
+Farm House
+Coffee
+Bread
+Coffee
+Farm House
+Scandinavian
+Bread
+Bread,Pastry
+Coffee
+Coffee
+Coffee,Bread,Pastry
+Coffee,Bread
+Coffee,Coffee,Medialuna
+Jam,Fudge,Medialuna
+Tea
+Bread,Bread
+Bread
+Pastry,Coffee,Coffee,Coffee
+Coffee
+Bread
+Coffee,Coffee
+Coffee,Cookies
+Coffee
+Coffee
+Pastry,Coffee,Coffee
+Bread
+Fudge,Coffee
+Hot chocolate,Cake
+Muffin,Coffee
+Coffee,Coffee,Medialuna
+Gingerbread syrup
+Coffee,Coffee
+Sandwich,Coffee
+Bread
+Coffee
+Coke,Coffee,Juice
+Medialuna
+Bread
+Coffee,Pastry
+Coffee,Cake,Bread
+Coffee
+Bread
+Bread
+Tea,Coffee,Toast
+Sandwich,Smoothies
+Fudge
+Coffee,Hot chocolate
+Coffee,Hot chocolate,Cake,Cake
+Hot chocolate,Sandwich
+Sandwich,Mineral water,Truffles
+Cake
+Scandinavian
+Coffee
+Cake,Bread
+Cake
+Coffee
+Bread,Coffee,Cake
+Coffee,Bread
+Cookies,Cookies,Coffee,Coke
+Bread
+Hot chocolate,Tea,Cake,Brownie
+Coke
+Tea,Coffee
+Coffee,Bread
+Pastry,Bread
+Bread
+Tea,Cookies
+Brownie
+Coffee
+Tea
+Coffee,Bread,Sandwich
+Scandinavian
+Coffee
+Bread
+Coffee,Coffee,Pastry
+Coffee
+Medialuna
+Coffee,Muffin
+Bread,Pastry,The Nomad,Bread,Bread
+Coffee
+Coffee,Hot chocolate,Cake
+Bread,Coffee,Coffee,Pastry
+Bread,Coffee,Pastry,Brownie
+Coffee
+Tea
+Pastry,Bread
+Tea
+Coffee,Medialuna
+Coffee
+Hot chocolate,Tea,Bread
+Tea,Toast
+Coffee,Cake
+Coffee
+Panatone
+Coffee,Bread,Cake
+Bread
+Bread
+Truffles
+Coffee
+Tea
+Bread,Sandwich
+Cookies
+Bread
+Tea,Cake
+Bread
+Coffee
+Bread,Brownie
+Art Tray,Bare Popcorn,Juice,Coffee,Brownie,Muffin,Cake,Cookies,Panatone
+Coke
+Tea
+Bread
+Tea,Brownie
+Tea,Sandwich,Medialuna
+Tea,Hot chocolate
+Tea,Muffin,Cake
+Sandwich,Mineral water
+Pastry,Tea,Coffee
+Coffee,Hot chocolate
+Medialuna
+Bread,Muffin,Bread,Tea
+Jam
+Bread,Tea
+Farm House
+Bread,Brownie,Juice,Cake
+Coffee,Hot chocolate,Coffee,Cake
+Fudge,Fudge
+Cake,Cake,Juice
+Bread,Jam,Jam,Fudge,Fudge
+Bread
+Bread
+Pastry,Coffee
+Bread
+Coffee,Coffee,Medialuna
+Pastry
+Medialuna,Coffee
+Bread,Farm House
+Fudge
+Bread
+Farm House
+Medialuna,Medialuna,Pastry
+Coffee
+Muffin,Cake
+Bread,Pastry,The Nomad
+Pastry,Scone
+Coffee,Coffee
+Coffee
+Medialuna,Coffee,Hot chocolate,Bread,Scandinavian
+Brownie,Cake,Hot chocolate
+Coffee,Coffee,Cake,Brownie
+Hot chocolate,Coffee
+Coffee,Bread
+Bread
+Sandwich,Sandwich,Bread,Fudge
+Tea,Juice,Muffin,Gingerbread syrup
+Tea,Coffee
+Coffee
+Coffee,Brownie
+Bread
+Bread,Hot chocolate,Muffin,Smoothies
+Coffee,Hot chocolate
+Coffee,Scone,Juice,Cake,Brownie
+Bread
+Cake,Coffee
+Gingerbread syrup,Jam,Fudge,Fudge
+Fudge
+Bread
+Coffee
+Cake,Scone,Coffee,Tea,Tea,Brioche and salami
+Bread,Truffles
+Bread,Coffee
+Bread
+Frittata,Coffee
+Muffin,Cake
+Hot chocolate
+Coffee,Scone
+Bread
+Bread
+Tea
+Bread,Scone
+Panatone
+Sandwich,Bread,Coffee,Coke
+Gingerbread syrup
+Bread,Brownie,Bread
+Frittata
+Farm House,Cookies
+Tea,Scone
+Bread
+Jam
+Tea
+Tea,Bread
+Sandwich,Coffee
+Coffee,Scone
+Cake
+Cake,Scone,Cookies,Juice,Coffee,Coffee
+Coffee,Coffee
+Coffee,Hot chocolate
+Toast,Sandwich,Hot chocolate,Cookies
+Bread,Coffee,Tea
+Hot chocolate,Cake
+Bread,Panatone
+Bread
+Coffee,Gingerbread syrup
+Bread
+Coffee,Medialuna
+Bread
+Bread
+Coffee,Coffee,Toast
+Cake,Pastry,Bread,Bread
+Coffee,Juice,Cookies
+Coffee,Pastry,Medialuna
+Bread
+Bread
+Bread,Focaccia,Farm House
+Bread
+Bread,Medialuna,Pastry
+Coffee,Coffee,Scone,Coffee
+Hot chocolate,Tea,Pastry,Scone
+Cake
+Coffee,Hot chocolate,Crisps
+Coffee,Hot chocolate
+Bread,Hot chocolate,Pastry
+Scone,Frittata
+Bread
+Pastry
+Hot chocolate
+Bread
+Coffee
+Bread
+Bread,Toast
+Tea,Coke,Juice
+Coffee,Hot chocolate,Sandwich
+Farm House
+Hot chocolate,Coffee,Coffee,Tea,Cake,Cake,Medialuna,Pastry,Farm House
+Coffee
+Pastry,Fudge,Jam,Jam
+Bread,Farm House,Coke
+Hot chocolate,Coffee,Pastry
+Focaccia,Medialuna
+Coffee
+Coffee,Coffee,Cake
+Art Tray,Toast,Sandwich,Hot chocolate,Hot chocolate,Juice
+Scone
+Bread
+Scandinavian
+Bread
+Scone
+Medialuna,Tea,Coffee,Coffee
+Hot chocolate,Hot chocolate,Coffee,Cookies,Medialuna
+Cookies
+Tea,Coke,Frittata,Sandwich
+Coffee
+Cookies
+Medialuna
+Bread
+Coffee,Sandwich
+Bread,Coffee,Sandwich
+Cake
+Coffee
+Coffee
+Coffee,Sandwich
+Fudge,Jam,Focaccia
+Bread,Medialuna
+Coffee,Tea,Coffee,Coffee
+Coffee
+Focaccia,Panatone,Fudge
+Coffee,Coke
+Scandinavian,Farm House
+Cookies
+Bread,Cake
+Scone,Coffee,Tea
+Sandwich
+Bread
+Coffee
+Tea
+Bread
+Coffee,Coffee
+Scone,Cake,Tea
+Hot chocolate
+Hot chocolate
+Bread,Focaccia,Scandinavian
+Hot chocolate
+Coffee
+Bread
+Coffee,Medialuna,Pastry
+Coffee
+Coffee,Coffee,Pastry
+Coffee,Medialuna
+Coffee
+Coffee,Hot chocolate
+Coffee,Tea
+Coffee,Coffee
+Coffee
+Coffee,Coffee,Cake
+Coffee,Coffee,Coffee,Toast
+Hot chocolate,Tea
+Pastry,Medialuna,Gingerbread syrup
+Coffee,Coffee,Sandwich
+Sandwich,Coffee,Hot chocolate
+Coffee
+Coffee,Cake
+Cookies,Coffee
+Bread,Farm House
+Coffee,Coffee
+Coffee
+Medialuna,Pastry
+Coffee,Coffee
+Coffee
+Coffee,Medialuna,Pastry,Medialuna
+Toast,Tea,Coffee
+Bread
+Farm House
+Bread
+Bread
+Bread,Medialuna,Toast,Bread
+Coffee,Coffee,Tea,Bread
+Bread,Farm House,Bread,Coffee,Sandwich,Truffles
+Coffee
+Coffee
+Coffee,Cake
+Coffee
+Coffee,Hot chocolate,Bread,Cookies,Bread
+Hot chocolate
+Medialuna,Bread
+Bread
+Bread
+Coffee
+Coffee,Bread,Cake,Bread
+Bread
+Muesli,Bread
+Coffee,Coffee,Bread
+Coffee
+Coffee
+Bread,Coffee
+Coffee
+Tea
+Tea
+Bread,Crisps,Juice,Coffee,Hot chocolate,Truffles
+Cake
+Fudge
+Coffee,Tea
+Coffee,Juice,Coffee,Coke,Sandwich,Sandwich
+Sandwich,Sandwich
+Bread
+Coffee,Bread
+Bread,Coffee
+Bread
+Coffee
+Coffee,Coffee,Hot chocolate,Cake,Cake
+Sandwich,Coffee,Hot chocolate,Cookies,Crisps,Bare Popcorn,Coffee
+Coffee
+Hot chocolate,Hot chocolate
+Coffee
+Bread
+Coffee
+Coffee
+Tea,Bread
+Bread
+Coffee,Hot chocolate,Bread
+Bread
+Bread,Bread
+Tea,Medialuna,Bread
+Medialuna,Pastry,Coffee,Coffee,Toast
+Medialuna
+Bread
+Farm House
+Coffee,Coffee,Pastry,Toast
+Coffee,Cookies,Bread
+Cake,Bread,Jammie Dodgers,Coffee,Tea,Coffee
+Coffee,Coffee,Smoothies,Toast
+Coffee,Coffee,Smoothies,Toast
+Toast,Coffee,Smoothies
+Bread
+Bread,Bread
+Bread,Coffee
+Fudge,Bread,Coffee,Bread,Cake
+Bread,Pastry
+Tea,Frittata
+Sandwich,Coffee,Bread
+Bread
+Coffee,Hot chocolate,Bread
+Bread,Bread,Juice,Juice
+Coffee
+Hot chocolate,Bread
+Coffee,Coffee,Juice,Sandwich,Cake,Bread,Lemon and coconut
+Bread
+Hearty & Seasonal,Coffee,Coffee
+Medialuna
+Coffee,Coffee
+Bread,Pastry
+Pastry,Bread,Cake
+Scandinavian
+Coke,Tea,Hot chocolate,Medialuna
+Coffee
+Jammie Dodgers,Bread
+Medialuna,Coffee,Coffee
+Coffee,Bread
+Hot chocolate,Coffee
+Coffee,Bread,Juice,Truffles,Frittata,Cookies,Crisps
+Bread
+Coffee,Coffee,Cake,Frittata
+Jammie Dodgers
+Bread,Coffee,Cake
+Bread,Coffee,Cake
+Jam
+Bread,Coffee
+Coffee,Hot chocolate,Toast
+Coffee
+Coffee
+Hot chocolate,Bread
+Bread,Coffee
+Bread,Hot chocolate,Cake
+Hot chocolate,Coffee,Cookies,Medialuna,Cookies
+Hot chocolate,Medialuna,Pastry
+Bread,Bread
+Coffee,Juice,Cake,Vegan mincepie
+Medialuna,Coffee
+Muesli
+Bread,Coffee,Frittata,Farm House
+Bread
+Coffee,Muesli
+Tea
+Bread,Sandwich,Pastry,Bread
+Sandwich,Hot chocolate
+Coffee,Tea,Toast
+Sandwich,Tea,Coffee
+Hot chocolate,Coffee,Lemon and coconut
+Bread,Coffee
+Coffee,Cake
+Medialuna,The Nomad,Bread
+Coffee
+Coffee
+Hot chocolate,Hot chocolate
+Farm House
+Sandwich,Tea
+Bread
+Coffee,Smoothies,Frittata
+Coffee
+Bread,Pastry,Bread
+Coffee,Toast,Bread
+Coffee
+Coffee,Jammie Dodgers,Bread
+Coke,Sandwich
+Medialuna
+Coffee
+Medialuna
+Sandwich,Bread,Tea,Cake
+Hot chocolate
+Coffee,Frittata
+Tea
+Bread,Tea
+Coffee,Jammie Dodgers
+Bread,Coffee,Coffee
+Coffee,Coffee,Jammie Dodgers,Bread
+Coffee,Coffee,Bread
+Coffee,Hot chocolate,Jammie Dodgers,Vegan mincepie,Cake
+Coffee,Cookies
+Coffee,Tea,Bread
+Coffee
+Bread
+Bread,Bread
+Tea
+Bread
+Bread,Coffee
+Bread,Jammie Dodgers,Hot chocolate,Bread,Bread
+Bread,Bread
+Coffee
+Pastry
+Tea
+Bread,Coffee,Coffee,Cookies
+Bread
+Coffee,Vegan mincepie
+Tea
+Coffee
+Bread,Medialuna
+Farm House
+Coffee,Hot chocolate,Vegan mincepie,Jammie Dodgers
+Coffee,Coffee
+Coffee
+Bread,Medialuna
+Bread
+Bread
+Bread,Coffee
+Bread,Farm House
+Coffee
+Coffee
+Bread,Tea,Frittata
+Farm House
+Farm House,Pastry
+Coffee
+Bread
+Coffee,Hot chocolate,Cake
+Scandinavian
+Coffee,Hot chocolate,Cake,Jammie Dodgers,Bread,Pastry
+Coffee,Coffee,Bread
+Scandinavian
+Coffee,Coffee,Coffee,Sandwich
+Tea,Tea,Hot chocolate,Toast,Sandwich
+Sandwich,Tea
+Farm House
+Bread
+Coffee,Jammie Dodgers
+Coffee
+Bread
+Farm House,Medialuna
+Coffee
+Tea,Sandwich
+Cookies,Tea,Bread
+Coffee
+Bread
+Coffee,Bread
+Tea,Hot chocolate,Sandwich
+Tea
+Sandwich
+Coffee,Bread
+Bread
+Tea,Coke
+Cake,Tea
+Bread
+Coffee
+Coffee,Toast
+Farm House
+Bread,Bread
+Coffee,Coffee
+Coffee
+Coffee,Coffee,Toast
+Coffee,Coffee,Coffee
+Toast,Bread
+Bread
+Coffee
+Coffee,Coffee,Vegan mincepie,Vegan mincepie
+Bread
+Coffee
+Coffee,Toast
+Coffee
+Cookies,Cake,Bread,Coffee
+Tea,Cake
+Bread
+Coffee,Hot chocolate,Cookies
+Coffee
+Cake
+Bread
+Juice,Coffee,Sandwich,Sandwich
+Coffee
+Bread,Coffee,Frittata,Cookies,Mineral water
+Coffee,Muffin
+Sandwich,Coffee,Cake
+Coffee
+Coffee,Coffee,Vegan mincepie,Cake
+Cake,Cake,Coffee
+Coffee
+Frittata,Coffee
+Sandwich,Cookies
+Tea
+Tea
+Tea
+Bread,Vegan mincepie
+Muffin,Coffee,Hot chocolate
+Bread
+Hot chocolate,Coffee,Cake
+Coffee
+Hot chocolate,Sandwich
+Cake,Muffin,Coffee
+Coffee
+Coffee,Hot chocolate,Medialuna
+Medialuna,Cake,Coffee,Coffee
+Bread
+Coffee,Coffee,Toast
+Bread
+Coffee
+Bread
+Coffee,Coffee
+Coffee,Bread
+Coffee
+Coffee
+Coffee,Cake
+Coffee,Bread
+Bread,Cake
+Muesli,Cookies,Tea,Coffee
+Coke,Pastry,Cake
+Sandwich,Sandwich,Coffee
+Juice
+Coffee,Juice,Tea,Muffin,Sandwich
+Medialuna
+Pastry,Hot chocolate,Coffee,Bread
+Farm House,Tea
+Bread,Brownie
+Coffee,Brownie
+Coffee,Cookies
+Coffee,Brownie
+Bread,Cookies
+Hot chocolate
+Hot chocolate,Coffee,Pastry
+Bread,Brownie
+Coffee,Cake
+Brownie,Tea,Coffee
+Coffee,Coffee
+Farm House
+Bread
+Bread
+Coffee
+Coffee
+Coffee
+Tea,Toast
+Bread,Medialuna
+Bread,Toast
+Bread,Coffee,Medialuna
+Coffee,Bread
+Hot chocolate,Hot chocolate,Muffin
+Bread,Coffee,Juice
+Hot chocolate,Hot chocolate
+Bread,Coffee
+Coffee,Bread,Truffles
+Brownie
+Juice,Bread,Muffin
+Farm House,Brownie
+Coffee,Bread
+Coffee
+Farm House
+Juice,Coffee,Sandwich,Ellas Kitchen Pouches
+Coffee,Cake
+Tea,Bread
+Coffee,Coffee
+Coffee
+Cookies
+Vegan mincepie,Cookies,Sandwich,Toast
+Bread
+Sandwich
+Bread
+Bread,Cookies,Frittata
+Sandwich
+Coffee
+Frittata,Tea,Truffles
+Coffee,Truffles,Frittata,Pastry,Fudge
+Juice,Sandwich,Sandwich
+Pastry
+Sandwich,Medialuna
+Coffee,Juice
+Bread
+Bread
+Brownie
+Bread
+Coffee
+Eggs
+Bread
+Coffee,Bread
+Truffles,Bread
+Toast,Coffee,Juice
+Coffee,Coffee,Bread
+Bread
+Coffee
+Bread
+Tea,Toast
+Toast,Coffee
+Bread
+Tea,Coffee,Coffee,Toast
+Coffee,Cookies,Toast
+Bread
+Coffee,Toast
+Coffee,Coffee,Coffee,Cookies,Cookies
+Coffee,Medialuna
+Bread,Cookies
+Coffee,Toast
+Coffee,Muffin
+Tea,Cookies,Cake,Medialuna
+Medialuna,Bread,Coffee,Coffee,Scandinavian
+Medialuna,Coffee
+Medialuna,Coffee,Bread,Frittata,Muffin
+Coffee,Medialuna
+Coffee
+Bread
+Bread
+Coke
+Coffee,Bread,Bread
+Coffee
+Sandwich
+Bread
+Coffee
+Coffee,Coffee,Sandwich
+Coffee,Pastry
+Bread,Cake
+Bread
+Bread
+Sandwich
+Afternoon with the baker
+Juice
+Coffee
+Farm House,Scone
+Coffee
+Farm House
+Coffee,Coffee,Bread,Pastry
+Coffee,Frittata,Bread,Tea
+Pastry
+Bread,Medialuna
+Coffee,Coffee
+Bread
+Coffee,Hot chocolate
+Bread,Bread
+Medialuna,Medialuna
+Coffee
+Bread
+Pastry,Bread
+Coffee,Medialuna
+Tea,Cake
+Coffee,Bread
+Coffee,Medialuna,Bread
+Coffee
+Bread
+Coffee,Scone
+Pastry
+Coffee,Pastry
+Coffee,Coffee,Toast,Scone
+Coffee,Coffee
+Scandinavian
+Coffee
+Coffee,Coffee,Pastry,Bread
+Bread
+Coffee,Coffee
+Sandwich,Bread,Hot chocolate,Bread
+Coffee,Coffee,Pastry
+Bread
+Bread,Bread
+Coffee
+Scandinavian
+Cake
+Scandinavian,Bread
+Coffee,Bread
+Medialuna,Coffee
+Frittata,Tea
+Coffee,Coffee,Jammie Dodgers,Scone
+Coffee
+Bread,Jammie Dodgers,Tea,Coffee
+Coffee,Coffee
+Sandwich,Smoothies,Truffles,Mineral water
+Bread,Coffee
+Sandwich,Coffee
+Hot chocolate,Tea
+Sandwich,Coke
+Farm House
+Coffee,Jammie Dodgers
+Afternoon with the baker
+Bread,Scandinavian
+Medialuna,Scone,Focaccia
+Bread
+Sandwich,Coffee
+Medialuna,Bread
+Bread
+Bread
+Sandwich,Sandwich,Truffles
+Scandinavian
+Muffin
+Coffee,Coffee,Bread,Scone
+Tea,Hot chocolate,Coffee,Scone,Sandwich
+Coffee,Tea
+Scandinavian
+Tea,Coffee,Frittata
+Coffee,Coffee,Frittata,Muffin,Scandinavian
+Coffee
+Tea,Bread
+Sandwich,Coffee,Coffee,Muffin,Jammie Dodgers,Fudge,Bread
+Coffee,Coffee
+Focaccia
+Bread,Truffles,Muffin
+Coffee
+Scone,Frittata,Tea,Bread
+Tea,Truffles,Sandwich
+Bread,Tea
+Tea,Bread
+Coffee,Hot chocolate,Bread,Cake,Sandwich
+Coffee
+Bread,Coffee,Coffee
+Sandwich
+Tea,Coffee,Tiffin,Scone
+Scone
+Scone,Farm House
+Coffee,Coffee,Cake
+Tea,Bread
+Cake
+Bread,Coffee
+Truffles,Toast,Frittata
+Bread,Pastry
+Medialuna,Coffee
+Medialuna,Pastry
+Bread
+Bread,Coffee,Medialuna
+Bread
+Coffee,Tiffin
+Bread
+Bread
+Bread,Coffee,Medialuna
+Tea,Muesli,Bread
+Scandinavian
+Coffee,Hot chocolate,Tiffin,Bread
+Coffee
+Tea,Smoothies,Sandwich
+Tiffin,Bread,Smoothies,Coffee,Jammie Dodgers,Sandwich
+Coffee,Bread
+Coffee,Coffee,Sandwich,Sandwich
+Bread
+Bread
+Coffee
+Bread
+Coffee
+Vegan mincepie,Jammie Dodgers,Cake,Tiffin
+Farm House
+The Nomad,Tea
+Bread
+Coffee,Coffee,Hot chocolate,Hot chocolate,Cookies,Sandwich
+Coffee
+Coffee,Cake
+Coffee,Truffles,The Nomad,Muffin
+The Nomad,Frittata,Sandwich,Coffee,Coffee,Bread
+Coffee,Coffee
+Coffee,Coffee
+Bread,Sandwich
+Coffee,Coffee
+Coffee,Bread,Cake,Tiffin
+Tiffin,Muffin,The Nomad,Truffles,Bread
+Tea
+Juice
+Bread,Vegan mincepie
+Bread,Coffee,Medialuna,Hearty & Seasonal,Bread
+Tea,Hot chocolate
+Afternoon with the baker
+Bread
+Coffee
+Bread
+Bread
+Tea
+Juice,Pastry
+Coffee
+Coffee
+Bread
+Coffee,Toast,Cookies,Coffee
+Bread
+Coffee,Coffee,Pastry,Medialuna
+Coffee,Coffee,Muffin
+Coffee
+Bread,Scone
+Muffin,Coffee,Coffee
+Bread
+Coffee,Tea
+Juice,Pastry,Medialuna
+Pastry,Coffee
+Coffee,Coffee,Cookies,Scone
+Tea,Coffee
+Coffee
+Farm House,Farm House
+Medialuna,Coke,Juice
+Coffee
+Coffee
+Coffee,Tea,Cake
+Coffee
+Sandwich,Coffee,Scone
+Tea,Toast
+Coffee
+Bread
+Farm House
+Tea,Jammie Dodgers,Scone
+Coffee,Scone
+The Nomad,Cake
+Coffee,Coffee,Medialuna,Cake
+Jammie Dodgers,Farm House
+Coffee,Bread,Tea
+Bread,Tea
+Tea,Cookies
+Bread
+Coffee
+Bread
+Farm House,Coffee
+Farm House
+Tea,Cookies
+Coffee
+Bread
+Hot chocolate,Pastry,Bread
+Coffee,Cake
+Tea
+Bread
+Bread
+Coffee,Scone
+Scone,Coffee
+Coffee
+Farm House,Scandinavian,Coffee,Toast,Cake
+Coffee,Bread
+Coffee,Farm House
+Sandwich,Tea
+Muffin
+Sandwich,Coffee,Scone
+Farm House
+Sandwich
+Coffee,Bread
+Tea,Tea
+Sandwich
+Coke
+Jammie Dodgers
+Scone,Muffin,Pastry,Frittata
+Cake
+Pastry,Coffee
+Cake,Cake
+Hearty & Seasonal,Coffee,Tea
+Fudge,Bread
+Coffee
+Bread
+Coffee,Cake
+Coffee
+Coffee
+Tea
+Bread
+Bread
+Bread
+Toast,Coffee,Coffee,Muffin
+Medialuna,Medialuna,Hot chocolate,Coffee
+Bread
+Bread,Pastry
+Bread
+Coffee
+Tea,Sandwich
+Coffee
+Medialuna,Coffee,Farm House
+Coffee,Muffin
+Hot chocolate,Coffee
+Coffee
+Tea,Toast,Tiffin,Muffin
+Cookies,Bread,Farm House
+Bread
+Granola
+Scone,Coffee,Coffee
+Bread
+Coffee,Medialuna
+Coffee,Coffee,Pastry,Muffin
+Hot chocolate,Coffee
+Bread
+Bread
+Bread,Coffee
+Bread
+Coffee,Hearty & Seasonal
+Bread
+Coffee,Coffee,Art Tray,Sandwich,Bread
+Bread,Cake
+Muffin,Alfajores,Tiffin,Tea
+Coffee
+Scandinavian
+Afternoon with the baker,Cake
+Bread
+Bread,Cake,Coffee,Tea,Scandinavian
+Scandinavian
+Coffee,Coffee
+Bread,Sandwich
+Afternoon with the baker
+Cake
+Tea
+Coffee,Cake
+Coffee
+Coffee,Bread,Cake
+Scone,Coffee
+Hot chocolate,Hot chocolate
+Tea,Cookies,Cake
+Coffee
+Pastry,Pastry,Tea,Bread
+Coffee,Toast
+Bread,Coffee
+Coffee
+Farm House
+Tea,Coffee
+Cookies
+Coffee
+Bread
+Jammie Dodgers,Juice
+Bread
+Cake,Coffee,Tea
+Hot chocolate
+Coffee,Alfajores,Alfajores,Bread
+Tiffin,Cookies,Coffee
+Jammie Dodgers
+Coffee,Tea,Cake,Toast
+Coffee,Coffee
+Coffee,Vegan mincepie
+Bread,Tea
+Toast,Coffee,Coffee
+Tea
+Coffee
+Cake
+Coffee
+Bread
+Toast,Coffee
+Cookies
+Tea,Toast
+Farm House
+Coke
+Coke
+Bread
+Toast
+Bread,Tiffin,Coffee
+Coffee,Jammie Dodgers,Frittata
+Frittata,Coffee,Coffee
+Tea,Bread
+Coffee
+Bread
+Tea
+Scandinavian
+Farm House,Hot chocolate,Coffee
+Pastry,Scandinavian
+Coffee,Coffee,Toast,Coffee
+Bread
+Coffee,Coffee,Coffee,Cake,Cookies
+Bread,Toast
+Coffee,Sandwich,Bread
+Coffee
+Bread,Scandinavian
+Coffee,Medialuna,Alfajores
+Coffee
+Pastry,Coffee
+Coffee,Coffee,Juice
+Coffee
+Coffee,Bread,Salad,Pastry
+Coffee
+Bread
+Bread
+Hot chocolate
+Coffee,Toast
+Sandwich
+Truffles
+Medialuna,Cake,Toast,Coffee,Coffee
+Coffee
+Coffee,Cake,Vegan mincepie
+Bread
+Farm House
+Coffee
+Scone,Tea,Sandwich
+Bread,Coffee
+Coffee,Jammie Dodgers
+Tea,Coffee,Toast
+Tea,Coffee,Bread,Salad,Tiffin
+Cake,Pastry,Pastry,Alfajores,Alfajores,Coffee,Bread
+Coffee,Scone
+Tea
+Brownie,Pastry,Coffee
+Bread
+Tea
+Scone
+Bread
+Tea,Scone
+Coffee,Tea,Scone,Cake
+Coffee,Truffles,Cake,Vegan mincepie
+Bread
+Hot chocolate,Medialuna
+Tea,Hot chocolate,Cookies,Jammie Dodgers,Bread
+Bread
+Coffee,Coffee,Toast
+Coffee
+Scandinavian,Bread
+Tea,Cookies,Tiffin,Brownie,Coffee
+Tiffin
+Coffee
+Coffee,Toast,Tiffin,Farm House
+Hot chocolate,Bread,Medialuna,Toast
+Hot chocolate,Bread,Medialuna,Toast
+Hot chocolate,Bread,Medialuna,Toast
+Alfajores,Scone
+Coffee,Cookies
+Coffee
+Brownie,Pastry,Bread
+Bread
+Pastry,Bread
+Coffee
+Coffee,Hot chocolate,Hearty & Seasonal,Bread
+Coffee
+Bread
+Cake
+Coffee,Coffee,Cookies,Scone
+Coffee,Coffee,Medialuna,Cake,Tiffin
+Coffee,Medialuna,Medialuna,Medialuna
+Tea,Truffles,Medialuna
+Pastry,Coffee
+Coffee,Coffee,Hot chocolate
+Scandinavian
+Coffee,Coffee,Tea,Scone
+Coffee
+Hot chocolate,Coffee,Bread,Scone,Cookies,Hearty & Seasonal
+Bread
+Bread
+Coffee,Alfajores,Pastry
+Cake,Tiffin,Bread,Hot chocolate,Coffee
+Cake,Farm House
+Coffee,Pastry
+Coffee,Alfajores
+Tea
+Coffee,Hearty & Seasonal
+Coffee,Coffee
+Bread,Tea,Tiffin
+Tea
+Bread
+Coffee,Tea
+Bread
+Coffee,Tea,Tea,Hearty & Seasonal,Tiffin,Bread,Cake
+Bread
+Bread
+Hot chocolate
+Coffee,Coffee,Brownie,Pastry,Bread
+Scone
+Coffee,Brownie,Alfajores,Toast,Juice
+Coffee,Coffee,Tea,Bread,Cake,Alfajores,Toast
+Hearty & Seasonal,Sandwich,Coffee
+Juice,Hot chocolate,Coffee,Hearty & Seasonal
+Brownie,Bread
+Coffee,Coffee,Cake,Sandwich,Hearty & Seasonal
+Coffee
+Fudge
+Tiffin,Scone,Tea
+Coffee,Sandwich
+Frittata,Tea,Bread
+Coffee
+Farm House
+Bread,Cake,Alfajores,Bread
+Coffee,Bread,Cake
+Mineral water
+Bread
+Focaccia
+Tea,Bread
+Scandinavian
+Cake
+Tiffin
+Muffin,Cookies
+Coffee,Cake
+Afternoon with the baker
+Afternoon with the baker
+Afternoon with the baker
+Coffee,Cake
+Medialuna
+Cake,Bread,Jammie Dodgers
+Bread
+Coffee,The Nomad
+The Nomad,Tea,Bread,Tiffin
+Coffee,Bread
+Coffee
+Bread,Coffee,Brioche and salami
+Coffee,Coffee,Granola,Bread
+Coffee,Coffee,Juice,Cake,Scone
+Coffee,Bread
+Bread,Bread
+Bread
+Bread,Farm House
+Medialuna,Pastry,Coffee,Coffee,Bread
+Coffee,Bread,Farm House
+Coffee,Pastry
+Pastry,Bread
+Bread
+Coffee,Bread
+Coffee
+Bread,Juice,Jammie Dodgers,Brownie
+Toast,Granola,Pastry,Coffee,Bread
+Coffee,Cake,Tiffin,Granola
+Gingerbread syrup,Coffee
+Hearty & Seasonal,Coffee,Cake
+Pastry,Tea,Coffee,Bread
+Coffee,Alfajores
+Medialuna,Jammie Dodgers,Muffin,Sandwich
+Bread
+Coffee,Tea,Juice
+Alfajores
+Hearty & Seasonal,Truffles,Mineral water,Bread,Scone,Bread
+Coffee,Jammie Dodgers,Cookies
+Bread,Toast
+Coffee,Bread,Bread
+Coffee,Truffles
+Scone,Bread,Bread
+Coffee,Tea,Cake,Jammie Dodgers
+Coffee,Jammie Dodgers
+Bread
+Medialuna,Alfajores,Coffee,Tea
+Brownie,Alfajores,Hot chocolate,Tea,Bread
+Coffee,Scone
+Bread
+Afternoon with the baker
+Bread
+Coffee
+Bread
+Bread
+Bread
+Scandinavian,Bread,Cookies
+Coffee
+Coffee
+Coffee,Medialuna,Cookies
+Cookies,Coffee,Bread,Juice
+Hot chocolate,Hot chocolate,Cookies
+Bread
+Coffee
+Tea,Cake
+Cookies,Tea
+Coffee
+Bread,Medialuna
+Scone,Coffee,Tea
+Bread,Brownie
+Sandwich
+Coffee
+Toast
+Bread
+Bread
+Coffee,Coffee
+Coffee
+Tea,Bread
+Coffee
+Coke
+Jammie Dodgers,Bread
+Bread,Medialuna,Alfajores
+Medialuna
+Coffee
+Bread,Coffee
+Coke,Tea
+Truffles
+Muffin
+Alfajores,Bread
+Bread
+Coffee,Pastry
+Tea,Coffee,Coffee
+Coffee,Toast
+Coffee,Coffee
+Coffee,Pastry
+Sandwich,Bread
+Coffee,Coffee,Alfajores
+Bread,Medialuna
+Bread
+Tea
+Coffee,Coffee
+Alfajores
+Alfajores,Bread
+Coffee
+Coffee,Coffee
+Coffee,Cake
+Bread,Jammie Dodgers
+Coffee,Coffee,Toast,Sandwich
+Coffee,Smoothies,Sandwich,Hearty & Seasonal,Cake
+Bread
+Sandwich,Truffles
+Salad,Sandwich,Coffee
+Muffin,Cookies,Bread,Hot chocolate,Hearty & Seasonal
+Farm House
+Truffles,Cake,Scandinavian,Coffee
+Tea
+Salad,Sandwich,Bread,Coffee,Alfajores
+Coffee,Bread,Toast
+Coffee,Cake
+Truffles,Coffee,Alfajores
+Coffee,Tea,Chicken Stew
+Coffee,Pastry
+Coffee
+Coffee
+Coffee
+Coffee,Soup,Cake
+Tea
+Coffee
+Tea
+Coffee
+Tea,Bread,Cake
+Bread
+Tea
+Bread
+Coffee
+Bread
+Tea,Coffee,Coffee,Muffin,Cake
+Scandinavian
+Bread,Bread
+Farm House
+Tea
+Tea,Coffee
+Medialuna,Coffee,Tea
+Bread
+Pastry,Muffin,Coffee,Tea
+Coffee,Tea
+Hot chocolate,Coke,Cake
+Soup,Pastry,Tea
+Sandwich,Alfajores
+Sandwich
+Bread,Focaccia
+Coffee,Juice,Sandwich,Crisps
+Tea,Coffee,Soup,Salad
+Coffee,Cookies
+Tea,Cookies
+Cake
+Cake,Coffee,Coke,Tea
+Coffee,Jammie Dodgers
+Coke,Sandwich
+Medialuna,Cookies,Juice,Ellas Kitchen Pouches,Tea
+Muffin,Jammie Dodgers,Cake,Bread,Hot chocolate
+Coffee,Coffee,Cake
+Cake
+Cake,Tea
+Coffee,Tea,Coffee,Cake,Cookies
+Cookies,Tea
+Focaccia,Fudge
+Pastry,Toast,Coffee
+Tea,Sandwich
+Tea,Hot chocolate,Spanish Brunch,Granola,Sandwich
+Coffee,Medialuna
+Bread
+Coffee
+Coffee,Toast
+Coffee,Coffee,Pastry
+Bread
+Farm House
+Bread,Cookies
+Bread
+Hot chocolate,Hot chocolate,Cake
+Pastry,Cake,Mineral water
+Tea
+Tea,Jammie Dodgers,Cake,Juice
+Tiffin
+Cake,Muffin
+Coffee,Coke,Juice,Truffles,Medialuna
+Coffee
+Coffee
+Coffee,Coffee
+Coffee
+Coffee,Pastry
+Cake,Coffee
+Bread,Tiffin
+Scandinavian,Bread
+Coffee,Tea,Alfajores
+Chicken Stew
+Coffee
+Coffee,Juice,Medialuna,Crisps
+Coffee
+Farm House
+Salad,Coffee
+Bread
+Bread,Medialuna
+Coffee,Coffee,Sandwich
+Hot chocolate,Chicken Stew
+Coffee,Tea,Sandwich,Medialuna
+Bread,Tea,Chicken Stew,Soup,Cake,Pastry,Alfajores,Focaccia
+Bread,Coffee,Soup,Muffin
+Bread
+Coffee,Tea,Cake
+Sandwich,Sandwich,Coffee,Tea
+Coffee,Coffee
+Bread
+Coffee
+Bread
+Hot chocolate
+Coffee,Bread,Tiffin,Bread
+Hot chocolate
+Hot chocolate,Coffee,Tiffin
+Coffee,Cookies,Bread
+Farm House
+Afternoon with the baker,Coffee,Scandinavian
+Coffee,Bread
+Coffee,Tea,Toast
+Coffee,Toast
+Coffee
+Coffee,Toast
+Coffee,Medialuna
+Coffee
+Cake
+Pastry,Bread
+Coffee
+Bread
+Farm House
+Coffee,Coffee,Coffee,Toast,Cookies
+Pastry,Coffee,Coffee
+Coffee
+Bread
+Bread,Tea,Granola
+Bread,Tea,Scone,Sandwich
+Coffee,Coffee,Pastry
+Pastry,Pastry,Coffee,Coffee,Bread
+Bread
+Bread
+Muffin,Muffin
+Farm House
+Coffee,Tea,Scone
+Coffee,Coffee
+Bread
+Bread
+Coffee,Scone
+Bread
+Chicken Stew
+Tea,Tea,Coffee
+Coffee,Tea,Scone
+Cake,Pastry,Farm House,Scandinavian
+Smoothies,Muffin
+Coffee,Tea,Sandwich,Salad
+Sandwich,Truffles
+Coffee,Sandwich
+Bread,Coffee
+Chicken Stew
+Bread,Coffee,Bread
+Coffee
+Coffee,Sandwich
+Hot chocolate
+Medialuna
+Hot chocolate
+Coffee
+Cake
+Coffee,Alfajores
+Bread,Coffee
+Bread
+Bread,Muffin
+Coffee,Bread
+Coffee,Coffee,Cake
+Bread,Muffin
+Tea,Tiffin
+Coffee
+Bread,Sandwich,Tea
+Coffee,Pastry
+Scandinavian
+Medialuna,Vegan mincepie,Juice,Tea
+Coffee,Scone
+Tea,Brownie,Raspberry shortbread sandwich
+Tea,Sandwich
+Coffee,Cookies
+Cookies
+Farm House
+Bread
+Bread
+Coffee,Medialuna
+Coffee,Pastry
+Coffee,Medialuna,Pastry
+Coffee
+Cake
+Medialuna
+Coffee
+Farm House
+Bread,Brownie
+Brownie,Coffee
+Scandinavian,Bread,Alfajores
+Bread
+Medialuna,Bread
+Bread,Pastry
+Coffee
+Scone,Tea,Juice,Medialuna
+Tiffin,Coffee
+Coffee,Cake
+Bread,Scone
+Medialuna,Coffee
+Coffee
+Spanish Brunch,Tea,Alfajores
+Cake
+Coffee,Coffee,Toast,Tiffin
+Brownie
+Pastry
+Afternoon with the baker
+Farm House
+Coffee,Coffee,Coke,Juice,Cake
+Bread,Tiffin,Cookies
+Scone,Cake,Coffee
+Coffee
+Coffee,Coffee,Alfajores,Tiffin,Brownie,Bread
+Coffee,Medialuna,Cake
+Granola,Coffee
+Cake,Hot chocolate
+Tea,Scone,Tiffin
+Bread
+Tea
+Coffee,Bread
+Coffee,Coffee,Juice,Cake,Scone,Toast
+Jammie Dodgers,Scone,Tiffin,Bread,Hot chocolate,Tea,Coffee
+Scandinavian
+Afternoon with the baker
+Bread
+Cookies
+Bread
+Bread
+Spanish Brunch,Coffee
+Scandinavian
+Scandinavian
+Brownie,Scone
+Jammie Dodgers,Cake
+Sandwich
+Hot chocolate
+Coffee,Coffee
+Coffee,Tea
+Sandwich,Cake,Smoothies,Bread
+Spanish Brunch,Sandwich,Coffee,Truffles
+Cookies
+Sandwich,Toast,Tea,Fudge
+Coffee,Jammie Dodgers
+Cake,Jammie Dodgers
+Frittata,Bread
+Coffee
+Afternoon with the baker
+Raspberry shortbread sandwich,Bread,Coffee
+Sandwich,Extra Salami or Feta,Tea,Bread,Cake
+Tea,Duck egg
+Scandinavian
+Coffee,Hot chocolate,Brownie
+Spanish Brunch,Bread
+Bread,Coffee
+Jam
+Coffee,Frittata,Scone
+Coffee,Coffee,Cake,Bread
+Coffee,Hot chocolate,Cake,Brownie,Extra Salami or Feta
+Fudge
+Coffee
+Hot chocolate,Bread,Scone
+Cake
+Bread,Bread,Frittata
+Coffee,Bread
+Brownie
+Cake,Muffin
+Cake
+Hot chocolate,Coffee
+Tea,Frittata
+Coffee
+Tea,Hot chocolate,Juice,Cookies
+Cake,Bread,Hot chocolate
+Bread
+Scone,Cookies,Coffee,Juice
+Coffee,Coffee,Brownie,Scone
+Coffee
+Tea,Raspberry shortbread sandwich
+Afternoon with the baker
+Hot chocolate,Coffee,Tea,Alfajores,Pastry,Tiffin
+Coffee,Medialuna
+Toast,Coffee
+Coffee
+Coffee,Coffee,Toast
+Coffee
+Bread,Coffee,Bread
+Bread,Eggs
+Bread
+Bread,Bread,Coffee,Scone,Frittata
+Medialuna
+Bread
+Coffee,Bread,Bread
+Coffee,Coffee,Toast
+Medialuna
+Scone
+Tea,Coffee,Toast,Bread
+Bread,Alfajores
+Coffee,Cake
+Coffee,Cake,Bread
+Bread,Coffee,Tea
+Hot chocolate,Cake,Bread
+Tea
+Alfajores,Coffee
+Hot chocolate,Coffee
+Hot chocolate,Smoothies,The Nomad,Bread,Afternoon with the baker
+Tea
+Bread
+Jammie Dodgers
+The Nomad,Juice,Coffee,Coffee
+Bread,Scone,Pastry,Cake,Bread
+Coffee,Scone,Sandwich
+Coffee,Cake,Pastry
+Tea,Cookies,Soup
+Hot chocolate,Bread,Cake,Jammie Dodgers
+Soup
+Salad
+Pastry,Frittata
+Bread
+Alfajores,Jammie Dodgers,Cake,Tiffin,Cake
+Soup,Salad,Extra Salami or Feta,Sandwich,Coffee,Coffee,Coffee
+Coffee,Coffee,Alfajores
+Cake
+Tea,Tea
+Smoothies,Tea,Hot chocolate,Jammie Dodgers
+Coffee,Bread
+Toast,Soup,Coffee,Juice
+Alfajores,Coffee,Bread
+Coffee,Coffee,Spanish Brunch,Duck egg
+Soup,Coffee,Cake
+Coffee
+Sandwich
+Coffee,Coffee,Sandwich,Sandwich
+Tea,Toast
+Coffee
+Truffles,Juice,Bread,Jammie Dodgers,Cake,Medialuna
+Coffee,Jammie Dodgers
+Bread
+Smoothies,Tea,Bread,Fudge
+Bread
+Bread
+Coffee,Coffee
+Coffee
+Hot chocolate,Toast
+Tea,Hot chocolate,Sandwich
+Tea,Coffee,Hot chocolate
+Cake
+Coffee,Coffee,Toast,Extra Salami or Feta,Cake
+Bread,Coffee,Pastry
+Coffee,Toast
+Sandwich,Bread
+Coffee
+Sandwich,Cake,Hot chocolate
+Farm House,Pastry
+Coffee,Soup
+Soup,Bread
+Tea,Tea
+Cake,Frittata
+Tea,Coffee,Cake
+Cookies,Cake
+Tea,Cake,Cake
+Cake
+Cookies
+Cake,Cookies,Sandwich,Soup,Coffee,Tea
+Tea,Cookies
+Bread
+Sandwich,Sandwich,Coke,Cake,Crisps
+Coffee,Soup
+Spanish Brunch,Tea,Bread,Cake
+Coffee
+Bread
+Coffee
+Coffee
+Coffee,Bread
+Bread,Coffee,Cake
+Coffee,Coffee,Medialuna
+Cake
+Soup,Coffee,Coffee,Coffee,Cake
+Alfajores,Coffee
+Coffee,Chicken Stew,Juice
+Coffee,Hot chocolate,Cake
+Cookies,Hot chocolate,Tea,Toast
+Coffee
+Hot chocolate,Coffee,Coffee,Cake,Cookies
+Hot chocolate,Cake
+Bread
+Bread
+Bread
+Coffee,Coffee,Pastry
+Coffee
+Coffee,Scandinavian,Focaccia
+Bread
+Coffee,Coffee
+Coffee
+Coffee
+Coffee
+Bread,Cookies
+Scandinavian
+Scandinavian
+Scandinavian
+Farm House
+Coffee,Coffee
+Bread
+Farm House
+Coffee,Vegan mincepie
+Coffee
+Coffee,Medialuna,Bread
+Muffin,Pastry,Coffee,Tea
+Cake
+Chicken Stew
+Tea
+Soup
+Bread,Coffee,Salad,Spanish Brunch
+Coke
+Tea
+Chicken Stew
+Bread
+Tea,Coffee,Soup,Art Tray
+Bread,Focaccia,Medialuna,Cookies,Coffee
+Bread
+Soup
+Chicken Stew,Art Tray,Pastry,Truffles,Coffee,Coke,Bread
+Bread,Focaccia
+Frittata,Tea
+Coffee,Chicken Stew,Art Tray
+Bread,Scandinavian
+Tea,Tea,Spanish Brunch,Salad
+Cake
+Coffee,Coffee,Hot chocolate
+Spanish Brunch,Juice,Truffles
+Coffee,Pastry
+Cake
+Fudge,Sandwich
+Muffin,Cookies
+Bread,Bread
+Coffee
+Coffee,Cake
+Tea,Chicken Stew
+Bread,Coffee,Cake
+Bread,Cake
+Bread
+Coffee,Bread
+Coffee,Pastry
+Tea,Cake
+Bread
+Bread
+Coffee,Toast
+Coffee
+Bread,Medialuna
+Eggs,Coffee,Pastry
+Coffee
+Scandinavian,Cookies
+Bread
+Bread
+Bread
+Medialuna
+Farm House
+Baguette,Bread
+Bread
+Baguette
+Soup
+Tea
+Coffee,Tea,Cookies,Pastry
+Bread
+Bread
+Coffee,Tea,Sandwich,Chicken Stew
+Sandwich,Coffee,Coke
+Sandwich
+Sandwich
+Coffee
+Bread
+Sandwich,Tea,Coffee
+Hot chocolate,Bread
+Tea,The Nomad,Cake
+Bread,Tea,Soup
+Tea,Soup,Sandwich,Medialuna
+Coffee,Tea,Cake
+Sandwich
+Tea
+Coke
+Bread
+Tea
+Juice,Cake
+Cake,Coffee
+Muffin
+Bread
+Bread,Medialuna
+Tea
+Bread,Coffee
+Bread
+Farm House
+Bread,Coffee,Tea,Cookies,Hot chocolate
+Coffee
+Coffee
+Bread,Muffin,Coffee
+Muffin
+Cookies,Juice
+Cookies,Cookies,Coffee,Hot chocolate
+Tea,Muffin,Cake,Juice,Coffee
+Tea,Muffin,Cake,Juice,Coffee
+Coffee
+Bread,Coffee,Toast
+Coffee,Hot chocolate,Art Tray,Sandwich
+Juice,Tea,Muffin
+Coffee,Coffee
+Coffee
+Coffee,Coffee,Cookies
+Bread,Baguette
+Coffee,Bread
+Coffee
+Bread,Spanish Brunch
+Coffee,Muffin
+Hot chocolate,Baguette
+Coffee,Sandwich,Medialuna
+Bread
+Coffee,Tea,Soup
+Bread,Medialuna
+Chicken Stew
+Spanish Brunch,Tea,Coffee
+Coffee,Soup,Coffee,Muffin
+Cake,Soup,Tea
+Sandwich,Bread,Muffin
+Sandwich,Coffee,Bread
+Bread,Baguette
+Pastry,Bread,Jam
+Bread
+Pastry
+Cake,Cake
+Chicken Stew,Spanish Brunch
+Bread,Farm House
+Tea,Cake
+Tea,Tea,Medialuna
+Tea,Coffee,Cookies
+Coffee,Muffin
+Bread
+Pastry,Hot chocolate
+Bread
+Bread
+Bread,Cookies
+Coffee,Toast
+Bread,Bread
+Coffee
+Coffee,Juice,Pastry
+Cookies,Muffin,Coffee,Coffee,Coffee
+Bread,Pastry
+Medialuna
+Farm House
+The Nomad,Spanish Brunch,Tea,Bread
+Coffee,Medialuna
+Farm House,Scandinavian
+Bread
+Coffee
+Coffee
+Coffee,Cookies,Bread
+Coffee,Coffee,Juice
+Coffee,Medialuna,Bread
+Coffee,Toast
+Coffee,Pastry,Coffee
+Farm House
+Cake,Muffin,Bread,Coffee,Coffee
+Coffee
+Bread
+Coffee,Muffin
+Sandwich
+Pastry,Hot chocolate,Coffee,Cake
+Scone,Coffee,Bread
+Coffee,Coffee,Tea,Cake,Medialuna
+Bread
+Bread
+Tea,Soup
+Coffee,Coffee
+Coffee,Sandwich
+Bread
+Truffles,Soup
+Soup,Truffles
+Chicken Stew,Coffee
+Soup
+Soup
+Spanish Brunch,Truffles,Juice,Sandwich
+Cookies
+Bread,Muffin
+Coffee,Tea,Brownie
+Tea
+Coffee,Tea,Soup,Extra Salami or Feta
+Baguette
+Bread,Muffin,Tea,Soup
+Coffee,Soup,Sandwich
+Coffee
+Tea
+Tea
+Tea
+Coffee,Scone
+Cookies,Muffin,Coffee
+Bread,Cookies
+Coffee
+Scone,Soup,Hot chocolate
+Scone,Coffee
+Bread
+Bread,Cookies
+Cake,Toast,Scone,Juice,Bread
+Cake,Hot chocolate,Tea
+Tea,Tea,Soup,Bakewell
+Coffee,Coffee,Coffee,Bread,Bakewell,Brownie,Cookies,Cake
+Cake,Coffee
+Coffee,Cookies,Cake
+Tea,Cookies,Coffee
+Coffee
+Pastry,Medialuna,Coffee,Juice,Farm House,Brownie
+Bread
+Coffee,Bread,Pastry,Alfajores
+Scone
+Scone,Pastry
+Pastry,Coffee,Coffee
+Bread,Eggs
+Coffee,Toast
+Tea
+Bread,Baguette
+Farm House
+Bread,Medialuna
+Farm House,Baguette
+The Nomad,Tea,Coffee
+Coffee,Bakewell,Pastry,Juice,Hot chocolate
+Baguette,Coffee,Bakewell
+Bread
+Coffee
+Coffee,Coffee,Coffee,Pastry
+Coffee,Coffee,Hot chocolate,Muffin
+Scandinavian
+Toast,Tea,Coffee
+Bread
+Bread
+Bread,Medialuna
+Coffee,Tea
+Coffee,Cookies
+Frittata,Pastry,Vegan mincepie
+Bread
+Coffee,Muffin
+Medialuna
+Cake
+Coffee,Brownie,Bread,Frittata,Juice,Smoothies,Scone
+Bread,Coffee,Bakewell
+Coffee,Coffee
+Bread,Focaccia
+The Nomad,Tea,Coffee
+Bread
+Bread,Baguette
+Bread
+Tea
+Coffee,Coffee,Medialuna
+Juice
+Coffee,Hot chocolate,Brownie
+Coffee,Coffee,Medialuna
+Coffee
+Brownie,Bread
+Coffee,Scone
+Tea,Hot chocolate,Scone
+Salad,Extra Salami or Feta,Sandwich,Coffee
+Cake,Jam
+Hot chocolate,Bread,Brownie,Scone
+Bakewell,Cake,Bread
+Coffee,Bread,Muffin,Cake
+Scone,Hot chocolate
+Bread,Jam,Scone
+Hot chocolate,Scone
+Scandinavian
+Coffee
+Bread,Coffee
+Coffee,Bread,Frittata
+Bread,Focaccia
+Bread,Gingerbread syrup
+Coffee,Bread
+Bread
+Bread,Tea
+Bread
+Spanish Brunch,Toast,Juice,Coffee
+Bread,Focaccia
+Coffee,Bread,Frittata,Salad,Sandwich
+Coffee
+Brownie,Tea
+Sandwich
+Bread
+Chicken Stew,Sandwich,Sandwich,Tea,Bread
+Soup,Sandwich,Coffee
+Tea,Bread
+Bread
+Bread
+Valentines card
+Coffee,Coffee
+Scandinavian,Cake
+Focaccia
+Scandinavian,Bread,Jam,Salad,Extra Salami or Feta,Frittata,Mineral water
+Hot chocolate
+Cake,Coke
+Scone,Tea
+Tea,Tea
+Cake,Brownie
+Brownie
+Coffee
+Bread
+Bread,Coffee
+Coffee,Tea,Scone
+Coffee,Coffee
+Coffee
+Tea,Muffin
+Hot chocolate,Tea,Medialuna
+Coffee,Hot chocolate,Bread
+Bread
+Coffee,Coffee,Tea,Bread
+Coffee,Tea
+Coffee,Coffee,Tea,Juice,Cake,Bakewell,Cookies,Sandwich
+Coffee
+Coffee
+Bread,Pastry
+Baguette,Brownie
+Bread
+Cookies,Coffee,Pastry,Cookies
+Coffee
+Coffee,Hot chocolate,Bread
+Coffee
+Coffee,Pastry,Coffee
+Tea
+Coffee
+Pastry,Muffin
+Coffee,Tea,Soup
+Cookies,Brownie
+Baguette
+Baguette
+Farm House
+Coffee
+Coffee,Coffee,Medialuna,Cookies
+Farm House
+Coffee,Granola,Bread
+Coffee,Spanish Brunch
+Cake,Bread,Baguette
+The Nomad,Coffee,Farm House,Coffee
+Bread,Bread
+Juice
+Spanish Brunch,Extra Salami or Feta,Coffee
+Bread,Granola,Pastry
+Bread,Coffee,Pastry
+Bread,Bread
+Brownie
+Spanish Brunch,Coffee,Smoothies
+Bread,Coffee,Pastry,Scone
+Hot chocolate,Coffee,Sandwich,Toast,Cake
+Bread
+Pastry,Coffee,Coffee,Bread
+Hot chocolate,Tea,Alfajores,Medialuna,Medialuna
+Tea,Bread
+Sandwich,Juice,Truffles,Coffee,Medialuna,Scone
+Bread,Coffee,Sandwich,Medialuna
+Coffee,Bread,Pastry,Frittata
+Frittata,Bread
+Coffee,Soup,Sandwich
+Coffee,Sandwich,Salad
+Salad
+Bread
+Fudge,Jam
+Tea,Hot chocolate,Cake,Medialuna,Medialuna
+Bakewell,Hot chocolate,Toast,Chicken Stew
+Coffee,Tea,Pastry
+Cookies,Cookies,Cake,Baguette,Cookies
+Bread,Tea,Cake,Bread,Chicken Stew
+Spanish Brunch,Coffee,Hot chocolate,Bakewell,Bread
+Medialuna
+Cake,Scone,Medialuna,Coffee,Tea
+Coffee,Medialuna
+Bread
+Pastry
+Coffee,Coffee
+Bread,Pastry
+Bread,Bread
+Bread
+Bread
+Bread
+Pastry
+Pastry,Coffee,Coffee
+Bread
+Farm House,Jam,Scandinavian
+Coffee,Cookies
+Pastry,Coffee,Coffee
+Sandwich,Sandwich
+Coffee,Cookies
+Coffee,Coffee,Pastry
+Coffee,Bread
+Coffee,Coffee,Bread,Soup
+Bread,Jam,Fudge,Juice
+Baguette
+Soup
+Soup
+Chicken Stew
+Coffee,Tea
+Coke,Sandwich,Soup,Bread
+Soup
+Hot chocolate,Coffee,Cake
+Coffee
+Pastry
+Bread,Bread
+Farm House
+Coffee,Toast
+Cake,Coffee
+Coffee,Bread
+Cake,Hot chocolate
+Coffee
+Tea,Hot chocolate,Cookies
+Hot chocolate
+Coffee
+Scandinavian
+Bread,Bread
+Bread
+Bread,Toast
+Bread,Brownie
+Pastry,Bread
+Tea,Sandwich
+Coffee
+Coffee,Bread
+Coffee,Juice
+Cake,Coffee,Spanish Brunch
+Coffee
+Coffee,Brownie,Baguette
+Pastry,Cake,Coffee,Coffee
+Hot chocolate,Coffee
+Farm House
+Tea,Toast
+Tea,Coffee,Pastry
+Bread,Pastry
+Coffee
+Tea,Sandwich,Bread
+Farm House,Cookies
+Tea,Cake,Bakewell
+Coffee
+Bread
+Coffee
+Bread
+Coffee
+Coffee
+Cookies,Baguette
+Coffee,Cookies,Cake,Spanish Brunch
+Tea,Coffee,Sandwich,Cake
+Coffee,Coffee,Cake
+Bread
+Baguette
+Bread
+Coke,Salad
+Bread
+Soup
+Coffee,Sandwich
+Brownie
+Bread
+Chicken Stew,Juice,Coke
+Baguette
+Soup,Tea,Coffee,Coffee
+Sandwich,Cookies,Coffee,Tea
+Coke
+Toast,Cake,Coffee
+Cake,The Nomad
+Coffee,Coffee,Bread
+Cookies,Hot chocolate,Tea,Cake,Pastry
+Tea,Coffee,Cake
+Tea,Bread
+Brownie
+Coffee,Cake,Cookies
+Bread,Bread,Bread
+Bread
+Coffee,Bread
+Bread,Pastry
+Bread
+Bread,Coffee,Toast
+Farm House
+Cake,Coffee,Bread
+Bread,Hot chocolate
+Coffee,Coffee
+Coffee,Bread
+Coffee,Cake
+Cake,Coffee
+Bread,Sandwich,Toast
+Coffee,Coffee,Medialuna
+Coffee,Bread,Alfajores,Bakewell,Tea
+Coffee,Bread
+Bread
+Coffee,Bread
+Bread,Coffee,Bread
+Bread
+Baguette
+Pastry
+Bread,Pastry
+Baguette,Bread
+Bread,Pastry,Tea,Coffee
+Cake,Bread
+Sandwich,Coke
+Coke,Cake
+Hot chocolate,Coffee,Pastry,Bread
+Spanish Brunch,Chicken Stew,Tea,Cookies
+Cake
+Coffee,Coffee
+Coffee
+Bread
+Bread,Sandwich
+Coffee,Bread,Sandwich
+Coffee,Coffee,Cake
+Granola,Extra Salami or Feta,Coffee
+Soup,Juice,Coffee
+Sandwich
+Baguette
+Coffee
+Coffee
+Hot chocolate,Coffee,Alfajores
+Tea,Coffee,Bread
+Cake,Coffee,Cookies
+Bread
+Bread
+Cookies,Tea,Bread
+Coffee,Vegan mincepie,Cake
+Bread,Coffee,Hot chocolate
+Bread
+Juice,Cookies,Brownie,Alfajores,Coffee
+Tea,Truffles,Cookies
+Coffee,Coke
+Bread
+Coffee,Bread,Toast
+Bread,Bread,Coffee
+Cookies
+Coffee,Bread
+Farm House
+Bread
+Coffee,Cookies
+Baguette
+Bread,Bread
+Alfajores
+Juice,Hot chocolate,Coffee,Tea,Pastry,Brownie
+Coffee,Coffee,Bread
+Cake,Coffee
+Coffee,Cake
+Bread
+Bread,Bread
+Juice,Tea,Bread,Cake
+Tea,Bread,Cookies,Sandwich,Juice
+Bread,Cake
+Coke,Alfajores,Hot chocolate
+Cake
+Sandwich
+Tea,Cake,Pastry
+Bread,Coffee,Coffee,Soup,Soup,Bread,Farm House
+Sandwich,Bread
+Tea,Mineral water,Soup,Cake
+Bread,Chicken Stew,Sandwich,Coffee
+Medialuna
+Jam,Scandinavian
+Cake
+Juice,Coffee,Coffee,Bare Popcorn,Salad,Extra Salami or Feta,Spanish Brunch,Farm House
+Bare Popcorn
+Valentines card
+Tea,Sandwich,Bread,Cake
+Tea,Tea,Spanish Brunch,Chicken Stew,Fudge,Alfajores
+Coffee
+Coffee,Pastry,Bread
+Bread,Alfajores
+Coffee,Coffee,Cookies
+Bread
+Coffee
+Coffee,Coffee,Juice,Cake,Alfajores
+Hot chocolate
+Coke,Sandwich
+Bread
+Baguette
+Coffee,Bread,Cookies,Juice
+Coffee,Cake
+Bread
+Bread
+Bread,Toast
+Bread,Tea,Toast,Cake
+Toast,Bread
+Cookies
+Coffee,Coffee,Toast
+Bread,Pastry
+Bread,Hot chocolate,Medialuna
+Farm House
+Coffee
+Farm House,Gingerbread syrup
+Coffee,Coffee,Coffee,Bread,Pastry,Alfajores
+Coffee,Sandwich,Baguette
+Coffee,Medialuna
+Bread
+Scandinavian
+Cookies,Bread,Bread
+Coke
+Medialuna,Pastry
+Coffee,Tea,Toast
+Alfajores
+Bread
+Coffee,Bread,Bread
+Coffee,Bread,Sandwich
+Coffee,Alfajores
+Truffles,Juice,Coffee,Bread,Pastry,Scone
+Scandinavian,Bread
+Bread
+Tea,Soup
+Soup,Truffles
+Soup,Scone,Tea
+Truffles,Sandwich
+Soup,Coffee
+Cake
+Soup
+Coffee,Toast
+Bread
+Bread
+Tea,Bread
+Coffee,Chicken Stew,Toast
+Bread
+Sandwich,Coffee,Cake,Coffee,Sandwich
+Cake
+Cookies,Bread
+Coffee,Hot chocolate,Juice,Truffles,Mineral water,Sandwich,Sandwich
+Coffee,Sandwich
+Coffee,Bread
+Tea,Coffee,Bread
+Afternoon with the baker
+Tea,Cookies
+Coffee,Soup
+Soup,Coffee
+Farm House
+Coffee,Cake
+Coffee
+Coffee
+Coffee,Tea
+Bread,Bread,Eggs
+Baguette,Scandinavian
+Coffee,Bread
+Coffee,Scone
+Eggs,Hot chocolate,Coffee,Alfajores
+Bread,Tea
+Coffee
+Coffee
+Cake
+Pastry,Baguette
+Coffee,Coffee,Toast
+Extra Salami or Feta,Coffee
+Bread,Pastry
+Scandinavian
+Pastry,Coffee
+Coffee,Coffee,Cookies
+Coffee
+Farm House
+Farm House,Cake
+Coffee,Coffee
+Coffee
+Coffee,Bread,Bread,Pastry
+Bread
+Toast,Truffles,Bread
+Bread
+Jam
+Coffee,Coffee
+Coffee
+Bread
+Coffee
+Tea,Coffee,Cake
+Coffee,Coffee,Brownie
+Farm House
+Coffee
+Sandwich,Coffee
+Farm House,Pastry
+Tea,Truffles
+Bread
+Bread
+Hot chocolate
+Bread,Baguette
+Bread
+Bread
+Scandinavian,Farm House
+Pastry,Bread
+Sandwich
+Bread,Baguette
+Coffee,Coffee,Hot chocolate,Cake
+Coffee,Pastry
+Coffee,Coffee
+Coffee,Coffee,Cake,Brownie
+The Nomad,Granola,Coffee,Coffee,Cookies,Pastry,Scone,Tea
+Coffee
+Bread,Fudge,Cookies
+Scandinavian,Alfajores
+Scone,Coffee
+Bread,Pastry,Coffee
+Tea,Alfajores,Pastry
+Pastry,Coffee,Coffee
+Sandwich,Sandwich
+Cake
+Medialuna,Bread
+Coffee,Brownie,Cake
+Cake,Cookies,Tea,Smoothies,Coffee
+Tea,Coffee,Truffles
+Bread,Brownie
+Coffee,Spanish Brunch
+Scandinavian
+Cookies
+Coffee,Mineral water,Bread
+Spanish Brunch,Juice,Coffee,Coffee,Toast
+Scone
+Tea,Sandwich
+Brownie,Coffee,Coffee
+Sandwich,Sandwich,Bread,Coffee
+Bread,Bread
+Coffee,Coffee,Chicken Stew,Soup,Sandwich
+Sandwich,Sandwich,Salad,Coffee,Coffee,Cake
+Cake
+Coffee
+Cake,Scone
+Scone,Coffee,Coffee,Coffee,Cake
+Cake,Brownie
+Salad,Sandwich,Tea,Tea,Scone,Cookies
+Chicken Stew,Truffles,Juice
+Coffee,Alfajores,Spanish Brunch
+Coffee
+Hot chocolate,Coffee,Cake
+Coffee,Cake
+Cake,Cake,Coffee,Hot chocolate
+Sandwich
+Cookies
+Brownie,Coffee
+Bread
+Cake,Cake,Coffee
+Coffee,Salad
+Coffee,Cake,Cake
+Cake,Salad,Valentines card
+Scandinavian
+Bread,Coffee
+Brownie
+Tea,Tea,Soup,Juice,Cake,Bread
+Bread,Bread,Cake,Bread,Soup,Soup
+Bread
+Coffee,Coffee,Coffee,Cake,Bread,Alfajores
+Truffles,Coffee,Tshirt
+Coffee
+Hot chocolate
+Coffee
+Juice
+Juice,Truffles,Mineral water
+Tshirt
+Tshirt
+Tea,Tea,Hot chocolate
+Tshirt
+Bread,Hot chocolate,Tshirt
+Vegan Feast,Tea
+Postcard,Coffee
+Tshirt,Coke
+Coke
+Tshirt
+Coke
+Truffles
+Tshirt
+Tshirt
+Tea
+Coke
+Tshirt,Fudge
+Hot chocolate,Coffee
+Tshirt
+Valentines card,Tshirt
+Tshirt
+Tshirt,Postcard
+Tshirt
+Valentines card,Tshirt,Postcard
+Valentines card
+Valentines card
+Postcard
+Nomad bag,Postcard,Tshirt
+Tshirt,Postcard
+Tshirt,Postcard
+Postcard
+Postcard
+Tshirt
+Tshirt,Postcard
+Coffee,Coffee,Pastry,Pastry,Farm House
+Tea,Coffee,Coffee,Pastry,Scone
+Coffee,Medialuna
+Coffee,Bread
+Hot chocolate
+Bread
+Tea,Tea,Pastry,Pastry
+Bread,Bread
+Coffee,Coffee,Tea
+Coffee,Coffee,Hot chocolate,Hot chocolate,Medialuna,Scone,Alfajores,Spanish Brunch
+Bread
+Coffee,Coffee,Alfajores,Cookies
+Sandwich,Sandwich,Coffee,Scone
+Scone,Coffee,Coffee,Coffee
+Coffee,Hot chocolate,Farm House
+Bread,Coffee,Coffee
+Hot chocolate,Hot chocolate,Coffee,Coffee,Coffee,Cookies,Cookies,Brownie,Pastry,Baguette
+Coffee,Cake
+Coffee
+Coffee,Coffee,Coffee,Tea,Medialuna,Medialuna,Cookies,Cookies
+Bread,Fudge,Alfajores
+Coffee,Tea,Sandwich
+Spanish Brunch,Bread
+Cake,Alfajores
+Bread
+Coffee,Coffee,Bread,Pastry
+Salad,Coffee,Coffee
+Coffee,Coffee,Coffee,Bread,Cookies,Alfajores,Sandwich,Sandwich
+Coffee,Coffee,Pastry,Bread
+Coffee,Pastry
+Sandwich,Coffee,Coke
+Bread,Scone,Alfajores
+Brownie,Bread,Scandinavian
+Coffee,Cake,Bread
+Cake,Pastry,Bread
+Cookies,Cake
+Hot chocolate,Tea,Alfajores
+Bread,Coffee,Coffee,Cookies,Cake
+Scandinavian
+Coffee,Coffee,Cake,Alfajores
+Coffee,Chicken Stew,Sandwich,Fudge
+Coffee,Sandwich,Fudge
+Baguette,Coffee,Tea,Cake
+Coffee,Tea
+Tea,Bread
+Bread
+Coffee
+Tea,Coffee,Sandwich,Sandwich,Bread
+Bread
+Spanish Brunch,Chicken Stew,Coffee
+Coffee,Coffee,Coffee,Cookies,Cake
+Hot chocolate,Hot chocolate,Bread,Coffee
+Coffee,Coffee,Coffee
+Bread,Bread
+Tea,Medialuna
+Coffee
+Bread,Bread
+Bread,Coffee
+Coffee
+Tea
+Bread
+Coffee,Pastry
+Coffee
+Baguette,Bread,Pastry
+Pastry,Pastry
+Cookies,Coffee
+Coffee,Sandwich
+Jam,Bread,Pastry
+Coffee
+Coffee
+Coffee,Medialuna
+Cookies,Bread,Farm House
+Bread,Cake
+Coffee
+Bread
+Coffee,Pastry
+Coffee
+Coffee,Coffee,Toast
+Bread
+Coffee
+Hot chocolate,Coffee,Toast
+Bread
+Coffee,Tea,Cake,Scone
+Pastry
+Bread,Bread,Sandwich
+Baguette
+Bread
+Bread
+Sandwich
+Coffee
+Soup,Coffee
+Coffee
+Truffles,Scone
+Coffee,Mineral water,Sandwich,Spanish Brunch,Alfajores,Truffles,Tea
+Bread,Coffee
+Bread,Fudge,Fudge
+Fudge
+Truffles
+Cake
+Coffee,Cake,Juice
+Truffles,Coffee,Sandwich,Spanish Brunch,Brownie
+Medialuna,Tea,Brownie,Tea,Soup,Soup
+Coffee,Cake,Chicken Stew
+Tea,Cake
+Bread
+Cookies,Tea,Tea
+Coffee,Juice,Alfajores
+Bread
+Brownie,Coffee,Coffee,Juice,Farm House
+Juice,Cookies,Brownie,Tea
+Coffee,Cake,Brownie
+Coffee
+Coffee,Scone
+Tea,Brownie,Toast
+Bread
+Pastry,Medialuna,Hot chocolate,Coffee
+Bread
+Sandwich,Coffee
+Bread,Farm House
+Hot chocolate
+Hot chocolate
+Hot chocolate
+Tea,Toast,Baguette
+Coffee
+Scandinavian,Bread,Nomad bag
+Bread
+Bread,Pastry
+Bread
+Coffee,Coffee
+Coffee,Coffee,Cake,Bread
+Coffee,Coffee
+Coffee,Pastry,Brownie
+Coffee,Pastry
+Bread
+Salad
+Coffee
+Bread,Coffee
+Coffee,Coffee,Cake,Alfajores
+Coffee
+Coffee,Bread,Eggs
+Tea
+Bread
+Farm House
+Coffee,Alfajores
+Coffee,Coffee,Pastry
+Juice,Chicken Stew
+Chicken Stew,Chocolates
+Soup,Coffee
+Chicken Stew,Juice,Eggs,Bread,Cake
+Cake,Cake,Coffee,Hot chocolate
+Coffee,Coffee,Cake
+Farm House
+Bread
+Baguette
+Soup
+Spanish Brunch,Tea
+Coffee,Cake
+Tea,Tea,Spanish Brunch
+Coffee,Coffee,Brownie,Truffles
+Hot chocolate,Cake
+Bread,Alfajores
+Tea
+Bread
+Coffee,Alfajores
+Bread,Smoothies,Mineral water,Alfajores,Brownie,Cake,Bread
+Coffee,Tea,Cake
+Baguette
+Sandwich,Tea
+Coffee
+Alfajores
+Bread
+Bread,Pastry
+Pastry,Bread,Eggs,Nomad bag
+Coffee,Coffee,Alfajores
+Coffee,Bread
+Coffee
+Bread
+Coffee
+Bread,Spanish Brunch
+Coffee
+Coffee,Coffee,Pastry,Medialuna
+Mineral water,Crisps,Sandwich
+Coffee,Coffee,Bread,Alfajores,Alfajores,Pastry
+Medialuna,Bread,Tea
+Coffee
+Baguette,Farm House
+Farm House
+Bread,Chicken Stew
+Chocolates,Chocolates,Coffee,Tea
+Tea,Sandwich,Brownie
+Brownie,Tea,Sandwich,Art Tray
+Sandwich,Soup,Soup,Tea
+Soup,Coffee,Hot chocolate,Brownie
+Soup,Cake
+Cake,Bread,Coffee,Coffee
+Coffee
+Soup,Chicken Stew,Mineral water
+Coffee,Bread
+Bread,Coffee
+Coffee,Pastry
+Tea,Coffee,Bread
+Coffee,Sandwich
+Bread
+Coffee
+Bread,Mineral water,Sandwich,Tea
+Bread,Bread,Bread,Cake
+Coffee,Tea,Brownie
+Bread,Bread
+Hot chocolate,Hot chocolate
+Coffee,Cake
+Coffee,Tea
+Bread,Bread
+Coffee,Cookies
+Bread,Toast
+Bread,Coffee,Pastry,Pastry
+Farm House
+Scandinavian
+Coffee,Brownie
+Bread,Hot chocolate
+Coffee,Toast
+Coffee
+Coffee,Tea,Brownie,Farm House
+Coffee,Coffee,Cookies,Cookies,Toast,Juice
+Valentines card
+Coffee,Coffee,Extra Salami or Feta,Bread
+Valentines card
+Hot chocolate,Coffee,Cookies,Cookies
+Coffee,Medialuna,Medialuna,Sandwich
+Bread
+Bread
+Bread
+Soup,Bread,Coffee
+Coffee,Soup,Pastry,Jam
+Eggs,Coffee
+Baguette
+Coffee
+Bread
+Pastry
+Scandinavian,Cookies
+Coke,Soup
+Sandwich,Coffee
+Coke,Sandwich
+Coffee,Chicken Stew
+Chicken Stew,Coffee
+Juice,Toast,Sandwich,Sandwich,Tea,Coffee,Cookies,Cookies,Alfajores,Alfajores,Hot chocolate
+Cookies
+Juice,Sandwich,Cake
+Soup,Bread
+Coffee
+Fudge,Sandwich
+Baguette
+Coffee,Coffee,Pastry,Pastry
+Medialuna,Cake,Tea,Tea
+Bread
+Coffee,Brownie
+Soup,Soup,Soup,Bread,Cake,Cake,Tea,Bread,Tea
+Coffee,Juice,Hot chocolate,Cake
+Alfajores,Bread,Coffee,Coffee
+Bread,Cookies,Bread
+Bread
+Bread
+Cake,Bread
+Coffee,Bread
+Coffee,Tea
+Bread,Bread
+Coffee,Coffee,Juice,Pastry,Cookies
+Bread,Pastry
+Bread
+Coffee,Cookies
+Hot chocolate
+Coffee,Hot chocolate
+Coffee,Cookies
+Coffee
+Coffee,Toast
+Valentines card
+Tea
+Bread
+Bread
+Coffee
+Bread,Juice,Sandwich,Sandwich,Cookies,Alfajores
+Soup
+Soup
+Scone,Coffee
+Truffles,Soup
+Chicken Stew,Cake,Juice
+Bread,Scandinavian
+Coffee,Coffee
+Sandwich,Coffee,Truffles
+Cake
+Bread
+Pastry,Bread
+Toast
+Bread
+Bread
+Chicken Stew
+Sandwich,Coke
+Coffee,Coffee,Cake,Cake,Salad,Extra Salami or Feta,Scandinavian,Bread
+Scandinavian
+Coffee,Salad
+Truffles,Duck egg,Extra Salami or Feta,Spanish Brunch,Afternoon with the baker
+Medialuna,Medialuna
+Tea,Tea,Soup,Cake,Bread,Scone,Cake
+Soup,Coffee,Coffee
+Medialuna,Cake,Spanish Brunch,The Nomad,Cookies
+Bread,Coffee
+Coffee
+Coffee,Chicken Stew
+Coffee
+Coffee,Alfajores,Pastry
+Coffee
+Coffee
+Coffee,Brownie
+Soup
+Coffee,Tea,Cookies
+Bread
+Bread
+Baguette,Coffee
+Tea
+Spanish Brunch
+Coffee
+Cake,Cake,Cookies
+Juice,Coffee,Cookies,Tea,Alfajores
+Cake,Cookies,Coffee,Hot chocolate
+Bread,Coffee,Bread
+Coffee,Scone
+Brownie,Coffee,Coffee,Baguette
+Coffee,Bread,Scone
+Coffee,Coffee
+Medialuna
+Bread
+Bread,Farm House,Nomad bag
+Bread,Pastry
+Toast,Pastry,Tea,Coffee,Coffee
+Scone,Pastry
+Cake,Tea,Toast
+Baguette
+Bread
+Tea,Toast
+Coffee
+Hot chocolate,Bread,Pastry,Pastry
+Tea
+Scandinavian,Pastry,Alfajores
+Fudge
+Tea,Tea,Pastry,Toast,Bread,Brownie,Cake
+Coffee,The Nomad
+Cookies,Cake
+Bread
+Coffee,Bread
+Coffee,Pastry
+Cookies,Cookies,Cake
+Bread
+Bread
+Coffee,Pastry
+Spanish Brunch,Coffee,Coffee,Juice
+Coffee,Coffee,Bread,Toast
+Coffee,Coffee,Coffee
+Bread
+Coffee,Bread
+Coffee,Coffee
+Baguette
+Tea,Tea,Scone
+Coffee,Hot chocolate,Bread
+Bread
+Bread,Cookies,Chicken Stew
+Sandwich,Hot chocolate,Bread
+Soup,The Nomad,Truffles
+Baguette
+Pastry
+Bread,Cake
+Soup,Coffee
+Bread
+Bread
+Coffee,Bread,Cake,Cake
+Soup,Chicken Stew,Coffee,Tea
+Hot chocolate
+Nomad bag,Bread,Coffee,Coffee,Cake,Cake
+Bread
+Spanish Brunch,The Nomad,Tea,Tea,Juice,Art Tray,Cake,Cake,Alfajores,Tea,Hot chocolate
+Alfajores,Brownie
+Coffee,Hot chocolate,Coffee,Bread,Cake
+Cake,Bread,Chicken Stew
+Coffee,Coffee,Coffee,Brownie
+Valentines card
+Bread
+Bread
+Coffee,Coffee,Chicken Stew,Pastry
+Tea,Bread
+Soup,Spanish Brunch,Sandwich,Coffee,Tea
+Coffee,Tea
+Coffee,Juice
+Coffee,Cake,Pastry
+Bread,Hot chocolate,Sandwich
+Bread
+Bread,Tea,Tea,Bread,Cake
+Afternoon with the baker
+Bread
+Bread,Scandinavian
+Tea,Tea,Cake,Medialuna,Medialuna,Coffee,Scandinavian
+Scandinavian
+Bread,Soup
+Cake,Bread,Cookies,Eggs,Juice
+Coffee
+Coffee,Tea,Pastry
+Medialuna,Coffee
+Coffee,Toast
+Pastry,Pastry,Pastry,Bread
+Coffee,Coffee,Pastry,Cookies,Bread
+Bread
+Pastry,Medialuna,Baguette
+Coffee,Scone
+Bread,Bread
+Coffee
+Bread
+Bread,Coffee,Scone
+Bread,Baguette,Hot chocolate,Coffee,Toast
+Coffee
+Coffee,Coffee,Coffee,Bread,Cake
+Coffee
+Coffee,Coffee,Scone,Cake
+Scone,Bread,Baguette
+Cake
+Coffee,Spanish Brunch,Bread
+Pastry,Brownie
+Toast
+Bread,Bread
+Bread
+Farm House
+Spanish Brunch,Cake
+Bread
+Coffee
+Coffee,Coffee,Cake
+Bread
+Coffee,Coffee,Coffee
+Tea,Cake
+Hot chocolate,Soup
+Tea
+Alfajores,Bread
+Cake,Bread
+Coffee
+Coffee,Coffee,Coffee,Tea,Toast,Duck egg,Extra Salami or Feta,Chicken Stew,Cookies,Brownie,Bread
+Bread
+Coffee,Sandwich
+Coffee,Cake
+Brownie,Bread
+Coffee,Coffee,Alfajores,Cake,Brownie
+Coffee,Brownie
+Afternoon with the baker
+Afternoon with the baker
+Bread
+Coffee,Medialuna,Baguette
+Coffee
+Hot chocolate,Toast
+Coffee,Bread,Medialuna,Alfajores
+Alfajores,Medialuna,Coffee,Bread
+Focaccia,Bread
+Coffee
+Coffee,Coffee
+Coffee
+Hot chocolate
+Coffee,Juice
+Coffee,Pastry
+Pastry,Coffee
+Scandinavian
+Juice,Chocolates,Hot chocolate,Coffee,Bread,Cookies
+Tea,Coffee
+Bread
+Coffee,Brownie,Farm House
+Bread,Cookies,Coffee
+Coffee,Coffee
+Coffee
+Coffee,Coffee,Scone,Cake,Farm House,Juice
+Coffee,Coffee,Cookies
+Scone,Coffee
+Bread
+Bread,Cookies
+Coffee
+Cookies,Cake,Cake,Truffles
+Baguette
+Bread,Tea
+Farm House
+Coffee
+Soup
+Coffee,Tea,Sandwich,Sandwich
+Soup,Tea,Tea
+Coke,Juice,Coffee,Chicken Stew,Sandwich,Sandwich,Sandwich,Cookies,Cookies
+Cake
+Truffles,Bread,Sandwich,Soup
+Cake,Coffee,Cookies,Coke
+Truffles,Salad,Chicken Stew,Medialuna,Brownie
+Coffee,Coffee,Alfajores,Cookies
+Coffee,Bread,Soup,Sandwich
+Bread,Alfajores
+Bread
+Tea,Sandwich
+Alfajores,Bread,Coffee
+Sandwich,Sandwich,Truffles,Tea
+Cake
+Farm House,Coffee
+Tea,Coffee,Soup,Cake
+Bread,Coffee
+Chicken Stew,Coffee
+Coffee,Coffee
+Bread,Coffee
+Tea,Toast
+Coffee,Coffee
+Tea,Hot chocolate,Cake,Eggs,Fudge,Bread
+Bread
+Coffee,Bread,Cake
+Alfajores,Coffee
+Bread,Bread
+Afternoon with the baker
+Medialuna,Alfajores
+Coffee,Coffee
+Coffee,Bread,Mineral water,Toast
+Bread,Pastry
+Tea
+Coffee,Tea,Cake
+Coffee,Coffee,Cake,Toast
+Coffee,Pastry,Alfajores,Farm House
+Hot chocolate,Cake
+Hot chocolate,Cake
+Bread
+Coffee,Coffee,Tea,Cake,Alfajores
+Cookies,Scone,Coffee,Hot chocolate
+Coffee,Coffee,Hot chocolate,Coffee,Cake,Medialuna
+Coffee,Coffee,Coffee,Coffee,Medialuna,Cookies
+Coffee,Cake
+Bread,Bread
+Sandwich,Coffee
+Bread
+Coffee,Cake
+Coffee,Coke,Pastry
+Salad
+Bread
+Bread,Cake
+Farm House,Cake
+Coke
+Bread
+Cookies,Cookies,Spanish Brunch,Toast,Coffee,Bread
+Tea,Tea
+Coffee
+Hot chocolate,Hot chocolate,Hot chocolate,Smoothies,Cookies,Cookies
+Coffee,Juice,Bread,Bread,Afternoon with the baker
+Coffee
+Alfajores,Bread
+Soup,Tea
+Tea,Alfajores
+Bread,Vegan mincepie
+Baguette,Alfajores
+Baguette
+Bread
+Coffee,Coffee
+Valentines card
+Valentines card
+Coffee,Coffee
+Toast
+Bread
+Coffee,Coffee
+Pastry
+Bread
+Pastry,Coffee,Coffee
+Baguette
+Coffee
+Tea,Tea,The Nomad,Pastry
+Bread
+Coffee,Bread
+Medialuna,Medialuna,Medialuna,Baguette
+Hot chocolate,Coffee,Medialuna,Soup,Cake
+Bread,Coffee
+Bread,Medialuna
+Vegan Feast
+Sandwich,Truffles
+Coffee,Toast
+Soup
+The Nomad,Coffee,Coffee
+Sandwich,Juice
+Soup,Soup,Cake,Cake,Tea,Tea
+Bread
+Baguette,Coffee,Coffee,Coffee,Salad,Art Tray,Alfajores
+Coffee,Bread
+Bread
+Cake
+Baguette
+Hot chocolate,Alfajores
+Coffee,Hot chocolate,Coffee,Medialuna,Jammie Dodgers
+Coffee,Vegan mincepie,Pastry
+Hot chocolate,Coffee,Alfajores,Cake
+Brownie
+Bread
+Coffee,Bread
+Bread,Cake
+Cake,Coffee
+Coffee
+Farm House
+Cookies
+Brownie
+Coffee
+Baguette
+Coffee
+Medialuna,Alfajores,Hot chocolate,Hot chocolate,Bread
+Pastry,Medialuna,Alfajores,Alfajores,Cake
+Coffee
+Hot chocolate,Coffee,Cake,Cookies,Spanish Brunch,Duck egg
+Coffee,Pastry
+Smoothies,Sandwich,Soup
+Coffee,Juice,Jammie Dodgers,Chicken Stew,Tea
+Hot chocolate,Juice,Hot chocolate,Toast,Chicken Stew,Tea,Tea
+Coffee
+Coffee,Coffee,Pastry,Pastry
+Coffee,Coffee,Cookies,Cake
+Coffee
+Fudge
+Coffee,Cake,Brownie,Alfajores
+Cake
+Tea,Tea,Soup
+Hot chocolate,Sandwich,Sandwich
+Afternoon with the baker
+Soup,Soup,Tea,Truffles
+Coffee,Coffee,Brownie,Cake,Sandwich,Sandwich
+Cookies
+Coffee
+Coffee,Coffee,Juice,Extra Salami or Feta,Salad,Toast
+Pastry,Coffee,Coffee,Muffin,Alfajores
+Bread
+Baguette
+Afternoon with the baker,Brownie,Cookies,Cookies
+Cookies,Farm House
+Baguette,Cake
+Cake
+Bread
+Coffee
+Tea,Medialuna
+Bread
+Coffee
+Bread
+Coffee,Coffee,Pastry,Medialuna
+Jammie Dodgers,Coffee,Bread
+Coffee
+Spanish Brunch,Tea
+Coffee,Spanish Brunch,Bread
+Tea,Coffee,Cookies,Cookies
+Bread,Bread
+Scandinavian,Baguette
+Farm House
+Bread
+Cake,Cookies,Coffee,Coffee
+Coffee,Tea,Scone,Bread
+Coffee
+Tea,Cake
+Pastry,Coffee,Coffee
+Farm House
+Juice,Bread,Sandwich,Sandwich,Sandwich,Coke
+Bread,Bread,Tea,Jammie Dodgers,Tiffin
+Bread,Tea
+Juice,Coffee,Coffee,Hot chocolate,Hot chocolate,Chocolates,Jammie Dodgers
+Brownie,Pastry,Juice,Bread,Scone
+Cake,Muffin
+Brownie,Sandwich,Baguette
+Coffee
+Coffee,Sandwich,Sandwich
+Coffee,Toast
+Pastry
+Tiffin,Sandwich
+Muffin
+Bread
+Bread
+Chicken Stew,Scone,Brownie,Medialuna
+Scone
+Sandwich,Soup,Coffee
+Scandinavian,Bread
+Chicken Stew,Tea
+Cake,Coffee,Coffee,Sandwich,Sandwich
+Bread
+Bread,Scone
+Sandwich,Tea,Tea
+Cake,Tiffin
+Baguette,Scandinavian
+Coffee,Coffee,Coffee,Tea,Coke,Tiffin,Medialuna,Bread,Soup,Chicken Stew,Sandwich
+Coffee,Bread
+Hot chocolate,Bread,Muffin
+Coffee,Scone
+Coffee,Hot chocolate
+Tea,Coffee
+Muffin
+Sandwich,Sandwich,Sandwich,Coke,Truffles,Coffee
+Baguette
+Bread,Medialuna,Brownie,Truffles
+Coffee,Coffee,Mineral water,Hot chocolate,Alfajores
+Cake,Mineral water,Coffee,Sandwich
+Coffee,Jammie Dodgers
+Coffee
+Bread,Bread,Coffee,Coffee,Tea,Brownie,Bread,Alfajores
+Scone,Bread,Tea,Coffee
+Cake
+Cake,Bread
+Muffin,Scone,Cake,Tea,Tea,Tea
+Baguette
+Bread
+Bread,Pastry
+Medialuna,Tea
+Coffee,Tea
+Bread
+Scone,Fudge
+Cake,Chocolates
+Coffee
+Bread,Pastry
+Baguette
+Bread,Sandwich
+Sandwich,Tea,Coffee
+Bread,Baguette
+Medialuna,Medialuna
+Scone,Bread,Nomad bag,Coffee
+Coffee
+Bread
+Coffee,Coffee,Pastry
+Bread
+Scandinavian,Cake,Bread,Scandinavian
+Bread,Bread
+Bread
+Coffee
+Bread,Tea
+Bread,Tea
+Tea
+Tea
+Scandinavian
+Coffee
+Bread
+Coffee
+Coffee,Coffee,Juice,Spanish Brunch,Alfajores
+Sandwich
+Eggs,Juice,Coffee,Jammie Dodgers
+Bread
+Pastry,Pastry,Bread
+Coffee
+Coffee,Medialuna,Bread,Eggs
+Bread,Bread,Pastry
+Jam
+Bread,Tea,Brownie,Jammie Dodgers,Spanish Brunch,Toast,Cake
+Bread,Bread,Brownie,Pastry
+Bread
+Coffee
+Coffee,Coffee
+Bread,Scandinavian
+Bread,Coffee,Coffee
+Farm House,Bread,Coffee,Toast
+Afternoon with the baker
+Coffee,Coffee,Jammie Dodgers,Alfajores,Juice
+Hot chocolate,Bread
+Coffee,Spanish Brunch,Coffee,Toast,Sandwich,Bread
+Coffee,Coffee
+Bread,Coffee,Jammie Dodgers,Alfajores
+Bread,Scone
+Sandwich
+Coffee,Coffee,Brownie,Sandwich
+Hot chocolate
+Smoothies,Tea,Chicken Stew,Spanish Brunch,Farm House,Cake
+Coffee
+Chicken Stew,Coffee,Bread
+Juice,Coffee,Coffee,Chicken Stew,Granola
+Jam
+Chicken Stew
+Spanish Brunch,Coffee
+Coffee,Sandwich
+Coffee,Juice,Toast
+Sandwich,Sandwich,Coffee,Coffee,Pastry,Scandinavian
+Eggs
+Coffee,Cake
+Coffee
+Cake,Scone,Chicken Stew,Soup
+Spanish Brunch,Extra Salami or Feta,Truffles,Coke,Brownie
+Farm House
+Scandinavian,Scone
+Sandwich,Bread,Bread,Muffin
+Bread
+Bread,Brownie
+Soup,Soup,Coffee,Coffee
+Chicken Stew,Sandwich,Tea,Cake
+Spanish Brunch,Chicken Stew,Sandwich,Coffee,Coffee,Juice
+Coffee
+Scandinavian
+Scone
+Hot chocolate,Coffee,Mineral water,Tiffin,Cake
+Muffin,Alfajores
+Bread,Bread
+Bread,Bread,Jammie Dodgers,Alfajores
+Cake,Coffee,Tea
+Coffee,Coffee,Coke,Brownie,Cake,Muffin
+Bread,Tiffin,Cookies,Toast
+Coffee,Coffee
+Cake,Cake
+Coffee,Bread
+Juice,Hot chocolate,Alfajores,Brownie,Vegan mincepie,Vegan mincepie
+Pastry,Medialuna,Medialuna
+Bread,Tiffin,Cookies,Toast
+Coffee,Coffee
+Smoothies,Coffee,Bread,Spanish Brunch,Bread
+Cake
+Coffee,Coffee,Smoothies,Juice,Granola
+Coffee,Coffee,Cake,Pastry
+Hot chocolate,Hot chocolate,Coffee,Bread,Bread
+Bread
+Hot chocolate,Brownie
+Coffee,Cake
+Coffee,Smoothies,Alfajores,Alfajores
+Juice,Coffee
+Spanish Brunch,Coffee,Tea,Juice
+Coffee,Coffee,Tiffin,Medialuna,Brownie,Mineral water
+Coffee,Coffee,Coffee,Coffee,Toast
+Bread,Coffee,Medialuna,Spanish Brunch,Medialuna
+Bread,Tea,Cake
+Coffee,Coffee,Scone
+Coffee,Tea,Medialuna,Toast,Farm House
+Tea,Tea,Cake,Spanish Brunch,Duck egg,Jam
+Bread,Bread
+Coffee,Coffee,Pastry
+Coffee,Tea,Spanish Brunch,Alfajores,Cake
+Bread,Coffee,Tea,Toast
+Farm House,Cake
+Tea,Pastry,Scone,Tiffin
+Tiffin,Bread
+Bread,Bread,Coffee,Cake,Alfajores
+Tiffin,Farm House
+Coffee,Spanish Brunch
+Alfajores
+Coffee,Bread
+Coffee
+Coffee,Coffee,Sandwich,Sandwich,Alfajores,Alfajores
+Scone,Coffee,Coffee
+Bread,Bread,Scone,Sandwich,Alfajores
+Coffee,Coffee
+Coffee,Spanish Brunch,Baguette
+Coffee
+Cake
+Coffee,Cake
+Bread
+Sandwich,Coke,Bread,Cake
+Coffee,Cake,Bread,Cookies
+The Nomad
+Tea,Bread,Alfajores
+Cake,Cake,Coffee granules 
+Coffee,Salad,Cake,Extra Salami or Feta,Cake,Tea
+Coffee
+Coffee,Tea,Medialuna,Brownie,Juice
+Baguette
+Coffee,Coffee,Coffee,Coffee,Cake
+Afternoon with the baker
+Afternoon with the baker
+Bread,Brownie
+Coffee
+The Nomad,Coffee
+Coffee
+Coffee,Scone
+Coffee,Medialuna
+Bread
+Fudge,Fudge
+Coffee,Bread
+Coffee,Juice,Bread
+Alfajores,Bread,Coffee,Coffee
+Coffee
+Coffee
+Coffee,Medialuna
+Pastry
+Scone,Cookies,Hot chocolate,Coffee
+Bread
+Salad
+Coffee,Tea,Coffee,Pastry
+Bread
+Bread
+Bread
+Scone
+Sandwich,Sandwich,Coffee,Coffee
+Bread
+Coffee,Coffee
+Juice,Sandwich,Spanish Brunch,Tea,Alfajores,Scone
+Bread
+Hot chocolate
+Sandwich
+Coffee,Cake
+Alfajores,Brownie,Bread,Bread
+Coffee,Bread
+Smoothies,Coffee,Bread,Cookies
+Toast,Spanish Brunch,Coke,Tea,Coffee
+Bread,Bread,Scone,Sandwich,The Nomad
+Coffee,Bread
+Coffee,Cookies
+Pastry,Jammie Dodgers
+Medialuna,Coffee,Hot chocolate
+Tea,Bread
+Truffles
+Juice,Tea,Cake
+Bread,Tea
+Coffee,Cake
+Juice
+Bread,Bread,Bread,Coffee
+Coffee,Medialuna
+Coffee,Bread
+Alfajores,Bread
+Cookies,Alfajores,Pastry,Medialuna
+Eggs
+Coffee,Toast
+Coffee
+Bread
+Bread,Coffee,Pastry
+Farm House
+Tea
+Coffee
+Coffee,Bread,Pastry
+Jam,Coffee,Bread,Scone
+Tea,Scone
+Coffee
+Tea
+Bread,Coffee
+Baguette
+Coffee
+Coffee,Coffee,Bread,Pastry
+Bread
+Bread,Coffee,Coffee
+Tea,Scone
+Coffee
+Sandwich,Tea
+Bread
+Coffee,Coffee,Tea,Medialuna
+Tea,Tea,Coffee,Coffee,Sandwich
+Bread
+Coffee,Pastry
+Cake
+Coffee,Coffee,Salad
+Bread
+Bread
+Jam
+Coffee,Cake,Toast
+Coffee,Toast
+Cake,Tea
+Truffles,Alfajores,Soup
+Cake,Alfajores
+Coffee,Cookies,Mineral water,Tea,Alfajores
+Coffee,Toast,Coffee,Cookies
+Coffee,Tea,Scone
+Cookies
+Farm House
+Tea,Chicken Stew
+Coffee,Cookies
+Bread
+Bread
+Coffee,Pastry,Cake
+Bread
+Coffee
+Alfajores,Alfajores
+Alfajores,Alfajores
+Coffee,Coffee,Pastry
+Cake,Coffee
+Coffee
+Bread,Medialuna
+Bread,Coffee,Hot chocolate
+Coffee,Bread,Pastry
+Toast
+Coffee
+Bread,Tea,Spanish Brunch
+Coffee,Coffee,Pastry,Pastry
+Coffee,Coffee
+Farm House
+Tea,Toast
+Bread
+Scone,Bread,Baguette
+Sandwich,Bread,Alfajores,Fudge
+Coffee,Sandwich
+Tea
+Coffee,Pastry,Bread
+Truffles,Coffee,Sandwich,Sandwich,Salad
+Coffee
+Tea,Coke,Pastry,Brownie,Scone,Alfajores
+Tea,Bread
+Bread,Tea
+Bread
+Tea,Tea,Tea,Brownie,Bread
+Bread,Bread,Chicken Stew,Sandwich
+Coffee
+Coffee,Sandwich
+Bread,Scone
+Soup,Sandwich,Coffee,Tea,Cake
+Farm House
+Scandinavian
+Tea,Coffee,Scone
+Smoothies,Coffee,Coffee,Cake
+Coffee,Coffee,Coffee,Sandwich,Sandwich
+Brownie,Farm House
+Coffee,Cake
+Alfajores,Cookies,Cake,Bread
+Coffee,Juice
+Bread
+Bread,Brownie,Coffee
+Cake
+Brownie,Coffee,Coffee,Bread
+Brownie,Coffee
+Coffee,Bread
+Hot chocolate
+Coffee,Coffee
+Coffee,Coffee
+Medialuna,Bread
+Hot chocolate,Coffee,Toast,Bread
+Coffee
+Coffee,Tiffin
+Muffin,Cookies,Hot chocolate,Juice
+Coffee,Juice,Cookies,Bread
+Coffee,Coffee,Coffee,Toast,Sandwich
+Baguette
+Juice,Baguette
+Chicken Stew,Coffee
+Bread
+Coffee
+Sandwich
+Cake,Brownie,Tea,Soup
+Tea,Scone
+Scone,Tea
+Coffee,Tea,Cake
+Chicken Stew
+Coffee,Alfajores
+Bread
+Spanish Brunch,Coffee
+Mineral water,Soup,Soup
+Tiffin,Muffin
+Coffee
+Bread
+Cake,Cookies
+Tea,Spanish Brunch
+Coffee,Hot chocolate
+Coffee,Juice,Coffee,Jammie Dodgers,Muffin,Cake,Bread
+Coffee,Tiffin
+Hot chocolate,Hot chocolate,Coffee,Muffin,Tiffin,Alfajores
+Bread,Bread
+Tea
+Coffee,Coffee,Tiffin,Muffin,Sandwich,Sandwich
+Jam
+Toast
+Afternoon with the baker,Brownie
+Coffee,Pastry
+Bread
+Bread
+Baguette
+Coffee
+Coffee,Coffee,Juice,Scone,Cookies
+Toast,Coffee,Coffee,Coffee
+Coffee,Coffee
+Tea
+Tiffin
+Tea
+Coffee,Coffee,Coffee
+Brownie,Cake,Tea
+Coffee,Cookies,Bread
+Pastry
+Sandwich,Toast,Tea,Tea
+Bread,Toast
+Farm House
+Coffee,Toast
+Bread,Medialuna
+Coffee,Alfajores,Muffin,Coffee
+Bread,Coffee
+Sandwich,Bread
+Tea
+Bread
+Bread
+Bread,Bread,Coffee,Coffee,Coffee,Tiffin,Medialuna,Sandwich
+Coffee,Soup,Sandwich,Cake
+Tea,Coffee,Sandwich,Muffin
+Cake,Tea,Coffee
+Soup,Soup,Coffee,Coffee
+Bread
+Cake,Bread
+Coffee,Coffee,Brownie
+Jam
+Brownie,Cake
+Coffee,Cake,Muffin,Toast,Coffee
+Tea,Tea
+Tea,Scone,Coffee
+Bread,Bread
+Tiffin,Mineral water
+Alfajores,Scone,Bread
+Bread,Smoothies,Chicken Stew
+Soup,Soup
+Sandwich,Bread
+Tea,Tiffin
+Bread
+Spanish Brunch
+Coffee,Coffee
+Coffee,Brownie
+Coffee,Truffles
+Sandwich,Sandwich,Bread,Coffee,Mineral water
+Bread
+Bread,Coffee
+Alfajores,Mineral water,Coffee,Hot chocolate,Cookies,Cookies
+Farm House
+Tea,Bread,Brownie
+Coffee,Alfajores,Tea
+Coffee,Bread,Pastry,Farm House
+Eggs
+Bread,Coffee
+Bread
+Coffee,Coke,Toast
+Cake,Muffin,Muffin,Muffin
+Bread
+Bread
+Scandinavian
+Bread,Bread,Pastry,Medialuna
+Bread,Bread
+Bread
+Baguette,Scandinavian
+Cookies,Bread
+Coffee,Coffee,Cake,Cake
+Bread
+Pastry,Coffee,Bread
+Pastry,Pastry,Coffee
+Scone
+Toast,Coffee
+Bread,Scone
+Bread,Pastry
+Tea,Bread,Alfajores,Medialuna,Bread,Jam
+Coffee,Brownie,Coffee
+Tea
+Cookies,Juice,Coffee,Coffee
+Scandinavian
+Coffee,Coffee,Cookies
+Coffee,Coffee,Pastry,Pastry
+Coffee,Coffee
+Medialuna
+Medialuna
+Coffee,Coffee,Coffee
+Tea,Coffee,Coffee,Coke
+Bread,Coffee,Coffee
+Tiffin,Medialuna
+Alfajores,Brownie,Bread,Baguette
+Coffee,Cake,Alfajores,Tea,Tea
+Coffee,Cake
+The Nomad,Chicken Stew,Cake,Coffee,Coffee
+Hot chocolate,Brownie
+Coffee,Nomad bag
+Coffee
+Coffee
+Coffee
+Coffee
+Coffee
+Bread,Mineral water
+Salad,Soup,Cake
+Extra Salami or Feta,Tea
+Bread,Soup
+Coffee,Sandwich
+Sandwich,Tea
+Coffee,Extra Salami or Feta,Salad,Bread,Sandwich
+Bread,Sandwich
+Coffee
+Hot chocolate,Coke,Juice,Chocolates,Tea
+Coffee,Coffee
+Cake
+Cake,Coffee
+Soup,Soup,Coffee,Coffee,Cookies,Scone,Hot chocolate
+Tea,Tiffin,Bread
+Scone,Muffin,Cake,Tea,Bread
+Sandwich
+Coke
+Coffee,Coffee,Cake,Cake
+Coffee,Sandwich
+Bread,Medialuna
+Cake,Cake
+Cookies,Coffee,Bread
+Hot chocolate,Cake
+Hot chocolate,Cake
+Coffee,Medialuna,Fudge
+Bread
+Coffee,Medialuna,Fudge
+Coffee
+Coffee,Coffee,Scone,Medialuna
+Bread
+Medialuna
+Coffee,Medialuna
+Cake,Coffee,Coffee,Juice,Soup
+Coffee
+Coffee
+Tea,Coffee,Medialuna,Art Tray
+Coffee
+Coffee,Toast,Medialuna,Coffee
+Medialuna,Medialuna,Cake,Scone
+Farm House,Eggs,Bread,Medialuna
+Coffee
+Farm House
+Bread,Alfajores
+Scone,Jammie Dodgers,Cake
+Bread,Scone
+Bread
+Coffee,Coffee,Hot chocolate
+Coffee,Hot chocolate,Sandwich,Cake
+Alfajores,Pastry,Baguette,Coffee,Coffee
+Bread
+Tea,Tea,The Nomad
+Coffee,Coffee,Alfajores,Scone
+Sandwich,Coffee,Coffee,Juice,Bread
+Farm House,Cookies
+Cake,Jammie Dodgers
+Hot chocolate,Bread
+Bread
+Tea,Cookies
+Coffee,Coffee
+Coffee,Coffee,Coffee,Juice,Sandwich,Sandwich,Cookies,Cookies,Extra Salami or Feta
+Coffee
+Jammie Dodgers,Tiffin,Bread,Juice,Tea,Coffee
+Pastry,Cake,Bread,Coffee,Tea
+Pastry,Coffee
+Toast
+Coffee,Bread
+Coffee
+Spanish Brunch,Soup,Tea,Tea
+Coffee,Coffee,Coffee,Art Tray,Soup,Soup,Salad,Spanish Brunch
+Sandwich,Sandwich,Cookies
+Juice,Spanish Brunch
+Cake
+Bread
+Soup,Spanish Brunch,Coffee,Coffee
+Bread
+Coffee,Coffee,Scone,Cake
+Coffee,Coffee,Scone,Cake
+Coffee,Hot chocolate,Cake
+Chicken Stew
+Coffee,Coffee,Cake
+Coffee,Hot chocolate,Sandwich,Sandwich
+Coffee,Coffee,Sandwich,Sandwich,Jammie Dodgers,Tiffin
+Coffee,Coffee
+Bread,Bread
+Coffee,Cookies,Jammie Dodgers,Cake,Tiffin
+Coffee,Soup
+Coffee,Spanish Brunch
+Spanish Brunch,Coffee,Coffee
+Scone,Cake,Tea,Tea
+Jam,Fudge
+Cake,Truffles
+Coffee
+Coffee,Pastry
+Coffee,Coffee,Medialuna
+Coffee,Coffee
+Coffee,Bread
+Coffee,Medialuna
+Tea,Pastry
+Farm House
+Coffee,Jammie Dodgers,Juice
+Bread,Coffee,Pastry,Pastry
+Bread
+Bread,Coffee
+Coffee
+Bread
+Bread,Tea,Tea,Medialuna
+Coffee,Coffee
+Coffee,Spanish Brunch
+Sandwich,Coke
+Soup
+Bread,Soup
+Coffee,Toast
+Granola,Coffee
+Tea,Tea,Medialuna,Jammie Dodgers
+Farm House
+Chicken Stew
+Coffee
+Tea,Tea
+Bread,Bread
+Coffee,Coffee,Pastry,Pastry,Soup,Chicken Stew
+Coffee,Coffee,Jammie Dodgers,Truffles
+Bread,Bread,Coffee
+Bread
+Bread,Bread
+Coffee,Tea,Tiffin
+Bread
+Bread
+Bread
+Bread
+Bread
+Bread,Pastry
+Juice,Tea
+Farm House
+Coffee,Tea,Toast
+Baguette
+Baguette,Pastry,Cake,Truffles,Coffee
+Coffee
+Coke,Bread
+Bread,Cookies
+Bread,Bread
+Pastry,Coffee,Coffee
+Bread
+Bread,Bread,Bread
+Coffee,Coffee,Bread
+Bread,Bread,Tea,Pastry
+Coffee,Bread
+Scandinavian
+Coffee,Bread
+Coffee,Coffee
+Bread
+Baguette
+Jammie Dodgers,Bread
+Coffee
+Bread
+Mineral water,Coffee,Soup
+Bread,Pastry
+Tea,Cookies
+Coffee
+Coffee
+Coffee,Coke,Sandwich,Soup
+Coffee,Farm House
+Baguette,Scandinavian,Pastry
+Hot chocolate,Tea,Sandwich,Sandwich
+Coffee
+Tea,Cake
+Coffee,Coffee,Alfajores,Pastry
+Coffee,Hot chocolate
+Coffee,Coffee,Coffee
+Coffee,Sandwich
+Tea,Tea,Bread,Alfajores,Bread,Spanish Brunch
+Hot chocolate,Coffee,Coffee,Cookies
+Coffee,Cake
+Tea,Cookies
+Smoothies,Cake,Coffee,Bread
+Bread
+Bread
+Vegan Feast
+Coffee,Coffee,Cake,Cake
+Hot chocolate,Tea,Pastry
+Cake,Coffee,Hot chocolate
+Bread,Tea,Coffee
+Coffee
+Coffee
+Coffee,Tea,Toast
+Coffee,Coffee
+Bread
+Coffee,Coffee,Alfajores,Pastry,Pastry,Juice
+Coffee,Baguette
+Coffee,Coffee,Cake,Pastry
+Tea,Coffee
+Bread,Pastry
+Bread,Pastry
+Vegan mincepie,Coffee,Baguette
+Baguette
+Bread,Coffee,Tea
+Coffee,Cake,Cake,Toast,Juice
+Hot chocolate,Truffles
+Coffee,Toast
+Hot chocolate
+Bread
+Tea
+Chicken Stew
+Chicken Stew
+Soup,Chicken Stew,Tea,Tea,Bread
+Bread,Pastry
+Mineral water,Salad
+Duck egg,Sandwich,Soup,Truffles,Coffee
+Coffee,Bread
+Hot chocolate,Sandwich
+Bread
+Coffee,Coffee,Tea,Tea,Soup,Chicken Stew,Cake,Cake
+Cookies,Coffee
+Farm House
+Coffee,Coffee,Bread
+Tea,Coke,Truffles,Bread
+Bread
+Cake,Bread,Tea
+Bread,Smoothies
+Coffee
+Coffee,Juice
+Coffee
+Bread
+Tea,Toast,Coffee
+Jam,Bread
+Coffee,Pastry
+Bread
+Bread
+Tea,Cake
+Bread,Hot chocolate
+Coffee,Coffee,Cake
+Bread,Pastry,Hot chocolate,Coffee
+Hot chocolate,Coffee,Cake
+Coffee,Toast
+Cake,Coffee
+Pastry,Pastry,Bread
+Coffee,Coffee,Tea
+Coffee,Coffee,Baguette
+Coffee,Coffee,Pastry
+Bread,Pastry
+Bread
+Coffee,Coffee,Cookies
+Coffee,Sandwich
+Tea
+Bread
+Bread
+Tea,Tea
+Bread
+Coffee,Coffee
+Chicken Stew
+Coffee,Sandwich
+Coffee,Hot chocolate,Bread,Pastry
+Coffee,Coffee,Bread
+Coffee,Coffee,Coffee,Bread
+Hot chocolate,Pastry
+Coffee,Hot chocolate
+Coffee,Tea
+Tea,Tea
+Coffee,Cake
+Coffee,Cake
+Muffin,Bread
+Tea,Tea,Pastry
+Cake
+Bread
+Bread
+Bread
+Bread,Pastry
+Bread,Bread
+Coffee
+Coffee,Coffee,Toast
+Coffee,Coffee
+Coffee,Coffee
+Coffee,Coffee,Juice,Cake,Cookies
+Coffee
+Coffee,Tiffin
+Bread
+Coffee
+Coffee,Pastry,Pastry
+Pastry,Pastry,Bread,Sandwich,Coffee
+Fudge
+Scandinavian
+Bread,Hot chocolate
+Fudge,Fudge,Coffee,Alfajores
+Coffee
+Coffee,Coffee
+Tea
+Bread
+Bread
+Coffee,Pastry
+Coffee,Tea
+Sandwich
+Coffee,Cake,Tiffin
+Coffee
+Coffee,Pastry,Tea
+Coffee
+Coffee,Coffee
+Chicken Stew,Sandwich,Mineral water
+Cookies,Cake,Bread
+Bread,Pastry,Coffee,Eggs
+Bread
+Coffee,Salad,Sandwich
+Coffee,Bread,Pastry
+Bread,Bread,Coffee
+Chicken Stew,Tea
+Cookies,Sandwich,Coffee,Coffee
+Coffee,Coffee,Tiffin,Alfajores
+Bread,Pastry,Pastry
+Tiffin,Hot chocolate
+Spanish Brunch,Duck egg,Tea,Bread
+Tea,Soup,Cookies
+Juice,Muffin,Cake,Soup
+Sandwich,Coffee,Coke,Smoothies
+Afternoon with the baker
+Coffee,Coffee,Sandwich
+Pastry,Scone,Bread
+Coffee,Bread
+Bread
+Sandwich
+Coffee,Cookies
+Scone
+Coffee
+Bread,Bread,Tiffin,Sandwich
+Tea,Juice,Bread,Afternoon with the baker
+Scone,Coffee
+Cake
+Coffee,Coffee,Truffles,Alfajores,Scone
+Coffee
+Bread
+Coffee
+Coffee,Scone,Bread
+Bread
+Coffee
+Coffee,Coke,Pastry
+Farm House,Coffee,Hot chocolate
+Bread,Pastry
+Scone
+Pastry,Coffee
+Scone,Bread
+Coffee,Juice,Tiffin,Brownie
+Alfajores,Scandinavian
+Bread
+Tea,Juice,Coffee
+Pastry,Pastry,Scone,Coffee
+Muffin,Scone,Coffee
+Bread
+Coffee
+Bread
+Baguette,Scone,Medialuna,Cookies,Scandinavian
+Bread,Coffee,Bread
+Coffee,Coffee,Pastry,Bread
+Baguette
+Bread
+Bread,Cake,Jammie Dodgers
+Bread,Coffee,Sandwich,Extra Salami or Feta
+Cake,Brownie,Mineral water,Coffee,Tea,Hot chocolate
+Coffee,Coke
+Bread
+Tea,Coffee
+Coffee,Coffee,Coffee,Cookies
+Bread
+Spanish Brunch,The Nomad,Coffee
+Coffee,Muffin
+Scone,Coffee
+Coffee,Coffee,Bread,Tiffin
+Baguette
+Bread,Coffee
+Coffee,Smoothies,Brownie,Sandwich,Sandwich
+Toast,Scone,Brownie,Coffee,Coke
+Bread,Bread,Cake,Soup,Smoothies,Sandwich
+Bread
+Coffee,Juice,Toast,Sandwich,Baguette
+Bread,Coffee
+Coffee
+Coffee,Spanish Brunch
+Bread,Brownie,Scandinavian,Coffee,Coffee,Soup
+Pastry
+Vegan Feast
+Cake,Muffin
+Baguette
+Sandwich,Chicken Stew,Coffee,Truffles,Coke
+Tea,Scone,Soup
+Bread
+Soup,Sandwich,Juice
+Cookies,Mineral water,Coffee
+Cookies,Pastry,Coffee
+Sandwich,Coffee,Soup,Art Tray,Scone,Brownie
+Cake,Tiffin
+Scone,Tea
+Brownie,Cookies
+Sandwich,Juice
+Hot chocolate,Coffee,Cake,Scone,Cookies,Bread
+Tea,Hot chocolate,Cake,Salad
+Bread,Tea,Soup,Sandwich
+Spanish Brunch,Sandwich
+Toast,Bread
+Coffee,Tea,Toast
+Scone
+Scone,Coffee,Coffee
+Bread,Brownie
+Tea,Soup
+Hot chocolate,Coffee,Cake,Scone
+Coke,Tea,Brownie
+Hot chocolate,Truffles,Spanish Brunch
+Chicken Stew,Granola,Coke
+Spanish Brunch,Smoothies
+Bread
+Coffee,Coffee,Scone
+Tea
+Tea
+Scandinavian
+Coffee,Hot chocolate
+Scone,Cake,Bread,Bread,Coffee,Hot chocolate
+Tea,Scone,Bread
+Scandinavian
+Coffee,Coffee,Bread
+Bread,Coffee,Scone,Cookies,Soup,Salad,Truffles,Mineral water
+Tiffin,Coffee,Tea
+Coffee
+Bread,Hot chocolate,Scone
+Tea,Tea,Coffee,Cake,Scone
+Bread
+Scandinavian,Muffin
+Scandinavian
+Farm House
+Bread,Medialuna
+Coffee,Spanish Brunch
+Coffee
+Coffee
+Bread,Coffee,Pastry,Spanish Brunch
+Bread,Scone
+Bread,Coffee,Coffee,Toast
+Bread
+Pastry,Bread,Pastry
+Hot chocolate,Cookies,Pastry
+Coffee,Coffee,The Nomad
+Coffee,Jammie Dodgers,Muffin,Tea
+Coffee
+Coffee,Brownie
+Coffee
+Bread,Coffee
+Coffee,Coffee,Hot chocolate,Muffin
+Bread
+Farm House
+Coffee,Tiffin
+Coffee,Coffee,Toast,Pastry,Scone
+Coffee
+Jam
+Pastry,Cake,Coffee
+Soup,Coffee,Juice,Tea
+Pastry
+Coffee
+Jammie Dodgers,Coffee
+Coffee
+Coffee
+Muffin
+Coffee,Cake,Muffin
+Pastry,Bread
+Coffee,Pastry,Bread
+Hot chocolate
+Juice,Cake,Coffee
+Coke,Sandwich
+Sandwich,Smoothies
+Coffee,Coffee
+Scone
+Cake,Bread,Coffee,Juice
+Cake,Coffee,Tea
+Truffles,Coffee,Cake,Pastry,Sandwich
+Tiffin
+Coffee,Cake
+Cake,Scone,Medialuna,Soup,Coffee,Coffee,Tea
+Coffee
+Bread,Coffee
+Coffee,Medialuna,Pastry
+Jammie Dodgers,Tiffin
+Coffee,Bread,Alfajores
+Afternoon with the baker
+Afternoon with the baker
+Afternoon with the baker
+Afternoon with the baker,Afternoon with the baker
+Afternoon with the baker
+Jammie Dodgers
+Coffee
+Coffee
+Coffee,Bread
+Coffee
+Bread
+Bread
+Coffee,Pastry
+Bread
+Tea,Pastry
+Pastry
+Tea
+Coffee
+Farm House
+Coffee
+Cookies,Pastry,Coffee,Coffee
+Bread,Coffee,Toast
+Tea,Coffee,Cake
+Toast,Coffee
+Coffee,Toast
+Bread
+Bread
+Bread
+Farm House,Cake
+Soup,Coffee
+Coffee
+Bread,Sandwich
+Bread
+Juice,Coffee,Sandwich,Cake
+Bread
+Tea
+Cake,Bread
+Chicken Stew,Coffee
+Coffee
+Coffee,Salad
+Soup,Bread
+Bread,Cake
+Bread
+Coffee,Coffee,Cake,Sandwich,Sandwich
+Cake,Truffles,Tea,Coffee,Salad,Chicken Stew
+Coffee,Juice,Drinking chocolate spoons 
+Bread,Sandwich,Coffee,Coffee,Soup,Cake
+Juice
+Tea
+Bread
+Tea,Hot chocolate,Cake
+Tea,Coffee,Toast,Pastry
+Coffee,Cake
+Afternoon with the baker
+Bread
+Coffee
+Toast,Coffee
+Bread,Cookies,Pastry
+Coke
+Coffee
+Coffee,Tea
+Bread,Pastry
+Coffee
+Coffee
+Bread,Pastry
+Baguette
+Bread
+Coffee
+Tea,Coffee
+Coffee,Coffee,Granola
+Coffee
+Bread
+Bread,Sandwich
+Coffee
+Coffee
+Bread,Toast
+Hot chocolate,Coffee,Pastry,Cookies
+Coffee,Coffee,Bread,Cookies
+Baguette
+Bread,Tea
+Coffee
+Coffee
+Bread
+Coffee,Bread,Pastry
+Bread
+Pastry,Coffee,Bread,Spanish Brunch
+Soup,Coffee,Coffee
+Bread,Salad,Spanish Brunch,Jam
+Tea,Soup
+Coffee,Soup,Sandwich
+Hot chocolate,Coffee,Sandwich,Cake
+Coffee,Salad,Tiffin
+Hot chocolate,Coffee,Sandwich,Cake
+Coffee,Soup,Spanish Brunch
+Cookies
+Farm House
+Farm House,Soup,Salad,Spanish Brunch,Toast,Coffee,Coffee
+Fudge
+Chicken Stew,Tea
+Farm House
+Cake,Tiffin,Coffee,Coffee
+Spanish Brunch,Tea
+Bread
+Coffee
+Pastry,Tiffin,Truffles,Bread,Soup
+Bread
+Bread,Pastry
+Coffee,Cake
+Tea,Tea,Cake,Cake
+Cake,Tea
+Hot chocolate,Coffee,Bread
+Bread
+Bread,Bread
+Bread
+Bread,Pastry
+Pastry,Coffee
+Medialuna,Bread
+Toast,Bread
+Bread
+Coffee,Coffee,Cake
+Tea,Tea,Bread,Coffee,Pastry
+Bread
+Pastry
+Bread
+Baguette
+Coffee,Coffee,Pastry
+Bread
+Coffee,Coffee
+Coffee,Coffee,Chicken Stew,Salad
+Bread
+Soup
+Truffles,Coffee,Sandwich,Sandwich,Bread
+Soup,Soup,Mineral water,Farm House
+Bread
+Coffee,Tea,Soup
+Chicken Stew
+Coffee
+Cake,Jammie Dodgers
+Bread
+Coffee,Coffee,Coffee,Tea,Cake,Scone,Sandwich,Sandwich
+Baguette
+Tea,Juice,Scone,Cake
+Bread,Pastry
+Coffee,Tiffin,Cake,Truffles
+Coffee,Jammie Dodgers
+Coffee,Toast
+Bread
+Pastry,Coffee
+Coffee
+Coffee,Toast,Bread
+Baguette
+Coffee,Toast
+Coffee,Tea,Cake,Bread
+Bread,Hot chocolate
+Coffee,Baguette
+Tiffin,Cake
+Coffee
+Coffee
+Cake,Juice
+Bread
+Coffee,Tiffin
+Tea,Sandwich
+Sandwich,Tea
+Coffee,Chicken Stew
+Sandwich,Cookies
+Salad,Coffee,Juice
+Tea,Bread,Salad,Sandwich
+Bread,Pastry,Truffles
+Bread,Scandinavian
+Chicken Stew,Coffee
+Soup
+Coffee,Sandwich
+Cookies,Soup
+Christmas common
+Coffee
+Soup,Sandwich,Coffee,Medialuna
+Coffee,Coffee,Hot chocolate,Coffee,Pastry,Cake
+Coffee
+Pastry
+Bread,Coffee,Pastry,Chicken Stew
+Coffee
+Tea,Cake
+Truffles,Spanish Brunch,Cake,Coffee
+Truffles,Spanish Brunch,Cake
+Bread,Tea,Scone
+Coke,Tea
+Tea,Cake
+Coke
+Bread,Cake,Coffee,Bread
+Coffee,Coffee,Tea,Cake,Scone,Cookies
+Coffee
+Coffee
+Coffee
+Bread
+Coffee,Bread,Pastry
+Coffee,Bread,Spanish Brunch
+Bread,Toast
+Bread
+Baguette
+Coffee,Pastry
+Hot chocolate,Tea,Cake
+Coffee,Bread
+Bread,Bread,Pastry
+Coffee
+Pastry,Pastry
+Bread,Coffee,Coffee,Bread,Toast
+Coffee
+Bread
+Coffee
+Bread,Cookies
+Medialuna,Bread
+Tea
+Coffee,Cake,Jam,Truffles
+Coffee,Coffee,Juice,Pastry,Cookies
+Coffee,Tiffin,Bread
+Cake,Cookies,Cookies,Coffee,Coffee,Juice
+Vegan Feast,Pastry,Coffee,Coffee
+Coffee,Pastry
+Coffee,Bread
+Bread,Coffee
+Bread
+Coffee,Coffee,Medialuna
+Coffee
+Coffee,Tea,Tiffin
+Bread,Bread
+Brownie
+Coffee
+Tea,Sandwich,Sandwich
+Coffee,Tiffin
+Bread,Scone
+Soup,Salad,Bread
+Sandwich,Coke
+Toast,Coffee,Bread
+Cake,Sandwich,Sandwich,Coffee
+Truffles,Soup
+Vegan mincepie,Cookies,Tiffin,Bread
+Cookies
+Soup
+Coffee,Spanish Brunch
+Coffee,Scone
+Bread,Coffee,Sandwich
+Salad,Spanish Brunch,Coke
+Coffee,Tea,Bread,Tiffin,Chicken Stew
+Tea,Bread,Cake
+Truffles,Mineral water,Bread,Scone,Spanish Brunch
+Coffee
+Truffles,Cake
+Coffee
+Coffee,Bread
+Cookies,Tiffin
+Tea
+Medialuna,Medialuna,Coffee
+Coffee,Toast
+Baguette,Farm House
+Medialuna
+Cake,Bread
+Bread
+Coffee,Tea
+The Nomad,Coffee,Medialuna
+Duck egg,Tea
+Coffee,Coffee,Scone,Bread
+Scandinavian,Tea,Coffee
+Scandinavian,Bread
+Chocolates,Coffee,Coke
+Coffee,Coffee,Bread
+Tea,Tea,Juice
+Scone,Pastry,Coffee
+Coffee,Coffee
+Baguette
+Tea,Tea,Spanish Brunch,Fudge,Jam
+Coffee,Spanish Brunch,Truffles
+Scone,Cake,Scandinavian
+Coffee
+Sandwich,Coffee
+Bread,Farm House
+Bread,Toast,Cookies
+Bread
+Farm House,Coffee,Cookies
+Spanish Brunch,Bread,Cake,Medialuna,Coffee,Brownie
+Pastry,Coffee,Soup,Sandwich
+Muffin
+Tea
+Tiffin
+Bread,Coffee
+Bread
+Hot chocolate,Bread,Cookies
+Bread,Juice,Cake,Jammie Dodgers
+Scone,Bread
+Tea,Bread,Hot chocolate,Tiffin
+Coffee,Bread
+Coffee
+Cake,Granola,Coffee,Sandwich,Coffee
+Scone
+Pastry,Sandwich
+Sandwich,Sandwich,Coffee,Coffee
+Bread,Pastry,Cake
+Pastry
+Brownie,Drinking chocolate spoons ,Bread,Coffee,Sandwich,Sandwich
+Coffee,Coffee,Sandwich,Sandwich
+Jammie Dodgers,Bread
+Tea,Cake
+Coffee,Coffee
+Tea,Juice,Muffin,Salad
+Tea,Spanish Brunch
+Spanish Brunch,Sandwich,Toast,Cake,Medialuna,Chicken Stew
+Bread
+Soup,Bread
+Bread,Coffee,Juice,Scone
+Coffee,Toast,Scone
+Bread
+Bread,Bread,Cake
+Brownie,Coke
+Coffee,Sandwich
+Bread,Jammie Dodgers,Cake
+Coffee,Bread,Scone
+Coffee,Coffee,Scone,Cake
+Sandwich,Coffee,Coffee
+Argentina Night,Vegan Feast
+Coffee,Cake
+Cake,Tea
+Tea,Cake,Scone
+Bread
+Bread
+Coffee
+Coffee,Cake
+Coffee
+Coffee
+Bread,Juice,Muffin,Cookies
+The Nomad,Duck egg,Coffee,Coffee,Tea
+Coffee,Muffin
+Hot chocolate,Coffee,Scone,Cake
+Coffee,Pastry
+Coffee,Pastry
+Scone,Bread
+Bread
+Coffee,Sandwich,Brownie
+Coffee,Cake
+Scone,Coffee,Coffee,Spanish Brunch
+Coffee,Coffee
+Bread,Coffee
+Coffee,Spanish Brunch
+Spanish Brunch,Coffee
+Bread
+Cake,Muffin,Vegan Feast
+Bread,Bread,Brownie
+Coffee
+Bread,Coffee
+Coffee,Coffee,Bread,Hot chocolate,Cake,Cake,Vegan mincepie,Bread
+Tea,Muffin,Jammie Dodgers
+Bread
+Tea
+Pastry,Scone,Coffee,Tea
+Coffee,Pastry
+Baguette
+Cookies,Coffee
+Coffee
+Coffee
+Bread
+Coffee,Truffles,Juice
+Coffee
+Coffee
+Smoothies,Spanish Brunch
+Coffee,Juice,Toast,Muffin
+Bread
+The Nomad,Coffee
+Hot chocolate
+Bread,Spanish Brunch
+Tea,Spanish Brunch
+Coffee,Smoothies,Cookies,Medialuna,Scone
+Half slice Monster ,Tiffin,Coffee,Juice
+Baguette
+Coffee,Coke,Tea,Sandwich,Spanish Brunch
+Bread
+Hot chocolate,Coffee,Cookies
+Soup,Coffee,Cake
+Bread
+Coffee
+Bread,Mineral water,Drinking chocolate spoons ,Coffee
+Hot chocolate
+Tea,Tea,Cake
+Tea,Coffee,Cake,Jammie Dodgers
+Medialuna
+Scone
+Hot chocolate,Cake
+Medialuna,Muffin,Spanish Brunch,Chicken Stew,Coffee
+Farm House
+Coffee,Cake
+Cake,Cookies,Tea,Coffee,Sandwich,Soup
+Coffee,Cookies
+Bread,Cake
+Coffee,Coffee,Spanish Brunch,Sandwich
+Coffee,Cookies
+Bread,Hot chocolate,Sandwich,Chocolates
+Pastry,Coffee
+Coffee,Jammie Dodgers
+Coffee
+Cake
+Pastry,Bread,Jam
+Bread
+Tea
+Tea,Coffee,Spanish Brunch
+Afternoon with the baker
+Bread
+Coffee,Cookies
+Coffee,Tea,Cookies,Cake
+Coffee,Coffee
+Coffee,Coffee
+Coffee,Coffee,Muffin
+Bread
+Tea
+Coffee,Pastry,Pastry
+Sandwich,Sandwich,Tea,Coffee
+Bread
+Tea,Cake
+Coffee
+Baguette
+Baguette,Scone
+Coffee
+Coffee,Coffee,Pastry,Pastry
+Coffee,Pastry
+Pastry
+Bread
+Pastry,Pastry,Coffee
+Tea,Bread
+Baguette,Coffee
+Bread
+Truffles,Tea,Soup,Salad,Cookies,Bread
+Soup
+Coffee,Soup,Afternoon with the baker
+Coffee,Afternoon with the baker,Spanish Brunch
+Sandwich
+Coffee
+Sandwich,Coffee
+Sandwich,Coffee
+Coffee,Sandwich
+Salad,Tea
+Juice
+Sandwich
+Tea,Coffee,Hot chocolate
+Coffee,Coffee,Soup
+Tea,Cake
+Cake,Bread
+Jammie Dodgers,Cake,Coffee,Coffee
+Coffee,Salad
+Baguette
+Coffee,Jammie Dodgers,Pastry
+Coffee,Cookies
+Coffee,Pastry,Farm House
+Bread
+Coffee
+Coffee,Baguette
+Coffee,Toast,Tea
+Pastry
+Bread
+Coffee,Coffee,Pastry
+Bread,Salad
+Bread,Pastry
+Coffee
+Bread,Coffee,Toast
+Coffee
+Coffee
+Gift voucher,Bread
+Pastry,Bread
+Sandwich
+Mineral water
+Coffee,Pastry
+Truffles,Chicken Stew
+Pastry
+Coffee,Jammie Dodgers,Sandwich
+Bread,Cookies
+Tea,Coffee,Medialuna
+Chicken Stew
+Coffee
+Tea,Juice,Sandwich,Chicken Stew
+Tea,Tea
+Bread,Sandwich,Cake
+Coffee,Muffin
+Coffee,Juice,Bakewell
+Cake,Cookies,Juice,Cookies
+Soup,Chicken Stew
+Coffee,Bakewell
+Juice,Coffee
+Coffee,Bread
+Tea,Bread
+Bakewell,Tea
+Coffee,Coffee,Cake
+Coffee,Coffee,Bakewell
+Coffee,Juice,Cookies,Cake
+Hot chocolate,Coffee,Sandwich,Cake
+Medialuna
+Bread
+Cake,Cake,Cookies,Jammie Dodgers,Vegan Feast
+Bread
+Coffee
+Coffee
+Bread,Baguette
+Bread,Coffee,Pastry
+Pastry,Coffee
+Bread
+Bread
+Cake,Pastry
+Toast
+Hot chocolate
+Coffee
+Coffee,Coffee,Sandwich
+Coffee,Cookies
+Coffee,Cake
+Bread
+Bread
+Bread,Jam,Christmas common
+Coffee,Coffee
+Coke,Salad
+Extra Salami or Feta
+Cookies
+Cake
+Truffles,Pastry
+Cookies,Baguette
+Coffee
+Brownie
+Coffee,Toast
+Tea,Tea,Cookies,Pastry
+Coke
+Brownie,Coffee
+Coffee,Cake
+Sandwich,Truffles,Cake
+Cake,Bakewell,Tea,Coffee
+Cake,Pastry,Hot chocolate,Coffee
+Brownie
+Coffee,Scone
+Cake,Baguette
+Coffee,Tea
+Coffee,Bread,Cake,Bread
+Bread
+Bread
+Coffee,Scone
+Bread,Coffee,Coffee
+Juice,Coffee,Cake
+Coffee,Brownie
+Baguette,Cookies
+Medialuna,Bread,Bread,Coffee,Mineral water
+Coffee,Cookies
+Coffee,Bread
+Coffee,Toast
+Bread,Pastry
+Bread,Coffee,Pastry
+Coffee,Bread,Toast
+Coffee
+Farm House
+Bread,Coffee,Pastry
+Coffee,Hot chocolate,Cookies
+Coffee,Toast,Granola
+Bread,Pastry
+Hot chocolate,Hot chocolate,Bread,Brownie
+Bread,Juice,Crisps
+Jammie Dodgers,Medialuna,Tea
+Bread,Jammie Dodgers
+Cherry me Dried fruit,Toast,Extra Salami or Feta,Hot chocolate,Coffee,Cake
+Bread
+Farm House
+Coffee,Medialuna
+Baguette
+Scandinavian
+Sandwich
+Bread
+Coffee,Toast,Tea
+Bread
+Bread
+Tea,Coffee,Bread
+Chicken Stew,Bread
+Soup
+Soup,Salad,Tea,Mineral water,Juice
+Cake,Truffles,Chicken Stew,Sandwich
+Pastry
+Chicken Stew,Coffee
+Eggs,Bread
+Coffee,Coffee,Soup
+Coffee,Scone
+Coke
+Bread,Brownie
+Coffee,Hot chocolate,Cookies
+Coffee,Cookies
+Bread,Cake
+Cake,Coffee,Coffee,Coffee
+Coffee
+Tea,Bakewell,Bread
+Smoothies,Coffee,Cake,Bread
+Hot chocolate
+Tea,Scone
+Baguette,Cookies
+Coffee,Bakewell
+Mortimer
+Bread
+Bread
+Coffee,Pastry
+Coffee
+Bread,Pastry
+Bread
+Coffee
+Baguette
+Coffee,Bread,Bread
+Coffee,Coffee,Toast
+Cake,Bread
+Coffee
+Coffee
+Coffee,Coffee,Juice,Cake,Cookies
+Baguette
+Tea,Cake
+Pastry,Coffee
+Tea
+Tea
+Coffee,Pastry
+Bread
+Scandinavian
+Cake,Tiffin,Coffee,Coffee
+Tea,Hot chocolate,Pastry,Cake
+Brownie,Bread
+Bread
+Coffee
+Toast,Coffee
+Tea,Toast
+Coffee,Coffee,Sandwich,Pastry
+Coffee
+Bread
+Coffee
+Tiffin
+Coffee
+Cake,Cake,Brownie
+Half slice Monster 
+Coffee,Coffee,Mineral water
+Bread,Coffee,Cookies,Brownie
+Coffee,Soup,Sandwich
+Coffee,Coffee granules ,Extra Salami or Feta,Salad
+Salad,Coffee,Coffee
+Coffee,Coffee,Cake,Salad
+Cake,Cookies
+Coffee,Coffee,Cookies
+Scone,Coffee
+Coffee,Coffee,Salad
+Coke
+Coffee,Cake,Cake
+Hot chocolate,Coffee,Tiffin
+Hot chocolate,Coffee,Scone
+Bread
+Hot chocolate,Hot chocolate,Coffee
+Tiffin
+Coffee,Sandwich,Sandwich
+Hot chocolate,Coffee,Pastry
+Coffee,Medialuna
+Coffee,Pastry
+Coffee,Coffee,Medialuna,Cookies
+Bread,Bread,Bread,Pastry
+Coffee
+Bread,Baguette
+Toast,Coffee
+Farm House,Cake
+Pastry,Bread
+Coffee
+Coffee,Cookies
+Bread,Bread
+Coffee,Pastry,Medialuna
+Cake,Scone,Scandinavian
+Coffee
+Coffee
+Coffee
+Afternoon with the baker
+Coffee,Duck egg
+Bread
+Tea
+Toast,Coffee
+Bread
+Coffee,Toast
+Bread,Truffles
+Juice,Coffee,Bread,Toast
+Coffee
+Tea
+Coffee,Tiffin,Scone,Bread
+Coffee,Brownie
+Jam
+Mineral water,Scone
+Mineral water
+Coffee,Hot chocolate,Bread,Scone
+Bread
+Coffee,Salad,Sandwich
+Bread
+Coffee,Coffee
+Coffee,Coffee,Scone,Tiffin
+Coffee
+Tea,Coffee,Coffee
+Soup,Mineral water,Brownie
+Mineral water
+Bread,Scone,Cookies,Soup
+Spanish Brunch,The Nomad,Coffee
+Bread
+Sandwich,Coffee,Tiffin,Cake
+Coffee,Cookies
+Tiffin
+Sandwich,Salad,Bread,Juice
+Sandwich,Tea,Cake,Coffee
+Bread
+Bread,Jam
+Bread,The Nomad,Jam
+Bread
+Coffee,Hot chocolate,Brownie,Bread
+Bread
+Coffee,Tea,Spanish Brunch
+Fudge,Baguette
+Sandwich
+Bread
+Sandwich
+Scandinavian
+Tea,Scone
+Tea,Tiffin,Brownie
+Scone,Bread
+Coffee,Coffee,Cake,Scone
+Bread
+Cake,Coffee
+Cake,Cake,Bread,Tea
+Coffee,Tea
+Scone
+Hot chocolate,Coffee,Cake
+Half slice Monster 
+Tea,Chicken Stew
+Tea,Cookies,Cake
+Coffee,Tea,Cake
+Coffee,Smoothies,Soup,Sandwich,Cake
+Coffee,Coke,Salad
+Coffee
+Coffee
+Coffee,Tiffin
+Spanish Brunch,Scone,Coffee,Bread
+Coffee,Medialuna
+Bread
+Tea
+Bread
+Coffee,Coffee,Cake
+Tea
+Coffee,Coffee,Medialuna,Tiffin
+Coffee,Bread,Bread
+Bread,Medialuna
+Coffee
+Tea,Tea,Scone
+Hot chocolate,Tea,Bread,Cake
+Bread,Spanish Brunch
+Bread
+Spanish Brunch,Truffles,Juice,Coffee,Tiffin
+Coffee
+Bread,Bread
+Bread
+Farm House
+Coffee,Scone
+Bread
+Coffee,Coffee,Spanish Brunch,Coffee,Art Tray
+Spanish Brunch,Hot chocolate
+Coffee,Coffee,Cake,Scone
+Tiffin,Coffee
+Tea,Cookies
+Coffee,Bread
+Sandwich,Muffin,Bread,Cookies
+Farm House
+Spanish Brunch,Salad,Tea,Coffee,Pastry,Cake
+Smoothies,Coffee,Soup,Salad
+Sandwich,Tea,Coffee
+Sandwich,Sandwich
+Spanish Brunch,Toast,Salad,Baguette
+Sandwich,Sandwich
+Cake,Bread,Muffin
+Coffee,Coffee,Pastry
+Coffee,Coffee,Sandwich,Chicken Stew
+Cake,Coffee,Coffee
+Bread
+Spanish Brunch,Coffee,Coke,Bread,Mineral water,Soup
+Tea,Cake
+Coffee,Sandwich,Sandwich,Muffin
+Coffee
+Coffee,Tea,Cake,Scone
+Pastry,Scone
+Coffee
+Afternoon with the baker
+Coffee
+Coffee
+Coffee,Bread
+Coffee,Bread
+Coffee
+Coffee,Bread
+Coffee,Coffee,Pastry,Bread,Bread,Toast
+Pastry,Cake,Bread
+Coffee,Muffin
+Baguette
+Coffee,Bread
+Coffee,Mineral water,Cookies,Toast
+Tea,Spanish Brunch
+Coffee
+Coffee
+Bread
+Coffee granules 
+Cake,Muffin,Juice
+Coffee
+Cake
+Juice,Sandwich
+Coffee,Pastry
+Coffee,Muffin
+Truffles,Sandwich
+Coffee,Baguette
+Farm House
+Pastry
+Jam
+Sandwich
+Coffee,Coffee
+Hot chocolate,Coffee,Brownie,Muffin,Bread
+Coffee,Bread
+Sandwich,Coffee
+Spanish Brunch,Coffee
+Coffee,Toast
+Coffee
+Muffin
+Coffee
+Tea,Brownie
+Hot chocolate,Tea,Bread
+Bread,Salad
+Salad,Tea
+Coffee,Muffin
+Tea
+Farm House
+Tea,Coffee,Bread,Pastry
+Farm House,Coffee,Cookies
+Tea,Medialuna
+Coffee
+Cookies,Coffee
+Pastry
+Pastry,Coffee
+Pastry,Cake
+Bread,Scandinavian,Bread
+Bread,Coffee
+Coffee,Toast
+Coffee
+Coffee,Pastry
+Coffee
+Cookies,Cake,Mineral water
+Coffee,Toast
+Baguette
+Farm House
+Cake,Tea,Coffee
+Farm House,Coffee
+Coffee,Coffee
+Bread
+Coffee,Muffin
+Christmas common
+Coffee,Sandwich,Soup
+Sandwich,Mineral water
+Bread
+Coffee,Bread,Spanish Brunch,Sandwich,Bread,Farm House
+Coffee,Cake
+Coffee
+Tea,Soup
+Coffee,Cookies
+Coffee,Sandwich
+Coffee,Coffee,Bread
+Jam
+Cake,Bread
+Sandwich,Coffee
+Truffles
+Coffee,Truffles
+Coffee,Soup,Sandwich
+Sandwich,Coffee,Tea
+Sandwich,Coffee,Tea
+Coffee,Cookies
+Coffee,Bread,Muffin,Baguette
+Bread,Christmas common
+Coffee,Bread,Cookies,Cake
+Coffee
+Bread
+Coffee,Cake,Bread
+Half slice Monster ,Juice,Cookies,Coffee
+Coffee,Bread
+Bread
+Tea,Muffin,Bread
+Baguette,Farm House
+Coffee
+Cookies
+Coffee,Bread,Brownie
+Coffee,Sandwich
+Cherry me Dried fruit,Coffee
+Coffee
+Coffee,Pastry,Muffin,Coke
+Bread
+Coffee,Scandinavian,Brownie
+Pastry,Coffee
+Coffee
+Baguette
+Farm House
+Bread,Bread
+Bread
+Toast,Coffee
+Coffee,Tea,Cookies
+Tea,Smoothies
+Farm House
+Coffee
+Bread
+Chicken Stew,Juice
+Coffee,Bread,Sandwich
+Bread
+Coffee,Toast
+Soup,Cake,Coffee,Coffee
+Coffee,Toast
+Granola,Spanish Brunch,Bread,Mineral water,Tea
+Bread
+Sandwich,Coke
+Soup,Coffee
+Bread
+Coffee,Coffee
+Coffee,Coffee,Sandwich
+Coffee,Tea,Cake,Bread
+Pastry,Juice
+Soup,Jam
+Coffee,Coffee,Tea,Salad,Spanish Brunch
+Bread
+Pastry
+Bread,Cake,Bread,Juice,Coffee
+Mortimer
+Coffee
+Coffee,Coffee
+Coke
+Truffles,Juice
+Coffee,Tea,Soup,Bread
+Coffee
+Juice,Tea,Cookies,Bread,Jam
+Coffee
+Coffee,Pastry
+Bread,Pastry
+Coffee
+Coffee
+Bread
+Coffee
+Bread
+Coffee,Coffee,Bread,Pastry
+Cake
+Bread
+Juice,Tiffin
+Coffee,Brownie,Cookies
+Cookies,Pastry,Tea
+Juice,Bread
+Coffee,Toast,Bread
+Bread
+Juice,Hot chocolate,Coffee,Cake
+Bread,Brownie
+Pastry,Coffee
+Bread,Tiffin,Brownie,Bread,Farm House
+Bread,Sandwich
+Bread
+Brownie
+Bread
+Soup,Sandwich,Mineral water,Juice,Coffee
+Pastry,Coffee
+Cake,Chicken Stew,Soup,Bread
+Coffee,Chicken Stew
+Spanish Brunch,Chicken Stew,Juice
+Coffee,Cookies
+Bread,Sandwich
+Soup
+Argentina Night,Bread,Sandwich
+Bread,Coffee
+Salad,Truffles,Coke,Baguette
+Pastry,Medialuna,Medialuna
+Tea,Tea,Bread,Soup,Spanish Brunch,Chicken Stew
+Sandwich,Spanish Brunch,Coffee,Coffee,Bread,Juice,Nomad bag
+Coffee
+Tiffin
+Coffee
+Baguette,Pastry
+Pastry,Coffee
+Coffee,Bread
+Tea,Brownie
+Coffee
+Cake
+Coffee
+Coffee,Cake
+Bread,Coffee,Truffles,Chicken Stew
+Farm House
+Bread
+Coffee
+Hot chocolate,Drinking chocolate spoons 
+Tiffin,Smoothies,Coffee
+Mortimer
+Cookies,Brownie,Coffee
+Tea,Coffee,Coffee
+Coffee
+Coffee,Medialuna
+Coffee,Farm House
+Baguette
+Bread,Pastry
+Coffee
+Tea,Coffee,Coffee
+Tiffin,Coffee
+Tea,Pastry
+Coffee
+Bread,Baguette
+Coffee,Juice
+Spanish Brunch,Bread
+Coffee
+Bread,Scandinavian,Pastry
+Coffee,Cookies,Scandinavian
+Coffee,Muffin,Bread
+Coffee
+Coffee,Pastry,Bread
+Coffee,Coffee,Coffee,Tea
+Coffee,Coffee,Bread,Cake
+Baguette
+Coffee,Pastry
+Bread
+Coffee,Coffee,Brownie
+Bread,Tiffin
+Bread
+Cookies,Bread
+Coffee
+Bread,Muffin
+Tiffin,Chicken Stew,Bread
+Bread,Chicken Stew
+Coffee,Coffee,Spanish Brunch
+Salad
+Bread
+Coffee,Sandwich
+Coffee,Hot chocolate,Toast,Sandwich,Soup,Cake
+Coffee
+Muffin,Cake
+Cookies,Cake,Coffee,Coffee
+Coffee,Truffles,Soup,Sandwich
+Spanish Brunch,Bread
+Mineral water,Truffles
+Jam,Jam
+Coffee,Toast
+Spanish Brunch,Baguette
+Coffee,Juice,Cake
+Brownie,Coffee,Coffee
+Tea,Cake,Bread
+Bread,Bread,Eggs
+Tea,Juice,Cookies
+Coffee,Coffee,Cake,Bread
+Coffee,Cake
+Tiffin,Truffles,Coffee
+Tea,Truffles
+Bread
+Coffee
+Coffee,Baguette
+Coffee,Toast
+Juice,Coffee,Bread,Spanish Brunch
+Farm House
+Bread,Cake,Pastry
+Coffee
+Bread,Pastry
+Farm House,Cookies
+Pastry
+Baguette,Farm House
+Jammie Dodgers,Tea
+Bread,Scandinavian
+Bread,Pastry
+Coffee,Muffin
+Scandinavian,Baguette,Muffin,Cake
+Pastry,Jammie Dodgers,Cookies
+Bread,Hot chocolate,Hot chocolate,Drinking chocolate spoons ,Muffin,Pastry
+Scandinavian
+Bread,Bread
+Coffee,Cake
+Bread
+Bread,Pastry,Pastry
+Bread
+Bread
+Coffee
+Spanish Brunch,Coffee
+Coffee,Juice,Jammie Dodgers,Cookies
+Muffin,Pastry,Bread
+Coffee
+Coffee,Juice,Pastry
+Hot chocolate,Coffee,Bread,Scandinavian,Cookies
+Tiffin,Coffee,Bread
+Coffee,Coffee,Pastry
+Coffee,Bread,Cake
+Farm House,Coffee granules 
+Coffee,Bread,Muffin
+Bread
+Coffee,Muffin,Cake,Pastry,Spanish Brunch,Smoothies
+Duck egg,Spanish Brunch,Coffee
+Scandinavian
+Cookies,Muffin,Pastry
+Muffin,Juice,Smoothies
+Bread,Cake
+Coffee
+Cookies
+Scandinavian,Eggs
+Bread
+The Nomad
+Cake,Scandinavian,Coffee,Coffee
+Bread,Cake,Juice
+Muffin
+Coffee,Sandwich
+Bread
+Coffee,Salad
+Juice
+Tea
+Bread
+Coffee,Coffee
+Spanish Brunch,Tea,Juice,Coffee
+Truffles,Mineral water,Soup
+Coke
+Salad,Soup,Smoothies
+Coffee,Coffee,Soup,Spanish Brunch
+Coffee,Bread,Cake
+Mineral water
+Coffee,Bread
+Bread
+Coffee,Pastry
+Hot chocolate,Smoothies,Spanish Brunch
+Coffee,Bread,Truffles,Spanish Brunch,Sandwich,Sandwich,Jammie Dodgers,Cake
+Coke,Coffee,Coffee,Hot chocolate
+Cake
+Spanish Brunch,Coffee
+Bread
+Coffee
+Tea,Coke,Cake
+Bread,Tea
+Coffee,Bread,Cake
+Bread
+Coffee,Salad,Extra Salami or Feta
+Coffee,Coffee,Sandwich,Sandwich
+Sandwich
+Hot chocolate,Coffee,Muffin
+Bread
+Coffee,Salad
+Coffee,Salad
+Sandwich,Bread,Coffee
+Hot chocolate,Cake
+Coffee,Smoothies,Cake,Bread
+Bread
+Cake,Half slice Monster 
+Coffee,Juice,Juice,Spanish Brunch,Chicken Stew,The Nomad,Coke
+Tea
+Coffee,Cake
+Coffee,Coffee,Tea
+Truffles
+Coffee,Coffee,Cake,Muffin
+Bread
+Bread
+Bread,Cookies,Jammie Dodgers
+Mineral water
+Hot chocolate,Tea,Truffles,Cake,Muffin
+Bread,Coffee,Juice,Cake
+Mortimer,Coffee granules 
+Medialuna,Bread
+Bread,Jam
+Coffee,Medialuna
+Coffee,Medialuna
+Medialuna,Coffee
+Pastry
+Medialuna,Coffee
+Coffee,Sandwich,Sandwich,Medialuna
+Medialuna,Bread,Cake,Muffin,Granola,Sandwich,Coffee,Hot chocolate,Tea
+Muffin
+Jam,Bread
+Coffee
+Bread,Cake,Spanish Brunch
+Spanish Brunch,Juice,Coffee
+Bread
+Bread,Bread
+Pastry,Pastry
+Coffee
+Coffee,Bread,Coffee,Pastry
+Muffin,Cake,Coffee,Tea
+Bread,Baguette
+Coffee,Coffee,Spanish Brunch,Extra Salami or Feta,Toast
+Coffee,Coffee,Cake
+Bread
+Coffee,Coffee,Sandwich,Pastry
+Bread
+Coffee
+Coffee
+Baguette
+Smoothies,Bread
+Bread
+Bread
+Spanish Brunch,Juice,Coffee,Medialuna,Cake
+Truffles,Toast
+Spanish Brunch,Tea,Coffee
+Bread
+Coffee,Juice,Brownie
+Baguette
+Bread
+Bread
+Smoothies
+Coffee,Coke,Bread,Cake,Bread,Soup
+Coffee,Smoothies,Bread,Cake
+Tea,Sandwich
+Sandwich,Sandwich,Sandwich,Coke,Juice,Mineral water
+Bread
+Baguette
+Tea,Scone,Medialuna
+Coffee
+Coffee,Jammie Dodgers,Brownie,Hot chocolate,Hot chocolate
+Brownie
+Coffee,Coffee,Brownie,Cake
+Brownie,Bread,Tea
+Coffee,Sandwich
+Sandwich,Sandwich,Coke,Juice
+Coffee,Tea,Brownie,Sandwich,Sandwich,Bread
+Cake
+Muffin
+Coffee,Coffee,Cake
+Smoothies,Sandwich
+Coffee,Brownie,Cake,Tea
+Vegan Feast,Hot chocolate,Coffee,Brownie,Bread,Cookies
+Sandwich,Sandwich,Bread,Juice
+Bakewell,Coffee
+Coffee,Muffin
+Coffee
+Bread
+Tea,Toast
+Hot chocolate,Toast
+Coffee,Muffin
+Coffee,Coffee,Tea
+Coffee
+Toast
+Coffee,Muffin
+Tea,Scone
+Tea,Bread
+Coffee,Bread
+Coffee,Tea
+Coffee,Coffee
+Bread,Coffee
+Coffee
+Coffee
+Scone,Bakewell
+Hot chocolate,Brownie
+Coke,Muffin,Coffee
+Coffee,Sandwich
+Coke,Chicken Stew
+Coffee,Tea,The Nomad,Scone
+Coffee
+Coffee,Coffee,Chicken Stew
+Bread
+Bakewell
+Brownie,Jammie Dodgers,Bread,Chicken Stew,Sandwich,Tea,Tea
+Coffee
+Coffee,Coke,Sandwich
+Coffee,Jammie Dodgers
+Coffee,Coke,Mineral water,Bakewell,Salad
+Sandwich,Coffee,Bakewell
+Coffee
+Tea,Muffin
+Coffee,Bread
+Soup,Tea
+Cookies
+Tea
+Coffee,Sandwich
+Mineral water
+Coffee
+Coffee,Bread
+Coffee
+Bread
+Coffee,Toast
+Coffee
+Coffee,Coffee,Bakewell
+Coffee,Coffee,Sandwich
+Coffee
+Coffee,Pastry
+Baguette
+Coffee,Tea,Cookies
+Coffee,Tea
+Coffee,Hot chocolate,Pastry
+Jammie Dodgers,Cookies,Bakewell,Coffee
+Coffee,Coffee,Pastry
+Pastry,Coffee,Tea
+Coffee
+Pastry
+Coffee
+Farm House
+Coffee
+Pastry,Truffles,Bakewell
+Baguette,Bread
+Eggs
+Coke,Coffee,Sandwich,Muffin
+Bakewell,Coffee,Soup
+Cake,Muffin
+Toast,Sandwich,Mineral water,Coke
+Juice,Bread,Toast,Sandwich,Sandwich,Bakewell
+Sandwich,Mineral water
+Tea,Sandwich
+Tea,Sandwich
+Soup,Coffee
+Soup
+Muffin,Tea
+Coffee,Sandwich
+Soup,Coffee,Muffin
+Soup,Cake,Juice
+Soup,Salad
+Bread
+Hot chocolate,Coffee,Toast,Muffin
+Coffee
+Bread
+Toast
+Tea,Cookies
+Coffee,Scone
+Coffee,Chicken Stew
+Bread,Cookies
+Cookies,Muffin
+Cookies,Bread
+Coffee,Coffee,Salad
+Coffee
+Coffee
+Hot chocolate,Bread,Cookies
+Bread
+Tea,Juice,Cookies
+Bread,Spanish Brunch
+Granola
+Smoothies
+Farm House,Hot chocolate
+Bread
+Coffee
+Bread,Cake,Coffee,Coffee,Coffee
+Toast,Coffee
+Coffee,Coffee
+Bread
+Coffee
+Bread
+Juice,Coke,Medialuna,Sandwich
+Coffee,Toast
+Coffee
+Coffee,Tea,Cake,Medialuna
+Bread
+Spanish Brunch,Art Tray,Coffee,Coffee,Juice
+Coffee,Bread,Chicken Stew,Soup,Bread
+Coffee
+Tea,Coffee,Cookies,Sandwich
+Bread
+Tea,Cake,Soup
+Bread
+Tea,Coffee,Soup,Cake
+Scone,Coffee
+Bread,Muffin
+Coffee,Spanish Brunch
+Coffee,Tea,Coffee
+Tea,Tea,Raw bars
+Coffee,Medialuna,Muffin
+Bread,Coffee,Bread,Drinking chocolate spoons 
+Coffee,Tea,Tiffin
+Spanish Brunch,Truffles,Coffee,Coffee
+Coffee
+Juice
+Tea
+Coffee,Jammie Dodgers
+Soup,Tea,Cake
+Coffee
+Christmas common
+Christmas common
+Christmas common
+Hot chocolate,Hot chocolate,Coffee,Toast
+Coffee
+Mortimer
+Bread
+Bread,Muffin
+Coffee,Cookies
+Coffee
+Tea,Tea,Cake
+Coffee,Coffee
+Bread
+Tea,Toast,Bread
+Bread,Coffee,Hot chocolate
+Bread
+Baguette,Bakewell
+Jammie Dodgers,Smoothies
+Jammie Dodgers,Tiffin
+Cake,Bread,Coffee,Coffee,Baguette
+Bread
+Farm House
+Coffee
+Coffee
+Juice,Hot chocolate,Muffin
+Coffee,Muffin
+Bread,Cake,Jammie Dodgers,Tea,Truffles
+Coffee,Bakewell
+Sandwich
+Cake,Truffles
+Salad
+Juice,Cake,Sandwich
+Coffee,Chicken Stew
+Coke,Tea,Cake
+Extra Salami or Feta,Salad,Toast,Coffee
+Coffee,Sandwich
+Truffles,Soup,Cookies
+Toast,Coffee
+Cake,Coffee
+Coffee,Coffee,Cake,Tiffin,Bread
+Bread
+Coffee,Tea,Cake
+Coffee,Tea,Sandwich,Toast
+Coffee,Coffee,Cake
+Bread
+Coffee
+Tea,Coffee,Sandwich,Sandwich
+Coffee,Tea,Cake
+Tea,Coffee,Sandwich,Sandwich
+Coffee,Cake
+Cake,Coffee,Juice
+Tea,Cake
+Juice,Coffee,Coffee,Spanish Brunch,Bread
+Muffin
+Coffee,Sandwich
+Coffee
+Coffee,Toast
+Coffee,Tiffin
+Coffee
+Coffee,Coffee,Toast
+Coffee,Medialuna
+Medialuna,Bread,Tea
+Cookies,Bread
+Tea
+Hot chocolate,Tea,Pastry,Tiffin
+Coffee
+Bread
+Cake
+Bread,Bread
+Coffee,Medialuna
+Farm House
+Jammie Dodgers,Muffin,Coffee,Coffee,Juice
+Alfajores,Juice,Coffee,Coffee,Medialuna,Cookies
+Coffee
+Medialuna,Bread
+Spanish Brunch
+Coffee,Bread
+Bread,Coffee
+Coffee,Alfajores
+Bread,Coke,Bread,Cookies
+Cookies,Bread
+Bread,Cookies
+Bread
+Coffee
+Toast,Coffee
+Coffee,Coffee,Pastry
+Coffee
+Juice,Muffin
+Farm House
+Coffee
+Coffee,Medialuna
+Bread,Brownie
+Salad,Extra Salami or Feta,Bread,Baguette,Tea,Bread
+Bread
+Bread,Hot chocolate,Coffee,Sandwich,Cookies
+Chicken Stew
+Bread,Sandwich
+Sandwich,Coffee,Bread
+Sandwich,Coffee,Coffee
+Tiffin
+Baguette
+Spanish Brunch,Salad,Extra Salami or Feta,Coffee,Coffee
+Bread,Tiffin
+Chicken Stew,Soup,Bread
+Brownie,Coffee
+Coke,Mineral water,Coffee,Soup,Sandwich
+Coffee,Scone
+Coffee,Scone
+Hot chocolate,Hot chocolate,Bread,Scone
+Bread,Cookies
+Scone,Bread
+Tea,Brownie
+Tea,Bread,Cake
+Tea,Pastry
+Hot chocolate,Cake
+Coffee,Tiffin
+Coffee
+Bread,Cookies
+Coffee
+Coffee,Brownie
+Scone,Coke,Coffee,Soup
+Coffee,Juice
+Coffee
+Coffee
+Bread
+Sandwich,Bread,Cake,Cake
+Farm House,Bread,Cake
+Bread
+Bread,Cookies
+Scone,Toast,Coffee,Coke
+Coffee,Bread,Cookies,Brownie
+Juice
+Farm House
+Scone,Bread
+Bread
+Pastry
+Coffee,Coffee
+Bread,Alfajores,Tiffin
+Bread
+Coffee,Scone
+Coffee granules 
+Bread,Sandwich,Brownie,Cookies,Bread
+Coffee,Cookies
+Pastry,Coffee
+Coffee
+Bread,Cookies,Cake
+Bread,Coffee,Truffles
+Coffee,Coffee
+Coffee,Juice,Toast
+Bread,Bread
+Baguette,Coffee,Truffles,Medialuna,Alfajores,Juice
+Coffee,Cookies
+Coffee,The Nomad
+Bread,Baguette
+Bread
+Granola,Coffee
+Bread,Tea,Pastry
+Coffee,Coffee
+Crisps
+Bread
+Bread,Smoothies,Spanish Brunch,Coffee
+Coffee
+Juice
+Tea,Coffee
+Coffee,Tea,Cake,Pastry
+Coffee,Tiffin
+Cake
+Coffee,Spanish Brunch,The Nomad,Cake,Tiffin
+Bread,Bread,Brownie
+Bread,Juice,Coffee,The Nomad,Sandwich
+Bread,Alfajores,Alfajores
+Bread,Smoothies,Coffee,Muffin,Sandwich
+Bread
+Coffee,Juice,Truffles,Sandwich,Sandwich,Pastry,Coke
+Tea,Soup,Chicken Stew
+Coke,Soup
+Sandwich,Truffles,Coffee,Pastry
+Cookies,Cake,Brownie,Coffee
+Bread
+Coffee,Bread,Soup
+Scone
+Bread,Cake
+Medialuna,Bread,Muffin,Coffee,Sandwich
+Honey,Scandinavian
+Coffee
+Alfajores,Brownie,Cake
+Bread
+Coffee
+Mineral water
+Truffles,Spanish Brunch
+Soup,Bread,Coffee
+Sandwich
+Bread
+Coffee,Coffee,Chicken Stew,Extra Salami or Feta
+Tea,Bread,Coffee,Scone,Medialuna,Bread
+Tea,Granola
+Bread
+Hot chocolate,Bread,Tiffin
+Bread
+Coffee
+Coffee
+Coffee
+Coffee,Coffee,Cake,Cookies
+Hot chocolate,Coffee,Cake
+Coffee,Pastry
+Muffin,Coffee,Coffee
+Bread,Coffee,Coffee
+Coffee,Coffee,Coffee
+Coffee,Coffee,Medialuna
+Bread
+Tea,Coffee,Cookies
+Coffee,Bread
+Bread
+Coffee
+Cake,Brownie
+Bread,Farm House
+Pastry,Cake
+Coffee,Sandwich,Bread,Scandinavian,Fudge
+Bread
+Coffee,Jammie Dodgers,Tiffin,Juice
+Bread
+Coffee,Sandwich
+Spanish Brunch
+Truffles,Crisps,Sandwich
+Bread,Muffin,Coke,Sandwich,Tea,Farm House
+Coffee,Pastry,Bread
+Scone,Pastry,Cake,Alfajores
+Coffee,Cake
+Argentina Night
+Soup
+Cake,Cake,Smoothies
+Cake
+Pastry,Bread,Truffles
+Coffee,Tea,Scone,Bread
+Cake,Bread,Sandwich,Sandwich
+Sandwich,Coffee
+Coffee,Coffee,Cake
+Coffee,Juice,Spanish Brunch
+Coffee,Coffee,Coffee,Cake,Sandwich
+Cookies
+Cake,Tea
+Cake,Cookies,Bread,Juice
+Farm House
+Coffee
+Coffee,Bread
+Coffee
+Tea
+Coffee,Coffee
+Coffee,Coffee,Pastry,Sandwich
+Bread,Scone
+Coffee,Coffee,Toast,Granola
+Coffee,Coffee,Pastry,Cake
+Tea
+Farm House
+Coffee
+Coffee,Pastry
+Coffee,Truffles,Pastry,Bread
+Bread
+Coffee,Coffee,Coffee granules 
+The Nomad
+Bread
+Bread,Cookies
+Bread
+Truffles
+Coffee,Sandwich,Cake
+Coffee,Toast
+Tea,Coffee,Toast,Scandinavian,Farm House
+Bread
+Coffee
+Coffee
+Scone,Bread,Spanish Brunch
+Coffee,Coffee,Cookies
+Mineral water,Truffles,Coke,Scone
+Sandwich,Soup
+Coffee
+Coffee,Coffee,Medialuna,Cake
+Tea,Sandwich
+Bread
+Coffee,Coffee,Sandwich
+Coffee,Bread,Scone
+Coffee
+Coffee,Jammie Dodgers,Juice
+Cookies
+Soup
+Bread,Sandwich
+Tea,Cookies
+Cookies,Cake,Tea
+Tea,Coffee,Alfajores
+Medialuna
+Scone,Bread
+Tea,Alfajores,Toast
+Soup,Coffee,Medialuna
+Tiffin,Cookies,Hot chocolate
+Coffee
+Cookies
+Alfajores
+Bread
+Bread
+Tea,Hot chocolate,Cake,Salad,Coffee
+Coffee
+Bread,Mineral water
+Coffee,Cookies
+Coffee,Toast
+Cake,Pastry
+Coffee
+Coffee
+Coffee,Extra Salami or Feta
+Bread,Pastry
+Tea
+Coke
+Coffee
+Bread
+Coffee,Coffee,Pastry
+Coffee
+Coffee
+Coffee,Coffee
+Bread,Honey,Jammie Dodgers
+Bread,Coffee,Jammie Dodgers
+Coffee,Bread,Bread
+Pastry,Bread
+Coffee
+Eggs
+Bread,Cake
+Coffee
+Bread
+Juice,Bread
+Coffee
+Coffee
+Coffee,Extra Salami or Feta
+Coffee,Coffee,Coffee,Bread
+Coffee
+Coffee,Juice,Mineral water,Salad,Sandwich,Drinking chocolate spoons 
+Chicken Stew,Mineral water,Tea
+Coffee,Bread
+Coffee,Salad
+Bread
+Cookies
+Tea,Soup,Soup
+Coffee,Bread,Cake,Juice,Spanish Brunch,Salad,Extra Salami or Feta
+Coffee,Cake
+Coffee,Cake
+Bread,Soup
+Coffee,Bread
+Mineral water,Cookies
+Coffee,Tea
+Coffee,Baguette
+Coffee,Salad
+Coffee,Bread
+Coffee,Tea
+Tea,Tea,Coffee,Coffee,Juice,Cake,Cake
+Coffee,Cake
+Cake,Cake,Coffee,Smoothies,Tea
+Chicken Stew,Tea
+Coffee
+Bread,Tea
+Hot chocolate,Bread,Bread,Jam,Christmas common
+Coffee
+Coffee,Coffee,Bread
+Coffee,Hot chocolate,Hot chocolate,Pastry
+Tea,Coffee
+Tea
+Coffee,Coffee,Pastry,Toast
+Bread
+Tea,Truffles
+Coffee,Pastry
+Toast,Bread,Tea,Coffee
+Toast,Coffee,Bread
+Coffee,Bread,Tea,Pastry,Muffin
+Pastry,Coffee
+Tea,Coffee,Sandwich
+Salad,Tea
+Tea,Pastry
+Farm House
+Coffee,Truffles,Bread
+Coffee,Sandwich
+Sandwich,Coffee
+Salad
+Tea,Coffee
+Coffee,Tiffin,Bread
+Coke,Chicken Stew,Tiffin
+Coffee,Muffin,Salad,Extra Salami or Feta
+Cake
+Bread,Drinking chocolate spoons 
+Coffee,Salad,Sandwich,Cake
+Cookies,Cake,Coffee
+Juice,Coke,Sandwich,Sandwich,Cake,Tiffin
+Cake,Coffee,Hot chocolate
+Bread,Sandwich
+Baguette,Hot chocolate
+Bread,Jammie Dodgers
+Farm House,Baguette
+Pastry
+Coke
+Bread,Coffee
+Scandinavian
+Cookies
+Coffee,Cake
+Cookies,Muffin,Tea,Spanish Brunch,Soup
+Bread,Truffles,Cake,Bread
+Bread,Coffee
+Coffee,Coffee,Cake,Cookies,Bread
+Tea,Cake
+Bread
+Tiffin,Bread
+Pastry
+Cake
+Pastry,Tea,Coffee
+Chocolates,Tea,Coke,Juice,Coffee,Tiffin,Alfajores,Cookies,Pastry,Mineral water
+Juice,Mineral water
+Coffee
+Bread
+Toast
+Coffee
+Coffee,Tiffin,Bread
+Alfajores,Tea
+Farm House
+Toast,Coffee
+Bread,Juice
+Coffee
+Coffee,Juice
+Jammie Dodgers,Coffee
+Bread,Juice,Coffee,Coffee,Cookies,Bread
+Tiffin,Juice,Tea
+Coffee,Toast,Coffee
+Bread
+Tea
+Bread,Alfajores,Brioche and salami
+Cake,Tea
+Christmas common
+Farm House,Scandinavian
+Alfajores,Coffee
+Juice,Cookies,Art Tray,Salad
+Sandwich
+Tea,Tea,Sandwich
+Soup,Coffee
+Coffee,Sandwich
+Bread
+Bread
+Muffin,Soup
+Sandwich,Coffee
+Coffee,Tiffin
+Coffee,Sandwich
+Farm House,Coke,Soup
+Coffee,Tiffin
+Sandwich
+Sandwich,Coffee,Bread
+Tea,Coffee,Truffles
+Coffee
+Tea,Sandwich,Sandwich
+Sandwich,Sandwich,Coke,Smoothies,Bread,Coffee,Alfajores,Crisps
+Coffee,Coffee,Coffee,Toast,Salad
+Tea,Muffin,Bread,Soup
+Bread,Tiffin
+Toast,Bread
+Coffee,Sandwich
+Coke
+Juice,Coffee,Cookies
+Alfajores,Bread
+Bread,Mineral water,Muffin,Cake
+Tea,Tiffin
+Tea,Cookies
+Coffee
+Bread,Pastry
+Coffee,Coffee,Medialuna,Cookies,Tiffin,Toast
+Coffee,Tea
+Coffee
+Coffee,Medialuna
+Coffee,Bread,Cookies
+Coffee
+Tea,Cake,Bread
+Bread,Bread,Bread
+Coffee,Medialuna,Pastry,Bread
+Cookies,Bread,Bread
+Coffee,Cookies
+Tea,Juice,Muffin
+Bread,Coffee
+Coffee
+Coffee
+Coffee,Toast
+Coffee,Toast
+Coffee,Toast
+Bread
+Coffee,Soup
+Coffee
+Coke,Soup,Sandwich,Tea,Mineral water
+Soup
+Coffee
+Bread
+Baguette,Bread,Coffee,Coffee
+Coke,Juice,Truffles,Salad,Coffee,Cake,Sandwich,Chicken Stew,Alfajores
+Tiffin,Tea
+Truffles,Chicken Stew
+Coffee
+Coffee
+Sandwich,Mineral water
+Coffee
+Coffee
+Cookies
+Bread,Cake,Tiffin
+Cake,Muffin,Alfajores
+Scone,Tea
+Coffee,Scone
+Coke
+Coffee,Coffee,Alfajores
+Bread
+Chicken Stew,Sandwich
+Bread,Pastry
+Farm House
+Bread
+Bread,Coffee
+Argentina Night
+Argentina Night
+Bread
+Pastry,Alfajores
+Cake,Hot chocolate,Coffee
+Bread
+Bread,Pastry,Honey
+Salad,Extra Salami or Feta,Coffee,Bread
+Coffee,Muffin,Baguette
+Bread
+Pastry
+Farm House,Farm House
+Bread,Baguette,Scandinavian
+Coffee,Muffin,Bread
+Bread,Bread
+Cake,Alfajores,Coffee
+Coffee,Muffin
+Bread
+Coffee,Juice
+Coffee,Spanish Brunch,The Nomad,Brownie,Cookies
+Pastry,Coffee
+Bread,Coffee,Sandwich,Spanish Brunch,Bread
+Bread
+Tea,Granola,Afternoon with the baker,Argentina Night
+Afternoon with the baker,Argentina Night,Tea
+Truffles,Coffee,The Nomad
+Baguette
+Pastry
+Coffee
+Coffee,Scone,Alfajores
+Coffee,Truffles,Pastry
+Baguette,Scandinavian,Cake,Christmas common
+Coffee,Tacos/Fajita,Cake
+Bread,Coffee,Cookies,Scone
+Coffee
+Coffee,Tea,Smoothies,Spanish Brunch,The Nomad
+Bread
+Coffee
+Brownie,Muffin
+Bread
+Sandwich
+Coffee
+Bread
+Coffee,Coke,Tacos/Fajita
+Sandwich,Spanish Brunch,Tea,Juice
+Coffee
+Bread,Coffee,Tea,Cake
+Truffles,Tacos/Fajita,Bread,Cake
+Cake
+Sandwich,Juice,Coffee
+Juice,Truffles,Bread,Alfajores,Tacos/Fajita
+Bread
+Bread,Jam
+Coffee
+Coffee,Coffee,Brownie
+The Nomad
+Coffee,Scone
+Tea,Juice,Tacos/Fajita
+Tacos/Fajita,Juice
+Bread,Tacos/Fajita
+Scandinavian
+Tacos/Fajita,Tea,Coffee,Cake,Honey
+Bread,Coffee,Sandwich,Sandwich
+Coffee,Juice,Cake,Cake
+Bread,Scandinavian
+Scandinavian
+Coke,Truffles,Brownie
+Coffee
+Eggs,Cherry me Dried fruit
+Honey
+Scandinavian
+Hot chocolate,Coffee,Coffee,Cake,Toast
+Alfajores,Coffee,Tea
+Juice,Brownie
+Cake,Coffee,Soup
+Cake
+Coffee,Sandwich
+Bread,Muffin
+Coffee,Muffin,Alfajores,Coffee
+Coffee,Salad,Scandinavian
+Tea,Juice,Cake
+Vegan Feast
+Vegan Feast
+Vegan Feast
+Vegan Feast
+Scandinavian
+Vegan Feast
+Vegan Feast
+Vegan Feast
+Hot chocolate,Coffee,Cake,Medialuna
+Coffee,Pastry,Bread
+Pastry,Coffee
+Baguette
+Coffee,Cake
+Hot chocolate,Half slice Monster ,My-5 Fruit Shoot
+Tea
+Coffee,Toast
+Coffee
+Coffee,Spanish Brunch,Extra Salami or Feta
+Tea,Juice,Cake
+Bread
+Coffee,Coffee,Bread
+Coffee,Juice,Spanish Brunch
+Coffee
+Bread,Sandwich,Sandwich
+Tea,Bread
+Farm House
+Farm House
+Bread
+Coffee,Cookies,Extra Salami or Feta
+Spanish Brunch,Coffee,Bread
+Coffee
+Smoothies,Sandwich
+Tacos/Fajita,Coke
+Coffee,Tacos/Fajita,Toast
+Bread,Spanish Brunch
+Bread
+Truffles,Tea,Spanish Brunch,Christmas common
+Muffin,Tacos/Fajita,Coffee,Tea
+Coffee,Pastry
+Smoothies
