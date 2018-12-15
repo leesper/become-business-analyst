@@ -1,0 +1,334 @@
+month,item,month_sales
+10,Coffee,93
+10,Bread,53
+10,Tea,31
+10,Muffin,29
+10,Pastry,19
+10,Scandinavian,16
+10,Medialuna,13
+10,Hearty & Seasonal,12
+10,Cookies,11
+10,Farm House,11
+10,Juice,9
+10,Jam,9
+10,Soup,8
+10,Cake,6
+10,Tartine,6
+10,Frittata,6
+10,Fudge,6
+10,Mineral water,6
+10,Hot chocolate,5
+10,Coke,3
+10,Sandwich,3
+10,Victorian Sponge,3
+10,Basket,2
+10,Mighty Protein,2
+10,Pick and Mix Bowls,2
+10,Chicken sand,1
+10,My-5 Fruit Shoot,1
+10,Focaccia,1
+10,Smoothies,1
+10,Ella's Kitchen Pouches,1
+11,Coffee,1189
+11,Bread,712
+11,Tea,311
+11,Pastry,218
+11,Medialuna,208
+11,Brownie,154
+11,Alfajores,141
+11,Muffin,127
+11,Hot chocolate,118
+11,Cake,116
+11,Farm House,113
+11,Scandinavian,105
+11,Sandwich,103
+11,Soup,98
+11,Cookies,87
+11,Hearty & Seasonal,71
+11,Keeping It Local,61
+11,Fudge,55
+11,Jam,50
+11,Juice,46
+11,Mineral water,40
+11,Tartine,39
+11,Truffles,29
+11,Focaccia,28
+11,Coke,27
+11,Art Tray,18
+11,Frittata,17
+11,My-5 Fruit Shoot,16
+11,Kids biscuit,12
+11,Smoothies,12
+11,Jammie Dodgers,11
+11,Bakewell,10
+11,Pick and Mix Bowls,10
+11,Ella's Kitchen Pouches,10
+11,Mighty Protein,9
+11,Tiffin,7
+11,Dulce de Leche,7
+11,Empanadas,7
+11,Basket,4
+11,Victorian Sponge,4
+11,Bread Pudding,4
+11,Lemon and coconut,3
+11,Caramel bites,3
+11,The Nomad,3
+11,Eggs,3
+11,Granola,3
+11,Siblings,2
+11,Fairy Doors,2
+11,Bowl Nic Pitt,2
+11,Chimichurri Oil,2
+11,Hack the stack,2
+11,Olum & polenta,1
+11,Adjustment,1
+11,The BART,1
+11,Honey,1
+11,Polenta,1
+11,Bacon,1
+11,Spread,1
+12,Coffee,932
+12,Bread,625
+12,Tea,235
+12,Medialuna,141
+12,Cake,141
+12,Hot chocolate,138
+12,Sandwich,129
+12,Pastry,129
+12,Farm House,76
+12,Scone,69
+12,Cookies,68
+12,Toast,65
+12,Fudge,60
+12,Juice,55
+12,Jam,49
+12,Alfajores,45
+12,Muffin,42
+12,Brownie,37
+12,Coke,34
+12,Scandinavian,34
+12,Vegan mincepie,33
+12,Truffles,27
+12,Frittata,26
+12,Mineral water,20
+12,Jammie Dodgers,18
+12,Focaccia,11
+12,The Nomad,10
+12,Hearty & Seasonal,10
+12,Smoothies,9
+12,Bakewell,8
+12,Crisps,6
+12,Pintxos,6
+12,Gingerbread syrup,6
+12,Dulce de Leche,6
+12,Art Tray,6
+12,Muesli,6
+12,Crepes,6
+12,Panatone,5
+12,Ella's Kitchen Pouches,4
+12,Lemon and coconut,3
+12,Bare Popcorn,3
+12,Tartine,2
+12,Keeping It Local,2
+12,Brioche and salami,1
+12,Spread,1
+1,Coffee,892
+1,Bread,552
+1,Tea,260
+1,Cake,194
+1,Sandwich,128
+1,Pastry,113
+1,Hot chocolate,111
+1,Medialuna,105
+1,Cookies,100
+1,Toast,79
+1,Scone,77
+1,Muffin,61
+1,Farm House,60
+1,Juice,58
+1,Brownie,44
+1,Soup,44
+1,Scandinavian,44
+1,Alfajores,39
+1,Tiffin,36
+1,Jammie Dodgers,35
+1,Frittata,32
+1,Truffles,30
+1,Coke,24
+1,Spanish Brunch,22
+1,Chicken Stew,21
+1,Baguette,20
+1,Salad,17
+1,The Nomad,15
+1,Afternoon with the baker,15
+1,Hearty & Seasonal,14
+1,Focaccia,13
+1,Vegan mincepie,13
+1,Smoothies,11
+1,Fudge,11
+1,Bakewell,10
+1,Granola,9
+1,Extra Salami or Feta,8
+1,Jam,8
+1,Mineral water,6
+1,Art Tray,5
+1,Eggs,4
+1,Crisps,3
+1,Raspberry shortbread sandwich,3
+1,Duck egg,2
+1,Gingerbread syrup,2
+1,Ella's Kitchen Pouches,2
+1,Muesli,2
+1,Valentine's card,1
+1,Brioche and salami,1
+2,Coffee,1004
+2,Bread,620
+2,Tea,267
+2,Cake,255
+2,Sandwich,168
+2,Pastry,151
+2,Cookies,119
+2,Hot chocolate,112
+2,Alfajores,112
+2,Medialuna,88
+2,Soup,88
+2,Scone,78
+2,Brownie,78
+2,Juice,75
+2,Toast,72
+2,Baguette,60
+2,Farm House,56
+2,Spanish Brunch,54
+2,Chicken Stew,48
+2,Scandinavian,38
+2,Truffles,37
+2,Coke,33
+2,Tiffin,26
+2,Jammie Dodgers,22
+2,Mineral water,21
+2,Muffin,21
+2,Tshirt,21
+2,Fudge,20
+2,Salad,20
+2,Eggs,14
+2,Jam,13
+2,Afternoon with the baker,13
+2,Extra Salami or Feta,13
+2,Valentine's card,12
+2,Smoothies,12
+2,The Nomad,12
+2,Postcard,10
+2,Nomad bag,7
+2,Chocolates,7
+2,Vegan mincepie,5
+2,Granola,5
+2,Art Tray,5
+2,Duck egg,4
+2,Vegan Feast,3
+2,Bare Popcorn,2
+2,Coffee granules ,1
+2,Crisps,1
+2,Gingerbread syrup,1
+2,Bakewell,1
+2,Focaccia,1
+3,Coffee,1071
+3,Bread,588
+3,Tea,258
+3,Cake,241
+3,Pastry,185
+3,Sandwich,183
+3,Cookies,117
+3,Hot chocolate,93
+3,Juice,90
+3,Scone,86
+3,Soup,84
+3,Toast,80
+3,Spanish Brunch,79
+3,Muffin,71
+3,Baguette,61
+3,Tiffin,57
+3,Brownie,55
+3,Medialuna,50
+3,Salad,48
+3,Truffles,48
+3,Chicken Stew,46
+3,Coke,45
+3,Farm House,41
+3,Jammie Dodgers,33
+3,Mineral water,32
+3,Scandinavian,27
+3,Smoothies,24
+3,Bakewell,19
+3,Jam,18
+3,Afternoon with the baker,14
+3,The Nomad,10
+3,Extra Salami or Feta,9
+3,Alfajores,8
+3,Christmas common,7
+3,Granola,7
+3,Vegan Feast,6
+3,Drinking chocolate spoons ,6
+3,Fudge,6
+3,Duck egg,6
+3,Eggs,5
+3,Half slice Monster ,5
+3,Mortimer,5
+3,Coffee granules ,4
+3,Art Tray,3
+3,Vegan mincepie,3
+3,Chocolates,2
+3,Cherry me Dried fruit,2
+3,Argentina Night,2
+3,Gift voucher,1
+3,Crisps,1
+3,Nomad bag,1
+3,Raw bars,1
+4,Coffee,290
+4,Bread,175
+4,Tea,73
+4,Cake,72
+4,Sandwich,57
+4,Pastry,41
+4,Cookies,38
+4,Juice,36
+4,Alfajores,24
+4,Toast,22
+4,Truffles,22
+4,Tiffin,20
+4,Soup,20
+4,Muffin,19
+4,Coke,19
+4,Scone,17
+4,Spanish Brunch,17
+4,Farm House,17
+4,Salad,14
+4,Scandinavian,13
+4,Hot chocolate,13
+4,Baguette,11
+4,Brownie,11
+4,Mineral water,11
+4,Tacos/Fajita,11
+4,Medialuna,11
+4,The Nomad,8
+4,Chicken Stew,8
+4,Extra Salami or Feta,8
+4,Smoothies,8
+4,Vegan Feast,7
+4,Jammie Dodgers,6
+4,Honey,5
+4,Argentina Night,5
+4,Christmas common,4
+4,Granola,4
+4,Crisps,3
+4,Eggs,2
+4,Jam,2
+4,Drinking chocolate spoons ,2
+4,Afternoon with the baker,2
+4,Coffee granules ,2
+4,My-5 Fruit Shoot,1
+4,Half slice Monster ,1
+4,Fudge,1
+4,Cherry me Dried fruit,1
+4,Art Tray,1
+4,Brioche and salami,1
+4,Chocolates,1
