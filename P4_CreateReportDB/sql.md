@@ -150,13 +150,141 @@ DESC;
 supplier_avg_units.csv
 
 ## 产品
-### 1. 哪些产品需求量最大
+### 1. 产品需求量排前10名的有哪些
+```SQL
+SELECT p.ProductName, COUNT(*) AS ProductNum
+FROM Orders o
+JOIN OrderDetails od
+ON o.OrderId = od.OrderID
+JOIN Products p
+ON od.ProductID = p.ProductID
+GROUP BY p.ProductName
+ORDER BY ProductNum 
+DESC 
+LIMIT 10;
+```
+top_products.csv
+
 ### 2. 哪些产品的销售额在增长
-### 3.
-### 4.
+```SQL
+SELECT p.ProductName, STRFTIME('%Y-%m', o.OrderDate) AS OrderMonth, SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalSales
+FROM Products p
+JOIN OrderDetails od
+ON p.ProductID = od.ProductID
+JOIN Orders o
+ON od.OrderID = o.OrderId
+GROUP BY 1, 2
+ORDER BY 1, 2
+```
+order_date_sum.csv
+
+### 3. 需求量排前10名的产品分别有多少供应商供货
+```SQL
+WIth TopProducts AS (SELECT ProductID FROM (SELECT p.ProductID, COUNT(*) AS ProductNum
+FROM Orders o
+JOIN OrderDetails od
+ON o.OrderId = od.OrderID
+JOIN Products p
+ON od.ProductID = p.ProductID
+GROUP BY p.ProductID
+ORDER BY ProductNum 
+DESC 
+LIMIT 10) sub)
+
+SELECT p.ProductName, COUNT(*) AS SupplierNum
+FROM Products p
+JOIN Suppliers s
+ON p.SupplierID = s.SupplierID
+JOIN TopProducts t
+ON t.ProductID = p.ProductID
+GROUP BY p.ProductName
+ORDER BY SupplierNum;
+```
+top_products_supplier.csv
+### 4. 每种类型有多少个产品
+```SQL
+SELECT c.CategoryName, COUNT(*) AS ProductNum
+FROM Categories c
+JOIN Products p
+ON c.CategoryID = p.CategoryID
+GROUP BY 1
+ORDER BY 2 DESC;
+```
+category_count.csv
 
 ## 雇员
-### 1.
-### 2.
-### 3.
-### 4.
+### 1. 业绩最好的雇员姓名以及他的销售额
+```SQL
+SELECT PRINTF('%s %s', e.FirstName, e.LastName) AS Name, SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalSales 
+FROM Employees e
+JOIN Orders o
+ON o.EmployeeID = e.EmployeeID
+JOIN OrderDetails od
+ON od.OrderID = o.OrderId
+GROUP BY 1
+ORDER BY 2
+DESC
+LIMIT 1;
+```
+top_employee.csv
+
+### 2. 业绩最好的雇员来自哪个国家
+```SQL
+SELECT EmployeeID, PRINTF('%s %s', FirstName, LastName) AS Name, Country
+FROM Employees
+WHERE EmployeeID = (SELECT EmployeeID FROM (SELECT e.EmployeeID, SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalSales 
+FROM Employees e
+JOIN Orders o
+ON o.EmployeeID = e.EmployeeID
+JOIN OrderDetails od
+ON od.OrderID = o.OrderId
+GROUP BY 1
+ORDER BY 2
+DESC
+LIMIT 1) t1)
+```
+top_employee_country.csv
+
+### 3. 业绩最好的雇员销售哪些种类产品
+```SQL
+SELECT c.CategoryName, COUNT(*) AS ProductNum
+FROM Categories c
+JOIN Products p
+ON c.CategoryID = p.CategoryID
+JOIN OrderDetails od
+ON od.ProductID = p.ProductID
+JOIN Orders o
+ON o.OrderId = od.OrderID
+WHERE o.EmployeeID = (SELECT EmployeeID FROM (SELECT e.EmployeeID, SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalSales 
+FROM Employees e
+JOIN Orders o
+ON o.EmployeeID = e.EmployeeID
+JOIN OrderDetails od
+ON od.OrderID = o.OrderId
+GROUP BY 1
+ORDER BY 2
+DESC
+LIMIT 1) t1)
+GROUP BY 1
+ORDER BY 2 
+DESC
+```
+top_employee_category_count.csv
+### 4. 业绩最好的雇员服务了哪些客户公司
+```SQL
+SELECT DISTINCT(c.CompanyName)
+FROM Customers c
+JOIN Orders o
+ON c.CustomerID = o.CustomerID
+WHERE o.EmployeeID = (SELECT EmployeeID FROM (SELECT e.EmployeeID, SUM(od.UnitPrice * od.Quantity * (1 - od.Discount)) AS TotalSales 
+FROM Employees e
+JOIN Orders o
+ON o.EmployeeID = e.EmployeeID
+JOIN OrderDetails od
+ON od.OrderID = o.OrderId
+GROUP BY 1
+ORDER BY 2
+DESC
+LIMIT 1) t1)
+ORDER BY 1
+```
