@@ -1,50 +1,32 @@
-CompanyName,CategoryName,avg_units_order
-Plutzer Lebensmittelgroï¿½mï¿½rkte AG,Grains/Cereals,80.0
-Exotic Liquids,Condiments,70.0
-Formaggi Fortini s.r.l.,Dairy Products,36.6666666666667
-Lyngbysild,Seafood,35.0
-Zaanse Snoepfabriek,Confections,35.0
-Karkki Oy,Confections,30.0
-New Orleans Cajun Delights,Condiments,25.0
-Exotic Liquids,Beverages,20.0
-Tokyo Traders,Produce,20.0
-Svensk Sjï¿½fï¿½da AB,Seafood,16.6666666666667
-Cooperativa de Quesos 'Las Cabras',Dairy Products,15.0
-"Specialty Biscuits, Ltd.",Confections,12.5
-Leka Trading,Beverages,10.0
-"Pavlova, Ltd.",Beverages,10.0
-Pasta Buttini s.r.l.,Grains/Cereals,5.0
-Aux joyeux ecclï¿½siastiques,Beverages,0.0
-Bigfoot Breweries,Beverages,0.0
-Escargots Nouveaux,Seafood,0.0
-Forï¿½ts d'ï¿½rables,Condiments,0.0
-Forï¿½ts d'ï¿½rables,Confections,0.0
-"G'day, Mate",Grains/Cereals,0.0
-"G'day, Mate",Meat/Poultry,0.0
-"G'day, Mate",Produce,0.0
-Gai pï¿½turage,Dairy Products,0.0
-Grandma Kelly's Homestead,Condiments,0.0
-Grandma Kelly's Homestead,Produce,0.0
-Heli Sï¿½ï¿½waren GmbH & Co. KG,Confections,0.0
-Karkki Oy,Beverages,0.0
-Leka Trading,Condiments,0.0
-Leka Trading,Grains/Cereals,0.0
-Ma Maison,Meat/Poultry,0.0
-Mayumi's,Condiments,0.0
-Mayumi's,Produce,0.0
-Mayumi's,Seafood,0.0
-New England Seafood Cannery,Seafood,0.0
-Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,0.0
-Norske Meierier,Dairy Products,0.0
-PB Knï¿½ckebrï¿½d AB,Grains/Cereals,0.0
-"Pavlova, Ltd.",Condiments,0.0
-"Pavlova, Ltd.",Confections,0.0
-"Pavlova, Ltd.",Meat/Poultry,0.0
-"Pavlova, Ltd.",Seafood,0.0
-Plutzer Lebensmittelgroï¿½mï¿½rkte AG,Beverages,0.0
-Plutzer Lebensmittelgroï¿½mï¿½rkte AG,Condiments,0.0
-Plutzer Lebensmittelgroï¿½mï¿½rkte AG,Meat/Poultry,0.0
-Plutzer Lebensmittelgroï¿½mï¿½rkte AG,Produce,0.0
-Refrescos Americanas LTDA,Beverages,0.0
-Tokyo Traders,Meat/Poultry,0.0
-Tokyo Traders,Seafood,0.0
+ÇóºÍÏî:avg_units_order,ÁÐ±êÇ©,,,,,,,,
+ÐÐ±êÇ©,Beverages,Condiments,Confections,Dairy Products,Grains/Cereals,Meat/Poultry,Produce,Seafood,×Ü¼Æ
+Aux joyeux ecclï¿½siastiques,0,,,,,,,,0
+Bigfoot Breweries,0,,,,,,,,0
+Cooperativa de Quesos 'Las Cabras',,,,15,,,,,15
+Escargots Nouveaux,,,,,,,,0,0
+Exotic Liquids,20,70,,,,,,,90
+Formaggi Fortini s.r.l.,,,,36.66666667,,,,,36.66666667
+Forï¿½ts d'ï¿½rables,,0,0,,,,,,0
+Gai pï¿½turage,,,,0,,,,,0
+"G'day, Mate",,,,,0,0,0,,0
+Grandma Kelly's Homestead,,0,,,,,0,,0
+Heli Sï¿½ï¿½waren GmbH & Co. KG,,,0,,,,,,0
+Karkki Oy,0,,30,,,,,,30
+Leka Trading,10,0,,,0,,,,10
+Lyngbysild,,,,,,,,35,35
+Ma Maison,,,,,,0,,,0
+Mayumi's,,0,,,,,0,0,0
+New England Seafood Cannery,,,,,,,,0,0
+New Orleans Cajun Delights,,25,,,,,,,25
+Nord-Ost-Fisch Handelsgesellschaft mbH,,,,,,,,0,0
+Norske Meierier,,,,0,,,,,0
+Pasta Buttini s.r.l.,,,,,5,,,,5
+"Pavlova, Ltd.",10,0,0,,,0,,0,10
+PB Knï¿½ckebrï¿½d AB,,,,,0,,,,0
+Plutzer Lebensmittelgroï¿½mï¿½rkte AG,0,0,,,80,0,0,,80
+Refrescos Americanas LTDA,0,,,,,,,,0
+"Specialty Biscuits, Ltd.",,,12.5,,,,,,12.5
+Svensk Sjï¿½fï¿½da AB,,,,,,,,16.66666667,16.66666667
+Tokyo Traders,,,,,,0,20,0,20
+Zaanse Snoepfabriek,,,35,,,,,,35
+×Ü¼Æ,40,95,77.5,51.66666667,85,0,20,51.66666667,420.8333333

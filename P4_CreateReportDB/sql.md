@@ -147,7 +147,7 @@ GROUP BY 1, 2
 ORDER BY 3 
 DESC;
 ```
-supplier_avg_units.csv
+supplier_avg_units.xlsx
 
 ## 产品
 ### 1. 产品需求量排前10名的有哪些
@@ -163,7 +163,7 @@ ORDER BY ProductNum
 DESC 
 LIMIT 10;
 ```
-top_products.csv
+top_products.xlsx
 
 ### 2. 哪些产品的销售额在增长
 ```SQL
@@ -176,7 +176,7 @@ ON od.OrderID = o.OrderId
 GROUP BY 1, 2
 ORDER BY 1, 2
 ```
-order_date_sum.csv
+order_date_sum.xlsx
 
 ### 3. 需求量排前10名的产品分别有多少供应商供货
 ```SQL
