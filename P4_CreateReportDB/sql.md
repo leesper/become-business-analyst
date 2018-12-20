@@ -11,7 +11,7 @@ HAVING COUNT(o.ShipCountry) > 10
 ORDER BY ShipCountryNum
 DESC;
 ```
-customer_by_ship_country.csv
+customer_by_ship_country.xlsx
 
 ### 2. 采购金额最大的前10名客户公司名称和订单总金额
 ```SQL
@@ -26,7 +26,7 @@ ORDER BY TOTAL_COST
 DESC
 LIMIT 10
 ```
-top_customers.csv
+top_customers.xlsx
 
 ### 3. 采购金额最大的前10名客户公司采购了哪些产品种类，以及每个产品种类的采购额
 ```SQL
@@ -59,7 +59,7 @@ GROUP BY CompanyName, CategoryName
 ORDER BY CompanyName, TotalCost 
 DESC;
 ```
-top_customer_categories.csv
+top_customer_categories.xlsx
 
 ### 4. 哪些客户公司负责处理订单的雇员超过15个人
 ```SQL
@@ -74,7 +74,7 @@ HAVING COUNT(e.EmployeeID) > 15
 ORDER BY EmployeesNum
 DESC;
 ```
-order_employees.csv
+order_employees.xlsx
 
 ## 供应商
 ### 1. 供应商提供的产品种类数量
@@ -87,7 +87,7 @@ GROUP BY s.CompanyName
 ORDER BY CategoryNum
 DESC;
 ```
-supplier_categories.csv
+supplier_categories.xlsx
 
 ### 2. 贡献最大的10大供应商公司名及其订单总金额
 ```SQL
@@ -102,7 +102,7 @@ ORDER BY TotalCost
 DESC
 LIMIT 10;
 ```
-top_suppliers.csv
+top_suppliers.xlsx
 
 ### 3. 贡献最大的10大供应商供应了哪些产品种类，以及每个产品种类订单总金额
 ```SQL
@@ -133,18 +133,18 @@ GROUP BY CompanyName, CategoryName
 ORDER BY CompanyName, TotalCost 
 DESC;
 ```
-top_suppliers_categories.csv
+top_suppliers_categories.xlsx
 
-### 4. 供应商每种产品种类的平均仓储量和平均预订量是多少
+### 4. 供应商每种产品种类的平均预订量是多少
 ```SQL
-SELECT s.CompanyName, c.CategoryName, AVG(UnitsInStock) AS avg_units_stock, AVG(UnitsOnOrder) AS avg_units_order
+SELECT s.CompanyName, c.CategoryName, AVG(UnitsOnOrder) AS avg_units_order
 FROM Suppliers s
 JOIN Products p
 ON s.SupplierID = p.SupplierID
 JOIN Categories c
 ON p.CategoryID = c.CategoryID
 GROUP BY 1, 2
-ORDER BY 4 
+ORDER BY 3 
 DESC;
 ```
 supplier_avg_units.csv
