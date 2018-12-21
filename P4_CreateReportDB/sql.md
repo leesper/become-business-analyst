@@ -200,7 +200,8 @@ ON t.ProductID = p.ProductID
 GROUP BY p.ProductName
 ORDER BY SupplierNum;
 ```
-top_products_supplier.csv
+top_products_supplier.xlsx
+
 ### 4. 每种类型有多少个产品
 ```SQL
 SELECT c.CategoryName, COUNT(*) AS ProductNum
@@ -210,7 +211,7 @@ ON c.CategoryID = p.CategoryID
 GROUP BY 1
 ORDER BY 2 DESC;
 ```
-category_count.csv
+category_count.xlsx
 
 ## 雇员
 ### 1. 业绩最好的雇员姓名以及他的销售额
@@ -226,7 +227,7 @@ ORDER BY 2
 DESC
 LIMIT 1;
 ```
-top_employee.csv
+top_employee.xlsx
 
 ### 2. 业绩最好的雇员来自哪个国家
 ```SQL
@@ -243,7 +244,7 @@ ORDER BY 2
 DESC
 LIMIT 1) t1)
 ```
-top_employee_country.csv
+top_employee_country.xlsx
 
 ### 3. 业绩最好的雇员销售哪些种类产品
 ```SQL
@@ -269,7 +270,8 @@ GROUP BY 1
 ORDER BY 2 
 DESC
 ```
-top_employee_category_count.csv
+top_employee_category_count.xlsx
+
 ### 4. 业绩最好的雇员服务了哪些客户公司
 ```SQL
 SELECT DISTINCT(c.CompanyName)
